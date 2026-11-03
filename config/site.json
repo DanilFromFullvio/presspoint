@@ -1,0 +1,243 @@
+{
+  "site": {
+    "name": "PressPoint",
+    "domain": "presspoint.sk",
+    "url": "https://presspoint.sk",
+    "tagline": "Správy zo Slovenska a sveta na jednom mieste",
+    "description": "PressPoint je spravodajský prehľad, ktorý sa každých pár minút automaticky plní najnovšími článkami slovenských médií z Google News – marketing, ekonomika, šport, politika a rybárstvo.",
+    "lang": "sk",
+    "locale": "sk-SK",
+    "timezone": "Europe/Bratislava",
+    "contactEmail": "redakcia@presspoint.sk"
+  },
+  "googleNews": {
+    "hl": "sk",
+    "gl": "SK",
+    "ceid": "SK:sk"
+  },
+  "refreshMinutes": 20,
+  "retentionDays": 14,
+  "maxArchiveItems": 6000,
+  "home": {
+    "perCategory": 6,
+    "latest": 24
+  },
+  "categoryPage": {
+    "maxItems": 150
+  },
+  "fetch": {
+    "timeoutMs": 15000,
+    "concurrency": 5,
+    "userAgent": "Mozilla/5.0 (compatible; PressPointBot/1.0; +https://presspoint.sk)",
+    "perFeedLimit": 80,
+    "perHostDelayMs": 2500
+  },
+  "categories": [
+    {
+      "slug": "marketing",
+      "name": "Marketing",
+      "color": "#7c3aed",
+      "description": "Reklama, značky, médiá, kampane a digitálny marketing.",
+      "feeds": [
+        {
+          "type": "search",
+          "q": "site:strategie.hnonline.sk when:7d"
+        },
+        {
+          "type": "search",
+          "q": "site:medialne.trend.sk when:14d"
+        },
+        {
+          "type": "search",
+          "q": "marketing when:3d"
+        },
+        {
+          "type": "search",
+          "q": "reklama OR \"reklamná kampaň\" OR reklamná agentúra when:3d"
+        },
+        {
+          "type": "search",
+          "q": "branding OR značka OR \"influencer marketing\" when:5d"
+        },
+        {
+          "type": "search",
+          "q": "\"sociálne siete\" OR \"digitálny marketing\" OR \"online marketing\" when:5d"
+        },
+        {
+          "type": "search",
+          "q": "marketingová agentúra OR \"PR agentúra\" OR mediálna agentúra when:7d"
+        }
+      ]
+    },
+    {
+      "slug": "ekonomika",
+      "name": "Ekonomika",
+      "color": "#0f8a5f",
+      "description": "Hospodárstvo, financie, firmy, trh práce a ceny.",
+      "feeds": [
+        {
+          "type": "topic",
+          "id": "BUSINESS"
+        },
+        {
+          "type": "search",
+          "q": "ekonomika Slovensko when:2d"
+        },
+        {
+          "type": "search",
+          "q": "inflácia OR HDP OR NBS OR ECB OR \"štátny rozpočet\" when:3d"
+        },
+        {
+          "type": "search",
+          "q": "firmy OR investícia OR prepúšťanie OR mzdy when:2d"
+        },
+        {
+          "type": "rss",
+          "url": "https://ekonomika.sme.sk/rss",
+          "name": "SME Ekonomika"
+        },
+        {
+          "type": "rss",
+          "url": "https://www.teraz.sk/rss/ekonomika.rss",
+          "name": "TERAZ.sk"
+        },
+        {
+          "type": "rss",
+          "url": "https://hnonline.sk/rss",
+          "name": "HNonline",
+          "categoryFilter": "ekonomika"
+        },
+        {
+          "type": "rss",
+          "url": "https://spravy.pravda.sk/rss/xml/",
+          "name": "Pravda",
+          "categoryFilter": "^Ekonomika$"
+        },
+        {
+          "type": "rss",
+          "url": "https://dennikn.sk/feed/",
+          "name": "Denník N",
+          "categoryFilter": "^Ekonomika$"
+        }
+      ]
+    },
+    {
+      "slug": "sport",
+      "name": "Šport",
+      "color": "#e67e22",
+      "description": "Futbal, hokej, tenis, motorizmus a slovenskí športovci vo svete.",
+      "feeds": [
+        {
+          "type": "topic",
+          "id": "SPORTS"
+        },
+        {
+          "type": "search",
+          "q": "šport Slovensko when:2d"
+        },
+        {
+          "type": "search",
+          "q": "hokej OR futbal OR tenis Slovensko when:2d"
+        },
+        {
+          "type": "rss",
+          "url": "https://sport.sme.sk/rss",
+          "name": "SME Šport"
+        },
+        {
+          "type": "rss",
+          "url": "https://www.teraz.sk/rss/sport.rss",
+          "name": "TERAZ.sk"
+        },
+        {
+          "type": "rss",
+          "url": "https://hnonline.sk/rss",
+          "name": "HNonline",
+          "categoryFilter": "^Šport$"
+        }
+      ],
+      "exclude": "horoskop"
+    },
+    {
+      "slug": "politika",
+      "name": "Politika",
+      "color": "#c0392b",
+      "description": "Vláda, parlament, strany, voľby a zahraničná politika.",
+      "feeds": [
+        {
+          "type": "topic",
+          "id": "NATION"
+        },
+        {
+          "type": "search",
+          "q": "politika when:2d"
+        },
+        {
+          "type": "search",
+          "q": "vláda OR parlament OR koalícia OR opozícia when:2d"
+        },
+        {
+          "type": "search",
+          "q": "premiér OR prezident OR minister Slovensko when:2d"
+        },
+        {
+          "type": "rss",
+          "url": "https://domov.sme.sk/rss",
+          "name": "SME Domov"
+        },
+        {
+          "type": "rss",
+          "url": "https://www.teraz.sk/rss/slovensko.rss",
+          "name": "TERAZ.sk"
+        },
+        {
+          "type": "rss",
+          "url": "https://hnonline.sk/rss",
+          "name": "HNonline",
+          "categoryFilter": "^Slovensko$"
+        },
+        {
+          "type": "rss",
+          "url": "https://spravy.pravda.sk/rss/xml/",
+          "name": "Pravda",
+          "categoryFilter": "^Domáce$"
+        },
+        {
+          "type": "rss",
+          "url": "https://dennikn.sk/feed/",
+          "name": "Denník N",
+          "categoryFilter": "^(Slovensko|Politika)$"
+        }
+      ]
+    },
+    {
+      "slug": "ryba",
+      "name": "Ryba",
+      "color": "#2471a3",
+      "description": "Rybárstvo, rybolov, rybári, vody a všetko okolo rýb.",
+      "feeds": [
+        {
+          "type": "search",
+          "q": "rybári OR rybolov OR rybárstvo when:14d"
+        },
+        {
+          "type": "search",
+          "q": "ryby OR rybník OR \"Slovenský rybársky zväz\" when:14d"
+        },
+        {
+          "type": "search",
+          "q": "kapor OR pstruh OR sumec OR šťuka OR zubáč when:14d"
+        },
+        {
+          "type": "search",
+          "q": "akvakultúra OR \"chov rýb\" OR rybárske preteky when:30d"
+        },
+        {
+          "type": "search",
+          "q": "site:srzrada.sk when:30d"
+        }
+      ],
+      "exclude": "horoskop|znamen(ie|í|ia)|zverokruh|astrol"
+    }
+  ]
+}

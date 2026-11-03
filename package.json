@@ -1,0 +1,17 @@
+{
+  "name": "presspoint",
+  "version": "1.0.0",
+  "description": "PressPoint – slovenský spravodajský agregátor, ktorý sa sám plní z Google News a RSS slovenských médií",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "fetch": "node src/fetch.js",
+    "render": "node src/render.js",
+    "build": "node src/build.js",
+    "serve": "node src/serve.js",
+    "start": "node src/serve.js",
+    "dev": "node src/serve.js --port 8080"
+  },
+  "license": "MIT"
+}
