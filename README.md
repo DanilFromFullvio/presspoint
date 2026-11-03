@@ -76,7 +76,12 @@ Web sa plní troma spôsobmi, vyberte si podľa hostingu:
 1. Vytvorte repozitár na GitHube a pushnite tento adresár (`main`).
 2. *Settings → Pages → Source: GitHub Actions*.
 3. Workflow spustite ručne (*Actions → Build & deploy PressPoint → Run workflow*) alebo počkajte na cron.
-4. Doména: *Settings → Pages → Custom domain* = `presspoint.sk` (súbor `CNAME` sa generuje automaticky).
+4. Kým web beží na adrese `https://<používateľ>.github.io/<repozitár>/`, workflow nastavuje premennú `SITE_URL`
+   na túto adresu – web sa vygeneruje pre podpriečinok a súbor `CNAME` sa negeneruje.
+5. Doména: po jej získaní zmažte `SITE_URL` z workflow, nastavte *Settings → Pages → Custom domain* = `presspoint.sk`
+   (súbor `CNAME` sa potom generuje automaticky, lebo doména v `config/site.json` sa zhoduje s adresou webu).
+
+Aktuálne nasadenie: https://danilfromfullvio.github.io/presspoint/
 
 ### B) Vlastný server / Docker
 ```bash
