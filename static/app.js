@@ -33,6 +33,7 @@
 
   /* --- tmavý režim --- */
   const root = document.documentElement;
+  const BASE = root.dataset.base || "";
   $("[data-theme-toggle]")?.addEventListener("click", () => {
     const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
     root.dataset.theme = dark ? "light" : "dark";
@@ -44,7 +45,7 @@
   const toast = $("#toast");
   async function check() {
     try {
-      const r = await fetch("/data/meta.json", { cache: "no-store" });
+      const r = await fetch(`${BASE}/data/meta.json`, { cache: "no-store" });
       const m = await r.json();
       if (m.updatedAt && built && m.updatedAt !== built) { toast.hidden = false; requestAnimationFrame(() => (toast.dataset.show = "1")); }
     } catch {}
@@ -72,7 +73,7 @@
     status.textContent = words.length ? `${list.length} výsledkov pre „${input.value.trim()}“` : `Najnovších ${list.length} z ${total} článkov. Zadajte hľadaný výraz.`;
     results.innerHTML = list.map((it) => {
       const c = cats.find((c) => it.categories.includes(c.slug));
-      return `<li class="row" style="--cat:${c ? c.color : "#999"}"><span class="row__time"><time datetime="${esc(it.publishedAt)}" data-rel>${esc(rel(it.publishedAt))}</time></span><div><h3 class="row__title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>${it.summary ? `<p class="row__summary">${esc(it.summary)}</p>` : ""}<div class="meta">${c ? `<a class="chip" href="/${c.slug}/">${esc(c.name)}</a>` : ""}<span class="src"><img class="fav" src="https://www.google.com/s2/favicons?domain=${esc(it.source.domain)}&amp;sz=64" alt="" width="16" height="16" loading="lazy" referrerpolicy="no-referrer"><span>${esc(it.source.name)}</span></span></div></div></li>`;
+      return `<li class="row" style="--cat:${c ? c.color : "#999"}"><span class="row__time"><time datetime="${esc(it.publishedAt)}" data-rel>${esc(rel(it.publishedAt))}</time></span><div><h3 class="row__title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>${it.summary ? `<p class="row__summary">${esc(it.summary)}</p>` : ""}<div class="meta">${c ? `<a class="chip" href="${BASE}/${c.slug}/">${esc(c.name)}</a>` : ""}<span class="src"><img class="fav" src="https://www.google.com/s2/favicons?domain=${esc(it.source.domain)}&amp;sz=64" alt="" width="16" height="16" loading="lazy" referrerpolicy="no-referrer"><span>${esc(it.source.name)}</span></span></div></div></li>`;
     }).join("") || `<li class="empty">Nič sme nenašli. Skúste kratší alebo iný výraz.</li>`;
     const u = new URL(location.href);
     input.value.trim() ? u.searchParams.set("q", input.value.trim()) : u.searchParams.delete("q");
@@ -82,7 +83,7 @@
   let timer; input.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(run, 120); });
   app.querySelector("form").addEventListener("submit", (e) => { e.preventDefault(); run(); });
   chips.forEach((b) => b.addEventListener("click", () => { cat = b.dataset.cat; chips.forEach((x) => x.setAttribute("aria-pressed", String(x === b))); run(); }));
-  fetch("/data/latest.json").then((r) => r.json()).then((d) => {
+  fetch(`${BASE}/data/latest.json`).then((r) => r.json()).then((d) => {
     items = d.items.map((it) => ({ ...it, _t: fold(`${it.title} ${it.summary} ${it.source.name}`) }));
     run();
   }).catch(() => { status.textContent = "Správy sa nepodarilo načítať."; });

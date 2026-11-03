@@ -46,7 +46,7 @@ const img = (it, sizes = "(max-width: 820px) 100vw, 40vw") => it.image ? `<img s
 function chip(it, cats, showCat) {
   if (!showCat) return "";
   const c = cats.find((c) => it.categories.includes(c.slug));
-  return c ? `<a class="chip" href="/${c.slug}/" style="--cat:${c.color}">${h(c.name)}</a>` : "";
+  return c ? `<a class="chip" href="${B}/${c.slug}/" style="--cat:${c.color}">${h(c.name)}</a>` : "";
 }
 
 function card(it, { variant = "std", cats, showCat = false, withImage = true, color } = {}) {
@@ -81,14 +81,16 @@ const ICON_SEARCH = `<svg viewBox="0 0 24 24" width="18" height="18" fill="none"
 const ICON_THEME = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>`;
 const ICON_RSS = `<svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><circle cx="5" cy="19" r="2"/><path d="M3 9a12 12 0 0 1 12 12h-3a9 9 0 0 0-9-9zM3 3a18 18 0 0 1 18 18h-3A15 15 0 0 0 3 6z"/></svg>`;
 
+let B = ""; // základná cesta webu ("" alebo napr. "/presspoint")
+
 function layout(ctx, page) {
   const { site, categories, T, updatedAt } = ctx;
   const url = site.url + page.path;
   const title = page.path === "/" ? `${site.name} – ${site.tagline}` : `${page.title} | ${site.name}`;
   const desc = page.description || site.description;
-  const navItems = categories.map((c) => `<a href="/${c.slug}/" style="--cat:${c.color}"${page.active === c.slug ? ' aria-current="page"' : ""}><span class="nav__dot"></span>${h(c.name)}</a>`).join("");
+  const navItems = categories.map((c) => `<a href="${B}/${c.slug}/" style="--cat:${c.color}"${page.active === c.slug ? ' aria-current="page"' : ""}><span class="nav__dot"></span>${h(c.name)}</a>`).join("");
   return `<!doctype html>
-<html lang="${site.lang}" data-updated="${h(updatedAt)}">
+<html lang="${site.lang}" data-updated="${h(updatedAt)}" data-base="${h(B)}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -104,14 +106,14 @@ function layout(ctx, page) {
 <meta property="og:url" content="${h(url)}">
 ${page.image ? `<meta property="og:image" content="${h(page.image)}">` : ""}
 <meta name="twitter:card" content="${page.image ? "summary_large_image" : "summary"}">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
-<link rel="manifest" href="/manifest.webmanifest">
-<link rel="alternate" type="application/rss+xml" title="${h(site.name)} – všetky správy" href="/feed.xml">
-${page.feed ? `<link rel="alternate" type="application/rss+xml" title="${h(site.name)} – ${h(page.title)}" href="${h(page.feed)}">` : ""}
+<link rel="icon" href="${B}/assets/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="${B}/manifest.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="${h(site.name)} – všetky správy" href="${B}/feed.xml">
+${page.feed ? `<link rel="alternate" type="application/rss+xml" title="${h(site.name)} – ${h(page.title)}" href="${B}${h(page.feed)}">` : ""}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&display=swap">
-<link rel="stylesheet" href="/assets/style.css?v=${h(ctx.buildId)}">
+<link rel="stylesheet" href="${B}/assets/style.css?v=${h(ctx.buildId)}">
 <script>try{var t=localStorage.getItem("pp-theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
 ${page.jsonLd ? `<script type="application/ld+json">${JSON.stringify(page.jsonLd)}</script>` : ""}
 </head>
@@ -121,18 +123,18 @@ ${page.jsonLd ? `<script type="application/ld+json">${JSON.stringify(page.jsonLd
   <span>${h(T.full(T.now))}</span>
   <div class="topbar__right">
     <span class="live hide-sm" title="Web sa automaticky obnovuje každých ${ctx.refreshMinutes} minút">Aktualizované ${h(T.rel(new Date(updatedAt)))}</span>
-    <a href="/o-nas/">O nás</a>
-    <a href="/zdroje/" class="hide-sm">Zdroje</a>
-    <a href="/feed.xml" class="hide-sm" title="RSS">RSS</a>
+    <a href="${B}/o-nas/">O nás</a>
+    <a href="${B}/zdroje/" class="hide-sm">Zdroje</a>
+    <a href="${B}/feed.xml" class="hide-sm" title="RSS">RSS</a>
   </div>
 </div></div>
 <header class="masthead"><div class="wrap">
   <div>
-    <a class="logo" href="/" aria-label="${h(site.name)} – domov">Press<span class="logo__point">Point</span><span class="logo__dot" aria-hidden="true"></span></a>
+    <a class="logo" href="${B}/" aria-label="${h(site.name)} – domov">Press<span class="logo__point">Point</span><span class="logo__dot" aria-hidden="true"></span></a>
     <p class="masthead__tagline">${h(site.tagline)}</p>
   </div>
   <div class="masthead__tools">
-    <form class="search" role="search" action="/hladat/" method="get">
+    <form class="search" role="search" action="${B}/hladat/" method="get">
       <input type="search" name="q" placeholder="Hľadať v správach…" aria-label="Hľadať v správach" autocomplete="off">
       <button type="submit" aria-label="Hľadať">${ICON_SEARCH}</button>
     </form>
@@ -140,11 +142,11 @@ ${page.jsonLd ? `<script type="application/ld+json">${JSON.stringify(page.jsonLd
   </div>
 </div></header>
 <nav class="nav" aria-label="Rubriky"><div class="wrap">
-  <a class="nav__brand" href="/">Press<span class="logo__point">Point</span></a>
-  <a href="/"${page.path === "/" ? ' aria-current="page"' : ""} style="--cat:var(--brand)">Domov</a>
+  <a class="nav__brand" href="${B}/">Press<span class="logo__point">Point</span></a>
+  <a href="${B}/"${page.path === "/" ? ' aria-current="page"' : ""} style="--cat:var(--brand)">Domov</a>
   ${navItems}
   <span class="nav__spacer"></span>
-  <a href="/hladat/"${page.active === "hladat" ? ' aria-current="page"' : ""} style="--cat:var(--ink)">${ICON_SEARCH} Hľadať</a>
+  <a href="${B}/hladat/"${page.active === "hladat" ? ' aria-current="page"' : ""} style="--cat:var(--ink)">${ICON_SEARCH} Hľadať</a>
 </div></nav>
 ${page.ticker || ""}
 <main id="obsah"><div class="wrap">
@@ -153,12 +155,12 @@ ${page.body}
 <footer><div class="wrap">
   <div class="foot">
     <div>
-      <a class="logo" href="/">Press<span class="logo__point">Point</span><span class="logo__dot" aria-hidden="true"></span></a>
+      <a class="logo" href="${B}/">Press<span class="logo__point">Point</span><span class="logo__dot" aria-hidden="true"></span></a>
       <p class="foot__about">${h(site.description)}</p>
     </div>
-    <div><h3>Rubriky</h3><ul>${categories.map((c) => `<li><a href="/${c.slug}/">${h(c.name)}</a></li>`).join("")}</ul></div>
-    <div><h3>Web</h3><ul><li><a href="/hladat/">Vyhľadávanie</a></li><li><a href="/zdroje/">Zdroje správ</a></li><li><a href="/o-nas/">O PressPointe</a></li><li><a href="/stav/">Stav aktualizácií</a></li></ul></div>
-    <div><h3>RSS</h3><ul><li><a href="/feed.xml">Všetky správy</a></li>${categories.map((c) => `<li><a href="/${c.slug}/feed.xml">${h(c.name)}</a></li>`).join("")}</ul></div>
+    <div><h3>Rubriky</h3><ul>${categories.map((c) => `<li><a href="${B}/${c.slug}/">${h(c.name)}</a></li>`).join("")}</ul></div>
+    <div><h3>Web</h3><ul><li><a href="${B}/hladat/">Vyhľadávanie</a></li><li><a href="${B}/zdroje/">Zdroje správ</a></li><li><a href="${B}/o-nas/">O PressPointe</a></li><li><a href="${B}/stav/">Stav aktualizácií</a></li></ul></div>
+    <div><h3>RSS</h3><ul><li><a href="${B}/feed.xml">Všetky správy</a></li>${categories.map((c) => `<li><a href="${B}/${c.slug}/feed.xml">${h(c.name)}</a></li>`).join("")}</ul></div>
   </div>
   <div class="foot__bottom">
     <span>© ${T.now.getFullYear()} ${h(site.name)} · ${h(site.domain)}</span>
@@ -166,7 +168,7 @@ ${page.body}
   </div>
 </div></footer>
 <div class="toast" id="toast" role="status" hidden><span>Pribudli nové správy.</span><button type="button" onclick="location.reload()">Obnoviť</button></div>
-<script src="/assets/app.js?v=${h(ctx.buildId)}" defer></script>
+<script src="${B}/assets/app.js?v=${h(ctx.buildId)}" defer></script>
 </body>
 </html>`;
 }
@@ -198,7 +200,7 @@ function homePage(ctx) {
     const withImg = list.filter((it) => it.image); const first = withImg[0] || list[0];
     const rest = list.filter((it) => it !== first);
     return `<section class="block" style="--cat:${c.color}" aria-labelledby="h-${c.slug}">
-  <div class="block__head"><div><h2 id="h-${c.slug}"><a href="/${c.slug}/">${h(c.name)}</a></h2><p>${h(c.description)}</p></div><a class="more" href="/${c.slug}/">Všetky správy →</a></div>
+  <div class="block__head"><div><h2 id="h-${c.slug}"><a href="${B}/${c.slug}/">${h(c.name)}</a></h2><p>${h(c.description)}</p></div><a class="more" href="${B}/${c.slug}/">Všetky správy →</a></div>
   <div class="grid grid--block">
     ${first ? card(first, { variant: "big", cats }) : ""}
     ${rest.slice(0, 2).map((it) => card(it, { variant: "std", cats })).join("")}
@@ -214,7 +216,7 @@ function homePage(ctx) {
   <div>${lead ? card(lead, { variant: "lead", cats, showCat: true }) : ""}</div>
   <div class="hero__grid">${secondary.map((it) => card(it, { variant: "std", cats, showCat: true })).join("")}</div>
   <aside class="aside hero__aside sticky" aria-labelledby="h-latest">
-    <div class="aside__head"><h2 id="h-latest">Najnovšie</h2><a class="more" href="/hladat/" style="--cat:var(--ink-3)">${items.length} článkov</a></div>
+    <div class="aside__head"><h2 id="h-latest">Najnovšie</h2><a class="more" href="${B}/hladat/" style="--cat:var(--ink-3)">${items.length} článkov</a></div>
     <ol>${latest.map((it) => row(it, { cats, showCat: true, summary: false })).join("")}</ol>
   </aside>
 </section>
@@ -238,7 +240,7 @@ function categoryPage(ctx, c) {
   const body = `
 <header class="cat-head" style="--cat:${c.color}">
   <div><span class="eyebrow">Rubrika</span><h1>${h(c.name)}</h1><p>${h(c.description)}</p></div>
-  <div class="meta"><span>${list.length} článkov za ${ctx.retentionDays} dní</span><span>Aktualizované ${h(T.rel(new Date(ctx.updatedAt)))}</span><a class="btn" href="/${c.slug}/feed.xml">${ICON_RSS} RSS rubriky</a></div>
+  <div class="meta"><span>${list.length} článkov za ${ctx.retentionDays} dní</span><span>Aktualizované ${h(T.rel(new Date(ctx.updatedAt)))}</span><a class="btn" href="${B}/${c.slug}/feed.xml">${ICON_RSS} RSS rubriky</a></div>
 </header>
 <div class="layout" style="--cat:${c.color}">
   <div>
@@ -249,7 +251,7 @@ function categoryPage(ctx, c) {
   <aside class="aside sticky" aria-labelledby="h-other">
     <div class="aside__head"><h2 id="h-other">Z ostatných rubrík</h2></div>
     <ol>${sideItems.map((it) => row(it, { cats, showCat: true, summary: false })).join("")}</ol>
-    <div class="chips" style="margin-bottom:0">${others.map((o) => `<a class="btn" href="/${o.slug}/" style="--cat:${o.color}"><span class="nav__dot"></span>${h(o.name)}</a>`).join("")}</div>
+    <div class="chips" style="margin-bottom:0">${others.map((o) => `<a class="btn" href="${B}/${o.slug}/" style="--cat:${o.color}"><span class="nav__dot"></span>${h(o.name)}</a>`).join("")}</div>
   </aside>
 </div>`;
   return layout(ctx, {
@@ -264,7 +266,7 @@ function searchPage(ctx) {
 <div class="page" id="search-app" data-cats='${h(JSON.stringify(categories.map(({ slug, name, color }) => ({ slug, name, color }))))}'>
   <span class="eyebrow" style="--cat:var(--ink-3)">Vyhľadávanie</span>
   <h1>Hľadať v správach</h1>
-  <form class="search search--big" role="search" action="/hladat/" method="get"><input type="search" name="q" id="q" placeholder="Napr. inflácia, hokej, kampaň…" aria-label="Hľadaný výraz" autocomplete="off" autofocus><button type="submit" aria-label="Hľadať">${ICON_SEARCH}</button></form>
+  <form class="search search--big" role="search" action="${B}/hladat/" method="get"><input type="search" name="q" id="q" placeholder="Napr. inflácia, hokej, kampaň…" aria-label="Hľadaný výraz" autocomplete="off" autofocus><button type="submit" aria-label="Hľadať">${ICON_SEARCH}</button></form>
   <div class="chips" id="cat-chips"><button type="button" data-cat="" aria-pressed="true">Všetko</button>${categories.map((c) => `<button type="button" data-cat="${c.slug}" style="--cat:${c.color}" aria-pressed="false">${h(c.name)}</button>`).join("")}</div>
   <p class="meta" id="search-status">Načítavam správy…</p>
 </div>
@@ -289,11 +291,11 @@ function aboutPage(ctx) {
 <p>${h(site.description)}</p>
 <p>Web nemá redakciu, ktorá by články písala. Namiesto toho každých ${ctx.refreshMinutes} minút automaticky prejde Google News a RSS kanály slovenských médií, odstráni duplicity a zoradí správy do piatich rubrík. Každý titulok vedie na pôvodný článok u vydavateľa, kde si ho prečítate celý.</p>
 <h2>Rubriky</h2>
-<ul>${categories.map((c) => `<li><a href="/${c.slug}/" style="color:${c.color}"><b>${h(c.name)}</b></a> – ${h(c.description)}</li>`).join("")}</ul>
+<ul>${categories.map((c) => `<li><a href="${B}/${c.slug}/" style="color:${c.color}"><b>${h(c.name)}</b></a> – ${h(c.description)}</li>`).join("")}</ul>
 <h2>Ako to funguje</h2>
 <ul><li>Zdroje sú verejné RSS kanály a vyhľadávacie feedy Google News v slovenčine.</li><li>Preberáme len titulok, krátky perex, názov zdroja a odkaz. Celé články nekopírujeme.</li><li>Správy staršie ako ${ctx.retentionDays} dní z prehľadu miznú.</li><li>Ak ste vydavateľ a neprajete si, aby sa vaše titulky zobrazovali, napíšte nám na <a href="mailto:${h(site.contactEmail)}">${h(site.contactEmail)}</a>.</li></ul>
 <h2>RSS</h2>
-<p>Všetky správy: <a href="/feed.xml">${h(site.url)}/feed.xml</a>. Každá rubrika má aj vlastný kanál, nájdete ho v pätičke.</p>
+<p>Všetky správy: <a href="${B}/feed.xml">${h(site.url)}/feed.xml</a>. Každá rubrika má aj vlastný kanál, nájdete ho v pätičke.</p>
 </div>`;
   return layout(ctx, { path: "/o-nas/", title: "O nás", body, active: "o-nas" });
 }
@@ -316,7 +318,7 @@ ${feeds.map((f) => `<tr><td style="color:${categories.find((c) => c.slug === f.c
 }
 
 function notFoundPage(ctx) {
-  const body = `<div class="page"><span class="eyebrow">Chyba 404</span><h1>Táto stránka neexistuje</h1><p>Možno bola presunutá alebo ste zle opísali adresu. Skúste <a href="/">domovskú stránku</a> alebo <a href="/hladat/">vyhľadávanie</a>.</p></div>`;
+  const body = `<div class="page"><span class="eyebrow">Chyba 404</span><h1>Táto stránka neexistuje</h1><p>Možno bola presunutá alebo ste zle opísali adresu. Skúste <a href="${B}/">domovskú stránku</a> alebo <a href="${B}/hladat/">vyhľadávanie</a>.</p></div>`;
   return layout(ctx, { path: "/404.html", title: "Stránka sa nenašla", body });
 }
 
@@ -350,6 +352,7 @@ export function render(config = loadConfig()) {
   const T = makeTime(config.site.timezone);
   const items = archive.items.filter((it) => it.title && it.url);
   const cats = Object.assign([...config.categories], { T });
+  B = config.site.basePath || "";
   const ctx = { ...config, cats, items, lastRun, T, updatedAt: archive.updatedAt || new Date().toISOString(), buildId: Date.now().toString(36) };
 
   const out = (rel, content) => { const f = join(paths.dist, rel); mkdirSync(join(f, ".."), { recursive: true }); writeFileSync(f, content); };
@@ -368,9 +371,10 @@ export function render(config = loadConfig()) {
     out(`${c.slug}/feed.xml`, rss(ctx, `${config.site.name} – ${c.name}`, `/${c.slug}/`, items.filter((it) => it.categories.includes(c.slug)).slice(0, 50), c.description));
   }
   out("sitemap.xml", sitemap(ctx));
-  out("robots.txt", `User-agent: *\nAllow: /\nDisallow: /stav/\nSitemap: ${config.site.url}/sitemap.xml\n`);
-  out("CNAME", config.site.domain + "\n");
-  out("manifest.webmanifest", JSON.stringify({ name: config.site.name, short_name: config.site.name, start_url: "/", display: "standalone", background_color: "#f6f5f2", theme_color: "#d7263d", lang: config.site.lang, icons: [{ src: "/assets/favicon.svg", sizes: "any", type: "image/svg+xml" }] }));
+  out("robots.txt", `User-agent: *\nAllow: /\nDisallow: ${B}/stav/\nSitemap: ${config.site.url}/sitemap.xml\n`);
+  // CNAME len vtedy, keď web naozaj beží na vlastnej doméne (inak by GitHub Pages presmeroval na cudziu doménu)
+  if (new URL(config.site.url).hostname === config.site.domain) out("CNAME", config.site.domain + "\n");
+  out("manifest.webmanifest", JSON.stringify({ name: config.site.name, short_name: config.site.name, start_url: `${B}/`, display: "standalone", background_color: "#f6f5f2", theme_color: "#d7263d", lang: config.site.lang, icons: [{ src: `${B}/assets/favicon.svg`, sizes: "any", type: "image/svg+xml" }] }));
   out("data/meta.json", JSON.stringify({ updatedAt: ctx.updatedAt, total: items.length, categories: Object.fromEntries(config.categories.map((c) => [c.slug, items.filter((it) => it.categories.includes(c.slug)).length])) }));
   out("data/latest.json", JSON.stringify({ updatedAt: ctx.updatedAt, items: items.slice(0, 2000).map(({ id, title, url, source, publishedAt, categories, image, summary }) => ({ id, title, url, source: { name: source.name, domain: source.domain }, publishedAt, categories, image, summary })) }));
   console.log(`Web vygenerovaný: ${items.length} článkov, ${config.categories.length} rubrík → ${paths.dist}`);

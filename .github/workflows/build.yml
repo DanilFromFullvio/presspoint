@@ -25,6 +25,10 @@ jobs:
         with:
           node-version: 22
       - name: Stiahnuť správy a vygenerovať web
+        env:
+          # Kým web nebeží na presspoint.sk, generuje sa pre adresu GitHub Pages (podpriečinok /presspoint).
+          # Po presmerovaní domény tento riadok zmažte, aby sa použila adresa z config/site.json a vygeneroval CNAME.
+          SITE_URL: https://danilfromfullvio.github.io/presspoint
         run: node src/build.js
       - name: Uložiť archív článkov do repozitára
         run: |

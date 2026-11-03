@@ -13,7 +13,12 @@ export const paths = {
 };
 
 export function loadConfig() {
-  return JSON.parse(readFileSync(paths.config, "utf8"));
+  const config = JSON.parse(readFileSync(paths.config, "utf8"));
+  // SITE_URL (napr. https://user.github.io/repo) prebije adresu z configu – hodí sa pri nasadení do podpriečinka.
+  const url = (process.env.SITE_URL || config.site.url || "").replace(/\/+$/, "");
+  config.site.url = url;
+  config.site.basePath = url ? new URL(url).pathname.replace(/\/+$/, "") : "";
+  return config;
 }
 
 export function readJson(file, fallback) {
