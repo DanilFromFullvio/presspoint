@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-03T13:44:38.196Z",
+ "updatedAt": "2026-11-03T13:46:36.582Z",
  "items": [
+  {
+   "id": "bce9b6920495e21a",
+   "title": "Košice nemajú dôvod na zmenu. S Cemanom sa dohodli na predĺžení zmluvy",
+   "url": "https://sportnet.sme.sk/spravy/hokej-kosice-predlzili-kontrakt-s-cemanom-tipsport-liga-2026-2027/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-03T13:42:40.000Z",
+   "firstSeenAt": "2026-11-03T13:46:18.008Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/03/20262803-hokej-bystrica-kosice-02204464.jpg",
+   "summary": "Kanaďan bude viesť Košičanov ďalšie tri sezóny.",
+   "via": "rss"
+  },
   {
    "id": "fc243ff8a1a881e8",
    "title": "Systém úpravy zmesového odpadu má stále veľa nedostatkov",
@@ -231,6 +250,25 @@
    "via": "googlenews"
   },
   {
+   "id": "f6157a8c605b1cfa",
+   "title": "Atómová bomba na Irán už do soboty? Carlson tvrdí, že Netanjahu tlačí na Trumpa a volá mu kvôli tomu každý deň",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjYxZzhKSURHaU5ERlRVVGwwV0M0bmk3Szh2a1k4bFJ4Tm5IUHJ1WVFaMkQwNWljU0RKTXI0Sll3X2NzeVpOX3NuZ1gxb2IySEhtR2kwWkZUUl95aUJzOG16SWowMm0zTHd6XzVQTmp6V2dWRDQzUU15WTE5Wl8tM3VSbkNOaWMyNUZoZlIyaDdWWnczZXc?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eReport.sk",
+    "domain": "ereport.sk",
+    "url": "https://ereport.sk"
+   },
+   "publishedAt": "2026-11-03T13:28:19.000Z",
+   "firstSeenAt": "2026-11-03T13:46:24.141Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "fd696592e3dd35c9",
    "title": "Francúzska vláda zvažovala blokovanie sociálnych sietí počas protestov. Kde sa končí ochrana bezpečnosti a začína sa cenzúra?",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaGN1cUlqM2lDUUlEdnZ1c1llazFmN09MQndjZTZNM2otOVhwZmlCeWFCX21HY1RkOGdKdlVQTjFhWlV2aDB2Vnc4NWNoOV9udXo3ZXFmOVM3Uk41cTJDaTM0UU1CeE1TQ20tR05JajAtYWdDSXE0NTBQQ3dJZU8wRmluR05DeUFlcFo3V0F4YXZQX1psdU4zV2x4d3JHMEhYMVA5SE5odDlmQ0w5YlAtVl9OWGRNTjNFM19QUUdqZmtPc1NpMlBmSGR1T3dscFlDcElhQm1sT2tkRlJQSTl5LUdWdlFLdw?oc=5",
@@ -282,7 +320,8 @@
    "firstSeenAt": "2026-11-03T13:44:19.717Z",
    "categories": [
     "ekonomika",
-    "sport"
+    "sport",
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -1357,6 +1396,25 @@
    "via": "rss"
   },
   {
+   "id": "ac20ef79fafc3cf8",
+   "title": "Británia sprísňuje migračné pravidlá. Na trvalý pobyt budú cudzinci čakať až desať rokov",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONmpXSFloM2ZsamlzakIwclY1WE1NcWlEQk56OWlVQUdJNVVjdHBKRFJ0Vk10aXBsaUVhLWk1bk01V1d1eV9DT3RMQlNkNk1tcFVQMHN3UExnV09oRE9RUWp1SUpLdw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eReport.sk",
+    "domain": "ereport.sk",
+    "url": "https://ereport.sk"
+   },
+   "publishedAt": "2026-11-03T12:15:43.000Z",
+   "firstSeenAt": "2026-11-03T13:46:24.141Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "04903401ec6cde40",
    "title": "Normatívy pre základné školy by sa mohli odvíjať od nových kritérií",
    "url": "https://www.teraz.sk/slovensko/normativy-pre-zakladne-skoly-by-sa-m/1004842-clanok.html",
@@ -1490,6 +1548,25 @@
    "via": "rss"
   },
   {
+   "id": "19329b73b9b00bc8",
+   "title": "Sme s kolegami z českého rozhlasu a televízie",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLS1VXzZsYUNSSlNDb2FYU3ZBcW1hVUxWTHRKY0w1Yi1TdUVsSGp4blZjMjJOS3hVajVFYldPbEk1a1pPRmZjVGROOVBXTEdGb3hraElSMTFjS2NyaGVYR0N2ZXJqSFFYb3NNSkpyTHMyTWlqZkE2N0FsY0RIY3RNTW9kR1A2V3dPS0ptZ2dR?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "tnlive.sk",
+    "domain": "tnlive.sk",
+    "url": "https://tnlive.sk"
+   },
+   "publishedAt": "2026-11-03T12:00:00.000Z",
+   "firstSeenAt": "2026-11-03T13:46:24.141Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "b1eb364dfc654280",
    "title": "Malatinec: Začnem od nuly a začnem budovať projekt s Tomášom Tarabom",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWk90SXpxTmtqZ1VtVFUyZEVpODVzSXJESU10MjFOOWRQR1lHcmxsR3lORV9kX1d1YUVURmM5M1NrNUpMTEp1Q0JrdElSUGRhSzliQ2dxeUpaTkNwS3lWcDhQNlFTTlRHek9UaHNmSDlOQUd6NUt1QUI4UElidXFhTlhkSkhFTzlLZ3NRcWpfN21xdENDLXcxdkY4bE5VZHJHc1dwTXF5TU9Kdw?oc=5",
@@ -1602,6 +1679,26 @@
    "image": "",
    "summary": "Nórsko sa vo svojom vyhlásení zmienilo iba o majstrovstvách sveta A-kategórie mužov, ktoré sa budú konať v máji v nemeckých mestách Düsseldorf, Gelsenkirchen a Mannheim.",
    "via": "rss"
+  },
+  {
+   "id": "32e16ee304c2aba8",
+   "title": "Pokrytec? Kým prstom ukazuje na druhých, Matovičov poslanec Jakab vlastní tri byty aj pozemky",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rSGd6Q2hUclZSNjlKSHY3RXVsZjlDb1FzN0cybmRJMGZHY3l0M0hGd0pXUm9reTZxS21GNVJMb1I0YjQ0T1Axd2lsZ1prTHEwdldwVWJORkJNcHBqbmpiQVVmSTcwbWtLU2JVaF81NmgyTlpuMTlSb1ZvOA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eReport.sk",
+    "domain": "ereport.sk",
+    "url": "https://ereport.sk"
+   },
+   "publishedAt": "2026-11-03T11:52:06.000Z",
+   "firstSeenAt": "2026-11-03T13:46:15.940Z",
+   "categories": [
+    "marketing",
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "7d0f4493bc5a12c2",
@@ -1870,6 +1967,25 @@
    "via": "rss"
   },
   {
+   "id": "df35debfde875a83",
+   "title": "VIDEO Podozrenia z mučenia vojakov pri Kyjeve v objekte kontroverzného Azova. Štyroch hospitalizovali",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWFjR0ZUTmpkSWpaYXJDNUFpWHdPYjZoSnZhSDQtUWxfVE9oOXhOOU96aHM3WG90bDBkblFkaE1uRWhwN0pUbXNvOWpaV2ViUm9oWnk4SU9wQ1h6eFBOSkdZUDJDLWo1QXI3OHdaY0VpV3NEcWV2cXhCTklrakc5T0ZYODlsMmxYU3N2aXIyeDdXZlpkS19rMkRpVVd0TmttNWJYS2tUd2RHSU0wTU5aLTVoa25WQ085Zlo0?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eReport.sk",
+    "domain": "ereport.sk",
+    "url": "https://ereport.sk"
+   },
+   "publishedAt": "2026-11-03T11:28:04.000Z",
+   "firstSeenAt": "2026-11-03T13:46:15.940Z",
+   "categories": [
+    "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "4f1da87fcebd5316",
    "title": "Ceny bývania na Slovensku v treťom štvrťroku zrýchlili medziročný rast na 10,9 percenta",
    "url": "https://www.sme.sk/index/c/ceny-byvania-na-slovensku-v-tretom-stvrtroku-zrychlili-medzirocny-rast-na-10-9-percenta",
@@ -2022,6 +2138,25 @@
    "via": "rss"
   },
   {
+   "id": "84373dc4dd1efdb6",
+   "title": "Vláda schválila novú zonáciu. V Národnom parku Malá Fatra bude piaty stupeň ochrany platiť na 33,6 percenta",
+   "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOcDl2QXN4NGdIS0xadHQyZm1ZaG9VSk5ab2NVYnBFTUhEWWVoaUR2N1puOWpYS1B3cDFmdEJqejFzUmtiZ1ZqVWZubDl6YUtkLWoycWNCVVpKckYxM3lMcGhaM2NTTndiRTh2RUY3ZHR2V3VmTG9mMU0tdm5TdDRNemZGei0yb01OdjZYZXk4c0dSQmdsMjhNQ0gxb3ZrUWp1Z2QwYkdNNWZXUmp2N1NZOWl5NGJzZ01hVkZvT3VCbEdxTkJuOFc4SzBlUWdxYzN4d0JEWFQtVlR3SFhhMTV5US1Gb2FlRnpxZFZzSkVlT3NPSmZsUkhIOS1kY0p1ODdGVTVwaFhhaDlhZzlBeWxsTy1YcFJubU1XMmhfN0lGU0JZVzhTalBfNEN3ZUpMdFBJeXMzdm1VdkFaVEhLVFhlYmNsR01zeWF1c1MxRGQ5WFFWeXZMbU5HSFIxUXg3aU1YU050a3NPeVM1ek5sa1JWZ0pMWllEV2tXYkxrSDhGZ0pqd3FwWkxHaTZKeFdnNjdtbTl3S3lLMkxjWXVGeUpMTE1XV3Rtd1BDN2pOQWxDVlM2UmhEdXhIS3pvNVhLM1Q4?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Žilina SP21",
+    "domain": "zilina.sp21.sk",
+    "url": "https://zilina.sp21.sk"
+   },
+   "publishedAt": "2026-11-03T11:18:27.000Z",
+   "firstSeenAt": "2026-11-03T13:46:24.977Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "3a0a8cf37d2b127e",
    "title": "Gisinová sa po ťažkom zranení už na svahy nevráti, ukončila kariéru",
    "url": "https://www.teraz.sk/sport/gisinova-sa-po-tazkom-zraneni-uz-na/1004815-clanok.html",
@@ -2155,25 +2290,6 @@
    "via": "googlenews"
   },
   {
-   "id": "34ace3184e1adc74",
-   "title": "Zdražovanie, ktoré zasiahne každú domácnosť: Samosprávy ohlásili vyššie poplatky za odpad",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HeHpJWWg4LUxRTDQ4dno0eExBSGVtdjVxNS1VaTFRTTB5X3NKV21QTHZZd1ExVTR5ZGEtbGI3UlpobWxUQ3dOUmZWTU9EWEFPVTFTMWx0Q0hkQTU2aWdtNnB4a0FkVHBBNjJnMkRuTWxPM25ISkpIYkQ1MA?oc=5",
-   "isGoogleLink": true,
-   "source": {
-    "name": "eReport.sk",
-    "domain": "ereport.sk",
-    "url": "https://ereport.sk"
-   },
-   "publishedAt": "2026-11-03T11:09:12.000Z",
-   "firstSeenAt": "2026-11-03T11:12:28.605Z",
-   "categories": [
-    "marketing"
-   ],
-   "image": "",
-   "summary": "",
-   "via": "googlenews"
-  },
-  {
    "id": "37127601174486c8",
    "title": "Plamene na rýchlostnej ceste medzi Trnavou a Nitrou: Auto zhorelo! Škoda dosiahla tisíce eur",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmtobHFpVVVlY3NJNDU1VE1fZjZoRjVaVVFRaU94dGtOSUs0blh5RldacDdrRmpqYnhsNEpKTWxOUnpvMFZ5dlM1eW1wS0Y5cEM2WGQ2dEo1MWFVS2tNRUZZLWtobXFhOS1uZjZwMWVRQ2gyU1BfZVlQSENLN3Vxc1JzTVhBY25DQU1nYXo3eGYxb2tXeThXZE1qUUtMT3hzQnNUOXNza3h1Ny1RdmVDZUc4MG5xMHNjeFRweGRkSzM5Z2x1eHc?oc=5",
@@ -2206,6 +2322,25 @@
    "firstSeenAt": "2026-11-03T11:12:34.187Z",
    "categories": [
     "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "34ace3184e1adc74",
+   "title": "Zdražovanie, ktoré zasiahne každú domácnosť: Samosprávy ohlásili vyššie poplatky za odpad",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HeHpJWWg4LUxRTDQ4dno0eExBSGVtdjVxNS1VaTFRTTB5X3NKV21QTHZZd1ExVTR5ZGEtbGI3UlpobWxUQ3dOUmZWTU9EWEFPVTFTMWx0Q0hkQTU2aWdtNnB4a0FkVHBBNjJnMkRuTWxPM25ISkpIYkQ1MA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eReport.sk",
+    "domain": "ereport.sk",
+    "url": "https://ereport.sk"
+   },
+   "publishedAt": "2026-11-03T11:07:59.000Z",
+   "firstSeenAt": "2026-11-03T11:12:28.605Z",
+   "categories": [
+    "marketing"
    ],
    "image": "",
    "summary": "",
@@ -2394,6 +2529,25 @@
    },
    "publishedAt": "2026-11-03T10:59:00.000Z",
    "firstSeenAt": "2026-11-03T13:44:23.785Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "4099e9412015ed30",
+   "title": "Zlom v maďarskej politike: Parlament schválil prísny zákon o preverovaní majetku politikov",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnViblZUd1dVVGRNbTVKN2RDdFFTOTZWNzdhOVBKa0VhZnJjRkRRWWRVbmtmQk9ueEZ2Mk9tVDBTQkZDYlNIZkhVU3pUX2YtY3k0N1JGWHRzN1QyRVBCQkIzSW1wMFh1cjJaSDlDMGpYV1JLbXNCMm1MTzN6RklUdVg0ZkRvcU45QUNCbm00b3hiU05Ea1lmVk54Ym56YnM5UE9IcHhNT1UzbElqNWZUQXlrLV9QYVA3RHhOc2szSkc1cTA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Topky",
+    "domain": "topky.sk",
+    "url": "https://www.topky.sk"
+   },
+   "publishedAt": "2026-11-03T10:58:00.000Z",
+   "firstSeenAt": "2026-11-03T13:46:24.977Z",
    "categories": [
     "politika"
    ],
@@ -3681,6 +3835,25 @@
    "via": "googlenews"
   },
   {
+   "id": "64b41aad88849583",
+   "title": "Premiér Fico je na zozname predátorov pre rok 2026. Svetová organizácia ho zaradila do klubu k Elonovi Muskovi",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWHpzUUtaanpIYUpHVGwyYTJPNkpjTjljRUdVdWNXNGVWckwzWnJRWmhfRWhIRWVKRGxVRUlzTWNnWGtoVUUxUDlnTmxrR3RuOVFDemRJa3ZwNkozbXA2VE9PTTV6OFFXYU56a3ctUklTekJKOHVGRS01dWVQZm5BbDVzOVcwZnpfQ01wSnVLYk5udWNPaVg0VXlPUVdEemJtMDdWbzZqaTR4MGNIOGFtU1AtSHBDbzJtVjVrMU5SUjdYV1RHdDNReDA2X2VTemZzNW1vMzdKU21LVkdoTXB4RA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Aktuality",
+    "domain": "aktuality.sk",
+    "url": "https://www.aktuality.sk"
+   },
+   "publishedAt": "2026-11-03T10:04:00.000Z",
+   "firstSeenAt": "2026-11-03T13:46:25.681Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "86332de929435471",
    "title": "Veľká súperka Petry Vlhovej ukončila kariéru po ťažkom zranení",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNanc1dVRXYjBRRHFST29GWVdsUDRWalJ3YVpNbGltV0lzbndhX3RUbktfNEFJV3FZQ3MyZlREbDhxY3RKREpQX3ZsdWlfSlpfdG1wQTQ4cEJSZTh6alRQSmcxX25ZMmRBRmxTQjdZejE2eXVuakg3UWJqRjliM3B5T0N2X2FNcjZrX1lKUHFtclRmNFRtVnl1SjRRb0lkSUdxeEZNUUhGYUV1c2R5U0JMS0RuLWdOQlg4ZXJJQTlxRGxidXliZVRKOGQ4WmVpR0ZZ?oc=5",
@@ -3922,6 +4095,25 @@
    "firstSeenAt": "2026-11-03T11:12:36.782Z",
    "categories": [
     "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "ba730de949cfbe8a",
+   "title": "Zuzka Smatanová rozpráva svoj príbeh o vyhorení a depresii... a odkazuje: Nezabudni na seba!",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORS1RYmdiVFBjYWtpdGRtdzkybHUwek5ITEpzWjd4VzFyZk1KSWZUQ21JNmtMVUN3VHh0VC1HYVhtNnBnck5CVFhGSzJJTUtiLU43eF9CeFRIS1Z2RHpTQmxpZm41QnZLc1FLU3BWQVEzVlhoUjMtVmxCWHQyN0h3SXFkc1pvOXRvTFpIZVdZNWFMcGJueDNFSXlram1VSF9YSnhiaWs2WG5qaDQwbHVfMlFobXh4NkR2UEVMaGJNWXgzbklqTW1FYw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Diva.sk",
+    "domain": "diva.aktuality.sk",
+    "url": "https://diva.aktuality.sk"
+   },
+   "publishedAt": "2026-11-03T09:52:07.000Z",
+   "firstSeenAt": "2026-11-03T13:46:16.613Z",
+   "categories": [
+    "marketing"
    ],
    "image": "",
    "summary": "",
@@ -6577,6 +6769,25 @@
    "via": "googlenews"
   },
   {
+   "id": "25997534b2e413fa",
+   "title": "Bratislavu v utorok ráno sužujú kolóny a nehoda: Vodiči naberajú zdržanie na D1, D2 aj D4",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzZvZkdNWFlabTZBTmlIWmVNel9aU2hEa2RlM1lSR3FDTU40ZURyejF5bHFDTFBGRWpSOW0wa0NkcHpRUkEwWXlEV09aYXFyQlZ6bHRnd1N3Y0EtN1hBX01JVUVxMWhyUjdWTXM5S3N3ZVQzR20xOGFxTU5TWmFXV0dpeG5YYzdSd2NhbzVxX3hyQTFMbVVSb0hDb29NNFJLSlBBTTlIWWtsU2k1WmJ2b2o3c1IyNWtlell3Q2I3VFU2UQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Topky",
+    "domain": "topky.sk",
+    "url": "https://www.topky.sk"
+   },
+   "publishedAt": "2026-11-03T07:46:00.000Z",
+   "firstSeenAt": "2026-11-03T13:46:23.511Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "d30f29bc36a46cfe",
    "title": "Ázijský pohár museli presunúť. Organizátori hovoria o výnimočných okolnostiach",
    "url": "https://sportnet.sme.sk/spravy/futbal-azijsky-pohar-presunuli-z-januara-na-december-2026/",
@@ -6997,25 +7208,6 @@
    "via": "googlenews"
   },
   {
-   "id": "8b316f4c687de146",
-   "title": "Černákova snúbenica všetkých zaskočila: Miki bol ‚páliť sviečky‘ na pomníku svojho brata! Prezradila, ako to zariadili",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbEJ5d29uUHNWTTdVUXpsdnNNTHR0MkdIM0ZxUVFua0gtZWhrbnJHbjU0elIwV2dzUDRiUkdvZVFfNlJMVmlIN1g2TFZzdWVFUDM3alZHNjBXdFhLMzl3QVhrUmt6R20tMU5Sb2hCanFDSlZkNDl4YWQwODB2M2tLUHppXy1jdk5jcUpjRy1nOXlpaGZYUnV4bHdvdUdNX1pNYW5iV1ROeHg0U2F0Q2R4ekxsY3JxczF5N2poSjBkbGlLbVZzZ1NzczdPMTZ1c3FOUXRSVklnVjNGMzNIOTRwX1hpVTFIcHlj?oc=5",
-   "isGoogleLink": true,
-   "source": {
-    "name": "Koktejl.sk",
-    "domain": "koktejl.azet.sk",
-    "url": "https://koktejl.azet.sk"
-   },
-   "publishedAt": "2026-11-03T06:53:13.000Z",
-   "firstSeenAt": "2026-11-03T11:12:35.496Z",
-   "categories": [
-    "politika"
-   ],
-   "image": "",
-   "summary": "",
-   "via": "googlenews"
-  },
-  {
    "id": "8ccd2af3f9b57f29",
    "title": "USA čakajú voľby. Trumpovi republikáni môžu stratiť väčšinu",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONUt0N2VPMlgzZ183TmtLdy1MMkpMWEZxWUh3QnpLamtaYURDeU9tOEVwb1J5bHNIYjZvSEJMdHlycmxsbmdidHk2YzB2cGhKaEZuYW0zSDVYNTZHQl9uSE50TXNkdlRKZVFWcjRLVEk3SHB6M19mNzZ1UFdYaGpnQ2JLSW9KMi1pTGYzSGt0bw?oc=5",
@@ -7105,6 +7297,25 @@
    "firstSeenAt": "2026-11-03T11:12:28.604Z",
    "categories": [
     "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "8b316f4c687de146",
+   "title": "Černákova snúbenica všetkých zaskočila: Miki bol ‚páliť sviečky‘ na pomníku svojho brata! Prezradila, ako to zariadili",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbEJ5d29uUHNWTTdVUXpsdnNNTHR0MkdIM0ZxUVFua0gtZWhrbnJHbjU0elIwV2dzUDRiUkdvZVFfNlJMVmlIN1g2TFZzdWVFUDM3alZHNjBXdFhLMzl3QVhrUmt6R20tMU5Sb2hCanFDSlZkNDl4YWQwODB2M2tLUHppXy1jdk5jcUpjRy1nOXlpaGZYUnV4bHdvdUdNX1pNYW5iV1ROeHg0U2F0Q2R4ekxsY3JxczF5N2poSjBkbGlLbVZzZ1NzczdPMTZ1c3FOUXRSVklnVjNGMzNIOTRwX1hpVTFIcHlj?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Koktejl.sk",
+    "domain": "koktejl.azet.sk",
+    "url": "https://koktejl.azet.sk"
+   },
+   "publishedAt": "2026-11-03T06:30:00.000Z",
+   "firstSeenAt": "2026-11-03T11:12:35.496Z",
+   "categories": [
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -9186,6 +9397,25 @@
    "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2025/01/sweden-finland-world-junior-hockey006534.jpg",
    "summary": "Impulzom k novému vývoju bolo rozhodnutie Športového arbitrážneho súdu.",
    "via": "rss"
+  },
+  {
+   "id": "fe9a97c443058d08",
+   "title": "ATP Paríž: Obrovská dráma Alexa Molčana! O víťazovi v prvom kole rozhodli až posledné loptičky",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzN6ODRjV3lkZDVxeEpwY1NzYV90R0UxWDlXajZnQWNaeE1ET2JxZnRyTHdjU2JJSGpQcEhEdzJPb2V6cmRDT2lyeGw5MnFyNF9kZEpjdldJZTNhNnZDMDZid05xaDJDOEdjd0FvSlVMOERIN1ExVkQ5Q0dFZkNvbUhfQ1ZySEdTdUdNNnVqcnJUN3EteGRzR3c1dEJkdzZ4YV9HZ19RMS0tRm8?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-02T19:51:00.000Z",
+   "firstSeenAt": "2026-11-03T13:46:21.335Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "a1fe8a0e88f241a3",
@@ -12687,6 +12917,25 @@
    "via": "rss"
   },
   {
+   "id": "83ffd377cd39c504",
+   "title": "Nenaleťte im. Prečo z nás Ryanair či Booking ťahajú eurá cez psychologické triky? O to ľahšie zarobia - Diskusia",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckdiaG5Ya1Ixd2pCeWxxaUFqcm1tUVlCWFItWkQtNWVXMXBqYW1qMnJqOEREdnpTUWlDc3hWb3RuQmdfSjJLdHVIY1QzX3F2dU1KbFA4b0RaOWdvV09WT2R3UVpXVFNBSzN5SUh6T1o1MXBETlJuY1haM0xsVVBCbmFlQUtVb2plUlFJcw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "SME.sk",
+    "domain": "sme.sk",
+    "url": "https://www.sme.sk"
+   },
+   "publishedAt": "2026-11-02T14:09:24.000Z",
+   "firstSeenAt": "2026-11-03T13:46:14.672Z",
+   "categories": [
+    "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "224fdadef4dbe6c4",
    "title": "Ako potravina získava Značku kvality? Za ocenením stojí odborné posudzovanie aj dôsledná kontrola",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3d0SHB4Z2JzYzJWbHRHNE1WdHdJU0JVYTZIeTl4OC1ZQ1pEdlFVNGpBS2RSVlowRlJoN2R1TV8xUnNoSkFhTHB4T1ZRWTJ0OXgwQ2VkazdmYS16VzN0S0dza29jbXpZRVMweFFQYWN2dEFMQVZzbFJ0NU1VTXBoNUE1VEZUeGRYdHFwdF9TTldUeDYzQ3U3QlVKZFpGamdvd0o3VFpUaHliYW5heExxbHU3Ym5Edw?oc=5",
@@ -13556,6 +13805,25 @@
    "firstSeenAt": "2026-11-03T11:18:58.372Z",
    "categories": [
     "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "9ad0091991822c43",
+   "title": "Krádež storočia? Z Binance odtiekli miliardy dolárov, útočníkovi stačil trik s 50 podpismi - Diskusia",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEFrcUllTjdBZmc3amRaZUFVNzJ1OXB6V25vTl9OVE9qNUtxM1Z1NEdlRjV4X19CeUsyZk5EY3pLV0owdXZPQlJnRU15c0daSnAzZjJlbVNOeGJvVlpvQlhRNEJMbHJzZlZLMG9faFU0U0E5MVFsYzZ2UDA0aGhmcE5YcllvYTU3N1dmNWI3V01kVEp6MjdXMm93el96RGI4aTdnVUpib3lQWVVWZlYxaHFkbG8tQQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "SME.sk",
+    "domain": "sme.sk",
+    "url": "https://www.sme.sk"
+   },
+   "publishedAt": "2026-11-02T12:46:44.000Z",
+   "firstSeenAt": "2026-11-03T13:46:18.578Z",
+   "categories": [
+    "ekonomika"
    ],
    "image": "",
    "summary": "",
@@ -15536,6 +15804,25 @@
    "firstSeenAt": "2026-11-03T11:12:28.605Z",
    "categories": [
     "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "dbe7c21e9c89dcbb",
+   "title": "Šéf Ryanairu sa vyhráža výrazným zdražovaním leteniek už od januára. Prstom ukázal na vinníka - Ekonomika - Správy",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObi0tRF9MbzlEZnY0LTZJZ0NzZ3R2YVZ5cHBxQ1VjZ2JWcmhtZHA2UHVQMFJCWGtEYjRBTzRzLWFWWTc2X0xPWjVSb1dURmZyUkJDUXVPeGdKdi1kdG5hd2xrbWc5a3JBcDh5VXNqZDRwWFBmc3hZeExDMW82OGxFUDd5RENaSFcyQlRVOGJqajBmYU45Mmd3RURqUi1QQ0ZfUkU2WXJVM1ZuS0tVdkVBS19KR090Uk5EVTI4emhOblZnQWYxVEM3SmRRQ3NRWFNzN1UzY2h3?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Pravda",
+    "domain": "pravda.sk",
+    "url": "https://www.pravda.sk"
+   },
+   "publishedAt": "2026-11-02T10:19:09.000Z",
+   "firstSeenAt": "2026-11-03T13:46:18.578Z",
+   "categories": [
+    "ekonomika"
    ],
    "image": "",
    "summary": "",
@@ -21099,6 +21386,25 @@
    "via": "googlenews"
   },
   {
+   "id": "0a1cc6074d97a501",
+   "title": "Minister Susko komentuje dianie v Poľsku: Učitelia právneho štátu stratili reč!",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXJWNmY4MWpRN1htOFd1OHlYTUhiSmdiN0FMaUo4bkdzZVVvNWJ6WTJXQWZIV2M5aUhlSllSVlRwaHNLaGtDUW9rSzZoR1RXcGFQTjJZejlzLVhjU3I1eTF3NFBUWHU0X0k3RzYyWksxeHdaaFJFLWVhV1JpU0h5OWVaMDZzendubWt6V2twQzlseHcxalN6OHVIOXQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eReport.sk",
+    "domain": "ereport.sk",
+    "url": "https://ereport.sk"
+   },
+   "publishedAt": "2026-10-31T18:18:27.000Z",
+   "firstSeenAt": "2026-11-03T13:46:15.940Z",
+   "categories": [
+    "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "822665e6a9b4edb4",
    "title": "Čo sa skutočne dialo na európskych protestoch? Sociálne siete ponúkajú aj skreslený obraz",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ3FfSGE0ZkNQWEwwTHBTYVR5bG51LTFJcnV2S1ltcU1sQlY2QlBkc2xxZGY2TE9oY0RBeG1iejJyMTNHLXVuUE8zT0ctank2enJYVWc3N2lXdjdySlZwSlo3ZHZUYmJyMWNWbm9uRy1IZk15dEEzTFdrOXJWUGhFRXJTNTNEQnhWX1loMzNiZERiamlYUWhHeE1pQkNfdksyd0NtUDM2Y1V1MUl5QzRqVkpQRERnZlVucTFnQnAyc2plcVh4MWxlNW51SzFyN0k?oc=5",
@@ -22803,6 +23109,25 @@
    "firstSeenAt": "2026-11-03T13:44:19.120Z",
    "categories": [
     "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "7807495fae8b53c9",
+   "title": "zmena programu",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fRUpVWGE5NWl6ak5ZdllodXZuZ0VQYUx3Q21BT2xpczlORmJ3V0FUY3k3a1J3dUIta3YxTlRPUURmQmNrc0prRjFPVGRHY29MTGhYYzhwbw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Mediálne",
+    "domain": "medialne.trend.sk",
+    "url": "https://medialne.trend.sk"
+   },
+   "publishedAt": "2026-10-29T12:45:42.000Z",
+   "firstSeenAt": "2026-11-03T13:46:13.988Z",
+   "categories": [
+    "marketing"
    ],
    "image": "",
    "summary": "",
