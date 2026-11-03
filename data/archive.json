@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T13:46:36.582Z",
+ "updatedAt": "2026-11-03T13:48:24.754Z",
  "items": [
   {
    "id": "bce9b6920495e21a",
@@ -1986,6 +1986,25 @@
    "via": "googlenews"
   },
   {
+   "id": "d8b097859e5d1d07",
+   "title": "Mikaela Shiffrinová odmieta špekulácie. Prečo radšej odišla domov?",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWV0UWgwNzQ2TTMzb3RDZk5GT2xuTUNmZFRtRkN2XzBDb2M2WURBalh5dzRoZDdEZVlOSjh3WHdVVVNzMGl5MWVUb1FuU2pBWmpCNDBhcVkzVjAxQWxwZWExYWstV0l0cEY5LXNkV3k1Z0ZBcEgzRUxxTnhXVGpFdzFUQms5aEt6VjdJYU9RZlpHZmV4TWJkNWlFTW1VTVUzOXdNc1lKa010RUlTRFdoYmxBaGZqM2pMUC01anFHU2JacHAxOXk0X0JYVQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-03T11:26:47.000Z",
+   "firstSeenAt": "2026-11-03T13:48:08.968Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "4f1da87fcebd5316",
    "title": "Ceny bývania na Slovensku v treťom štvrťroku zrýchlili medziročný rast na 10,9 percenta",
    "url": "https://www.sme.sk/index/c/ceny-byvania-na-slovensku-v-tretom-stvrtroku-zrychlili-medzirocny-rast-na-10-9-percenta",
@@ -2151,6 +2170,25 @@
    "firstSeenAt": "2026-11-03T13:46:24.977Z",
    "categories": [
     "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "8f67e72feef6dedd",
+   "title": "HeyGen – Vytvárajte profesionálne videá s hovoriacimi postavami, ultrarealistickými avatarmi a synchronizáciou pier za pár minút",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFNnLV9CN1Bvb29iczNiLUxXU0g4YnJwSk0zcmNEU1l1Y0VXNDAzbmZ6VW02YXpJaUw5ZzduNUMxSGd0ck1tYTB0WFRNcU1lamtmMmcwbDJ6NHNxTlh3T3dibENiTkFWYVdUYnFSSmZCbl9TZ2M0X0JERWJjWlRWMU43RDh5TVJadmVBZWgtU1JwTkljbUxMQVZPVXlpVWEyTG5Rd1M4OGRWak5uR3d1WWxZeGFCZXl3OFdPc29SRk9PMFJaRU54ekozdnRWNm1NOHZUci0zOEhwVFowTGozODZlMGZFdw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "quasa.io",
+    "domain": "quasa.io",
+    "url": "https://quasa.io"
+   },
+   "publishedAt": "2026-11-03T11:17:39.000Z",
+   "firstSeenAt": "2026-11-03T13:48:02.742Z",
+   "categories": [
+    "marketing"
    ],
    "image": "",
    "summary": "",
@@ -3567,6 +3605,25 @@
    "image": "https://static.hnonline.sk/images/slike/2026/11/03/7542968.jpg",
    "summary": "Vládna koalícia prišla o parlamentnú väčšinu po tom, ako poslanec Roman Malatinec oznámil odchod zo Strany vidieka Huliakovci a vstup do vznikajúcej strany TARABA – Rozvoj Slovenska Tomáša Tarabu. --- Michelko sa…",
    "via": "rss"
+  },
+  {
+   "id": "df7ef0cb32e2faec",
+   "title": "Huliak po Malatincovom odchode: Skoro som spadol zo stoličky. Opozícia hovorí o vydieraní a žiada voľby",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkhSd0FORE1UMDlteUtES0dTVHJxbkpibUVDYWpzRlZnU1R1b25DcnRlWVdLWWh6SEpyTkpzNm9MYXlLR1g2V0J2WXVfOFl6b2hja2VhNmdpN3JqZ1RYdXEyQjJOU1RCeDA4MFl4V21KZXRXVldJYWZ1ZDI5UEtLWm9Cejh3aGZxR003VzRocG5xZXBqZzg4a25pRjVYcHV0U3lBdFF0eTU4S0ZsX1czcVhfYmQ2dW5xa3VpRXlPN2h6ZElPQ3otaXdrd0puTXR2RG1Jbw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "HNonline",
+    "domain": "hnonline.sk",
+    "url": "https://hnonline.sk"
+   },
+   "publishedAt": "2026-11-03T10:15:00.000Z",
+   "firstSeenAt": "2026-11-03T13:48:11.569Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "882bce18b0022b16",
@@ -8657,6 +8714,25 @@
    "via": "rss"
   },
   {
+   "id": "ce07ec02152793b3",
+   "title": "Šípky: PDC European Tour - Austrian Darts Open Streamovanie Šport",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTZBMmZObWVQR25wRmptSWtVZEpWRDhYeXhjdExrbkNkVnNrLUxUUlIxS0lLNkltVVdXZnJ1S3YtU3BmeTV4ZFc0TjlmVy03Y3J2NVVhVzY5NFZCZ1RfRUs3TmxWTTZkYmlISldhZ3hfSW9MZXJXTHllVEtBVFItNDVET3FhcjVFS0E4NDZNeXpyUTJJWm5TM2pXSjRRWHV6NXc?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "CANAL+",
+    "domain": "canalplus.com",
+    "url": "https://www.canalplus.com"
+   },
+   "publishedAt": "2026-11-02T22:59:14.000Z",
+   "firstSeenAt": "2026-11-03T13:48:08.968Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "8471fc9a2442356a",
    "title": "Jennifer Lopez, Ciara či Pussycat Dolls. Slovenský fotograf prezradil, ako sa dostal k svetovým hviezdam",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQXFVZFJibkpDZzJlQ2YwejROQXdWUFQ0VWdTazhTVHVkdDI2ZGZLRkNxLUdDalZpUnVXSnlOVTFONk1TMkg5Zml0QlZ0ZDNpS3RPXzBqdWtEdFFvOWhDY0NqMHpZRENETXdFeEsydjdlSkNudUJBd3VLcGlpaTMwaWtJVlZ3VEs4Ny1GQUE1dzV4b0dvSXR0SnBGbWxYQnNrTUNVRlY2WFNxU2lvNFhmWkZCVEhTNE5rdVc5cmVXWW1jNmZpMVZZZkh0X2VKQ2R5SXZ2MERhLVo?oc=5",
@@ -9475,6 +9551,25 @@
    "via": "googlenews"
   },
   {
+   "id": "91bc34a58f1142d6",
+   "title": "Nick DiGiovanni: Od MasterChef k 50M+ sledovateľov – Kráľ chaotického varenia",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0lkNmMyMUprODM4bEVDLVktTk8yb1JKYnpOR2p6OXpXU21WWjFmQVE2UWNpN3pxWGJybmFBVGl2R0t4XzgwazUtUjhZTXZfZzZjb1ZfMTF0aTZvNWk5TWQtMTNCTmF0ZS0xWHNpVXZNblJJYm1SZV9ac0FDQXJWQjdwMDdZY0UwZHhiZEgxUWFjTHFqS3dDcEk2ZF9EdXZf?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "quasa.io",
+    "domain": "quasa.io",
+    "url": "https://quasa.io"
+   },
+   "publishedAt": "2026-11-02T19:38:17.000Z",
+   "firstSeenAt": "2026-11-03T13:48:02.742Z",
+   "categories": [
+    "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "a0a0e3b38da187d6",
    "title": "Halák sa po 12 rokoch pripojil k reprezentácii a čaká na ponuky. Hokej mi chýbal, priznáva",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOTd1WWhPTXNFek82U1lRWkNiYzFxU1gwcmt6elFreUF3eF9JM1Bka2tOU3BmalRUQlBKR1M1X0FjSUhUMEJ4TDIweGZVTkZaQzd4TjNHLV9Ba3lkNThLMmt6dy1ScG4ydDVLbzdTT0swVERySTRmOTVsZTBfWXdPZXA3OElPU240UDR0Y3hMNlZGanFYRTZhUlpSS0JBaE9LY2FRQ3RNc0x3d0h6S181SjRTc1o4c0xJVDBRR1pzTXItUUhFUm5yNFRXNnA1UXhaQkdPcmpQbWhheDc4MmhUSXlENElhNlYwa08zejFCSVNidw?oc=5",
@@ -9570,6 +9665,25 @@
    "via": "googlenews"
   },
   {
+   "id": "031248a4cbd6361b",
+   "title": "Nový trénerský štáb reprezentácie je pre SFZ ekonomicky výhodný. Zväz ročne ušetrí vyše pol milióna eur",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMUFZSWY5Z0c3MkZFaVBMYlRzSU0xM3RYQTdsVUZvRjFLbDVMb0lwRHRQdllzZTB3ZFFPS0FIRmFHZ3liNkVrUE9vLUJPOVlYUkgxdWNXcnQ2bXhOZU5yTjgxcWphRUNleUM4M2d3TFhpeWQxRW1ZVlBwUUtGWjdIM3VIV2ZmS0I1STJ4WE1pTmpmQVdwQm91SG84cmZzVkJoWllWTjFjZWthR3dTX05NRWc2cUUyZWtQOGFMNTkzX0ZnRUZ0TzVpRTFyaG5MVXFiU1dGd250TVpsUQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "tnlive.sk",
+    "domain": "tnlive.sk",
+    "url": "https://tnlive.sk"
+   },
+   "publishedAt": "2026-11-02T19:20:00.000Z",
+   "firstSeenAt": "2026-11-03T13:48:08.968Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "3a7e652f9cb66f92",
    "title": "Netanjahu môže prísť o moc. Arabské strany ponúkajú opozícii cestu k väčšine",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaW1QcHZhTUtrcXJaMmFhVXg0Z0VZQlBjaDBTRkFBeFFFLXFiSXBzdUMxeVdMTXlrZ1N4SkhiaVppdHRWUkFEbWp3ZkIwVDdibkxxVFNYaGswQTN1bkJ1N3NPX3RjV0tiNU51Zm1UZ2VaRElLWGdfdVg1a1hWZW5fQjZnYzNOeUl3a25yVHVlT2c4cFlQQjc4c0JkMEN6SzJIS0N0WlduMU45UklQYlRBTkRhZU9VYzNmeHk0QzIybGhwWGkwOElJVW1nSHVBdw?oc=5",
@@ -9583,6 +9697,25 @@
    "firstSeenAt": "2026-11-03T11:12:36.782Z",
    "categories": [
     "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "e05bf55c7de163ea",
+   "title": "VIDEO Doma a bez fanúšikov belasých! Na hráča Slovana čaká výnimočný súboj: Neuveriteľné",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS0FaTlRuSGNyNmFwUC1aYVpXQTRUaGxiTDBTanJYeFJMV2tPMGIxUXRtWktwN3l0WEM5OU9OTk51MnRuTEtLVllJVG9IQkcxdDcyVnlDVF9QTVNFVVpDaFBiQnduYzd1b2ZSbWpVQk9pRjZnN0RWZFFOZHVZTVZMWnhxeG9IeWtidDZPa0EtZjZjV3lzZFVLb2hjRE1UR1ROYnBJbVBKbkxxLWNldGpGQmhhdnFKQQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-02T19:17:00.000Z",
+   "firstSeenAt": "2026-11-03T13:48:08.968Z",
+   "categories": [
+    "sport"
    ],
    "image": "",
    "summary": "",
@@ -10292,6 +10425,25 @@
    "via": "googlenews"
   },
   {
+   "id": "40d064894ebbbfaa",
+   "title": "Tenis: ATP Challenger Tour: Slovak Open",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1BtRU8tcUR0blVWOXF1X3RxZkdiM2xJRmx5UUdRdEVVblBsQ01ramZLa0xtYTZpM0gwcXpBSUZSbWhkeEh1OWtTWTY1dnNndnQyczFnTC1KaVdKVm5MTzgtT1BhbTZQQlpFTF92bmtaNmVGVE9XZGk2UDlWS2lGbUd5eTFNa185c0NYM2h5Y2MwS091cVRN?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Canal+",
+    "domain": "canalplus.com",
+    "url": "https://www.canalplus.com"
+   },
+   "publishedAt": "2026-11-02T18:19:07.000Z",
+   "firstSeenAt": "2026-11-03T13:48:08.968Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "176b6b6de655103a",
    "title": "Hlavné správy z 2. novembra",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVGJLbldienBSWTdtb2NERlJJWldKMHQyNGhaQmNNQjNfdHhBcE9FYmlNQ3dzTzk3UFpNODV0ekloQ3pWYTNkTElMeHY0dHR0ZG9XLWFFaGNjNUtHWUc4cUhTWUYtREpVMFhEQURUR2REd2NJLVBYZ0lKLTdyM1BMZEQ0QV9Jc2VzbllNUQ?oc=5",
@@ -10552,6 +10704,25 @@
    "firstSeenAt": "2026-11-03T11:12:36.783Z",
    "categories": [
     "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "4fa5e28410c6ebe3",
+   "title": "Quasa Connect — trhovisko a komunikačná platforma pre klientov a profesionálov",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnFwaXdpQWcwN2YxZmhxWXR4VFYxMVJkYU9KWlYyVWdpTS1Rb2JLcWRqcnpob2tGc2NlMmUzaWNoWGtRLU9ILXBISVdrZ0U3dmwtbE1oVGh6ZnA0b284MkpIZDRVVHE1aGZhcnFkc1g5MlpsZVdnRktiV1JWNUpNbk4xQm8ybWdnUTlpdjhpZ1U2bnhKLXpfLXRnVkliQjJfREpJQg?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "quasa.io",
+    "domain": "quasa.io",
+    "url": "https://quasa.io"
+   },
+   "publishedAt": "2026-11-02T17:53:19.000Z",
+   "firstSeenAt": "2026-11-03T13:48:02.742Z",
+   "categories": [
+    "marketing"
    ],
    "image": "",
    "summary": "",
@@ -11637,6 +11808,25 @@
    "firstSeenAt": "2026-11-03T11:12:28.604Z",
    "categories": [
     "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "bef1ca52a0a21840",
+   "title": "Slováci vycestujú do Nemecka s viacerými zmenami. Országh očakáva kvalitnú previerku",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR2YyLXdTeWtXUmxXOWQ3ZFRWN0dOeW9LdnU3SGVyN0l3a3RNbGYxTVptSHFPVXRWWlYzTEVHcEpBVDFQa1RzWDVSNGxuSWdjdkFra2hXX3JLbzR2QUd0UHpuRUg4cjBKLUl1R0FQbHdwSDhYcVNUNFlQbHZKOU5pY21IN3lqUlpfOWFPTG5GdVUwRzBnZVZKQkw3SWZNLUlvSV8tLVdvS3EwWXJ3YlRTSngwYm5tS0lfVzltU2ROWQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "tnlive.sk",
+    "domain": "tnlive.sk",
+    "url": "https://tnlive.sk"
+   },
+   "publishedAt": "2026-11-02T15:45:00.000Z",
+   "firstSeenAt": "2026-11-03T13:48:08.969Z",
+   "categories": [
+    "sport"
    ],
    "image": "",
    "summary": "",
@@ -14051,7 +14241,8 @@
    "publishedAt": "2026-11-02T12:35:04.000Z",
    "firstSeenAt": "2026-11-03T11:12:32.212Z",
    "categories": [
-    "ekonomika"
+    "ekonomika",
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -14222,6 +14413,25 @@
    },
    "publishedAt": "2026-11-02T12:22:06.000Z",
    "firstSeenAt": "2026-11-03T11:18:57.038Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "17481430531f7191",
+   "title": "Úroky môžu opäť rásť. Guvernér NBS varuje pred drahšími energiami a návratom inflácie - Ekonomika - Správy",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVHB2UGZJTlJJZ0FDVkhQelBibHpJVS0yRnY5akhWOFo5RXNGYTB1ZDFoTUpZOFR1ZllmV3BiNlJlZlFCMmg1R3RqVHZOOEtKWEhPaDdGTjA2ODg1U1RRb3lIX3hxVXFMZEw5Rk1La2xoZzZ4cTdfUmZ1MkxWaV8wLWdVcXFGNW1lbV9CaVFTcUNRVnR5T2N5ZWN3MGVBUGxPMnp0VHZSamYwMWROV2wtN2ZKdkJpX2NsSGhwanJMNjhndGMwdFBoeUE2dHVNQQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Pravda",
+    "domain": "pravda.sk",
+    "url": "https://www.pravda.sk"
+   },
+   "publishedAt": "2026-11-02T12:21:59.000Z",
+   "firstSeenAt": "2026-11-03T13:48:06.907Z",
    "categories": [
     "ekonomika"
    ],
@@ -14566,6 +14776,25 @@
    "firstSeenAt": "2026-11-03T11:12:36.783Z",
    "categories": [
     "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "0b13b4a0aea68a9f",
+   "title": "Nepretržitá ochrana pri dome. Rodinná dráma Steffi Grafovej dosiahla trpké dno",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0VJc0dfOF9jYnhzMWtOSExFQkUyclBLQmRwMFNweFlMSGFPaDhhb3VVaDhQZlo2MkhSTTJVUm1KMkFDU080OHBEeXdBS01wdkI1SVVYT0diVjdZU0h3UjVRLUVBeWMwTUxoY0JCZHdvWldXMU5qc2dWMkZoRTJUR3hWM2FVcWw2X1BVUFU4QzRlNUI1V2JVQlBYRkg3ZXJVRFRhSmRES3ZjSFUz?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-02T12:00:40.000Z",
+   "firstSeenAt": "2026-11-03T13:48:08.261Z",
+   "categories": [
+    "sport"
    ],
    "image": "",
    "summary": "",
@@ -15104,6 +15333,25 @@
    "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/09/us-open-tennis666980.jpg",
    "summary": "Mama Irina ho naučila hrať tenis a podporovala ho aj v boji s cukrovkou.",
    "via": "rss"
+  },
+  {
+   "id": "4cb74cfc2beee5d2",
+   "title": "Legendárny Lidström vyzýva švédsku reprezentáciu na bojkot. Postoj zväzu však nie je jednoznačný",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDdJU3Y5RG1oUExILXpKLXgzZEJycFAtNGFqbW5LS0phcWpXVlFWUXRrQWZqbHJBdUNIVHpDVXlxRS1SZDItRmVNZTBMWnJIa0F3OG13VXNOemhlakVDbGRuNFNzdWxhbU40TFZBbzBXSmU0c3VmcUc4TGJ6WXRjTnZoSE5oRjRTc0hxdTRLNW5qRzZrZVFITzNQV0VRdnktN3hkeVl5Tm93RVg4RDdrUjFaMjNmR3hJM0ZvbEFuWTRpRS1DOFE?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-02T11:21:20.000Z",
+   "firstSeenAt": "2026-11-03T13:48:08.968Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "b2244640a46315f6",
@@ -23109,6 +23357,25 @@
    "firstSeenAt": "2026-11-03T13:44:19.120Z",
    "categories": [
     "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "ed38750e87085806",
+   "title": "Venezuela očakáva investície do ropného sektora vo výške takmer 76 miliárd dolárov",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVV6dHl1bXpVX0NLam9KVmZTZ3Bxa2FheF81YWZHOTJzYTF1bHRXbU1rOVRaQ2VZX2lXVFpmUVZXNjk1Szh1U3lNckt6ZnlQeVNwUUphc1hqMXpNdm9nclIydkFGMm9oQnVrY1dva2ROVFFkNVhZSmhnMmVQOGlUajhFbUlrQ2E5eng0bHpMbVVMRFNkMTFrenVDUWVwb1I1QUdr?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eReport.sk",
+    "domain": "ereport.sk",
+    "url": "https://ereport.sk"
+   },
+   "publishedAt": "2026-10-29T13:08:32.000Z",
+   "firstSeenAt": "2026-11-03T13:48:03.923Z",
+   "categories": [
+    "marketing"
    ],
    "image": "",
    "summary": "",
