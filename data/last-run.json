@@ -1,9 +1,9 @@
 {
- "at": "2026-11-06T11:48:56.396Z",
- "added": 258,
- "merged": 4,
+ "at": "2026-11-06T18:53:50.188Z",
+ "added": 327,
+ "merged": 11,
  "excluded": 24,
- "total": 3510,
+ "total": 3809,
  "failed": 3,
  "feeds": [
   {
@@ -12,9 +12,9 @@
    "url": "https://www.teraz.sk/rss/ekonomika.rss",
    "ok": true,
    "items": 15,
-   "fresh": 13,
+   "fresh": 15,
    "skipped": 0,
-   "ms": 426
+   "ms": 212
   },
   {
    "category": "ekonomika",
@@ -22,9 +22,9 @@
    "url": "https://ekonomika.sme.sk/rss",
    "ok": true,
    "items": 20,
-   "fresh": 8,
+   "fresh": 16,
    "skipped": 0,
-   "ms": 940
+   "ms": 786
   },
   {
    "category": "ekonomika",
@@ -34,17 +34,7 @@
    "items": 20,
    "fresh": 1,
    "skipped": 19,
-   "ms": 1304
-  },
-  {
-   "category": "ekonomika",
-   "feed": "Google News · téma BUSINESS",
-   "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=sk&gl=SK&ceid=SK%3Ask",
-   "ok": true,
-   "items": 26,
-   "fresh": 4,
-   "skipped": 0,
-   "ms": 400
+   "ms": 1103
   },
   {
    "category": "ekonomika",
@@ -54,37 +44,47 @@
    "items": 10,
    "fresh": 1,
    "skipped": 9,
-   "ms": 579
+   "ms": 299
+  },
+  {
+   "category": "ekonomika",
+   "feed": "Google News · téma BUSINESS",
+   "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=sk&gl=SK&ceid=SK%3Ask",
+   "ok": true,
+   "items": 27,
+   "fresh": 7,
+   "skipped": 0,
+   "ms": 407
   },
   {
    "category": "ekonomika",
    "feed": "Google News · „ekonomika Slovensko“",
    "url": "https://news.google.com/rss/search?q=ekonomika%20Slovensko%20when%3A2d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 42,
-   "fresh": 17,
+   "items": 35,
+   "fresh": 12,
    "skipped": 0,
-   "ms": 263
+   "ms": 276
   },
   {
    "category": "ekonomika",
    "feed": "Google News · „inflácia OR HDP OR NBS OR ECB OR \"štátny rozpočet\"“",
    "url": "https://news.google.com/rss/search?q=infl%C3%A1cia%20OR%20HDP%20OR%20NBS%20OR%20ECB%20OR%20%22%C5%A1t%C3%A1tny%20rozpo%C4%8Det%22%20when%3A3d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 43,
-   "fresh": 2,
+   "items": 50,
+   "fresh": 10,
    "skipped": 0,
-   "ms": 295
+   "ms": 360
   },
   {
    "category": "ekonomika",
    "feed": "Google News · „firmy OR investícia OR prepúšťanie OR mzdy“",
    "url": "https://news.google.com/rss/search?q=firmy%20OR%20invest%C3%ADcia%20OR%20prep%C3%BA%C5%A1%C5%A5anie%20OR%20mzdy%20when%3A2d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 44,
-   "fresh": 6,
+   "items": 42,
+   "fresh": 5,
    "skipped": 0,
-   "ms": 287
+   "ms": 284
   },
   {
    "category": "ekonomika",
@@ -92,47 +92,47 @@
    "url": "https://hnonline.sk/rss",
    "ok": false,
    "error": "HTTP 403",
-   "ms": 6349
+   "ms": 6193
   },
   {
    "category": "marketing",
    "feed": "Google News · „site:strategie.hnonline.sk“",
    "url": "https://news.google.com/rss/search?q=site%3Astrategie.hnonline.sk%20when%3A7d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 54,
-   "fresh": 13,
+   "items": 61,
+   "fresh": 9,
    "skipped": 0,
-   "ms": 346
+   "ms": 340
   },
   {
    "category": "marketing",
    "feed": "Google News · „site:medialne.trend.sk“",
    "url": "https://news.google.com/rss/search?q=site%3Amedialne.trend.sk%20when%3A14d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 61,
-   "fresh": 3,
+   "items": 62,
+   "fresh": 1,
    "skipped": 0,
-   "ms": 250
+   "ms": 278
   },
   {
    "category": "marketing",
    "feed": "Google News · „marketing“",
    "url": "https://news.google.com/rss/search?q=marketing%20when%3A3d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 35,
-   "fresh": 2,
+   "items": 33,
+   "fresh": 5,
    "skipped": 0,
-   "ms": 301
+   "ms": 396
   },
   {
    "category": "marketing",
    "feed": "Google News · „reklama OR \"reklamná kampaň\" OR reklamná agentúra“",
    "url": "https://news.google.com/rss/search?q=reklama%20OR%20%22reklamn%C3%A1%20kampa%C5%88%22%20OR%20reklamn%C3%A1%20agent%C3%BAra%20when%3A3d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 16,
-   "fresh": 0,
+   "items": 24,
+   "fresh": 5,
    "skipped": 0,
-   "ms": 262
+   "ms": 268
   },
   {
    "category": "marketing",
@@ -142,27 +142,27 @@
    "items": 30,
    "fresh": 2,
    "skipped": 0,
-   "ms": 248
+   "ms": 319
   },
   {
    "category": "marketing",
    "feed": "Google News · „\"sociálne siete\" OR \"digitálny marketing\" OR \"online marketing\"“",
    "url": "https://news.google.com/rss/search?q=%22soci%C3%A1lne%20siete%22%20OR%20%22digit%C3%A1lny%20marketing%22%20OR%20%22online%20marketing%22%20when%3A5d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 25,
-   "fresh": 3,
+   "items": 26,
+   "fresh": 1,
    "skipped": 0,
-   "ms": 233
+   "ms": 370
   },
   {
    "category": "marketing",
    "feed": "Google News · „marketingová agentúra OR \"PR agentúra\" OR mediálna agentúra“",
    "url": "https://news.google.com/rss/search?q=marketingov%C3%A1%20agent%C3%BAra%20OR%20%22PR%20agent%C3%BAra%22%20OR%20medi%C3%A1lna%20agent%C3%BAra%20when%3A7d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 4,
+   "items": 3,
    "fresh": 0,
    "skipped": 0,
-   "ms": 177
+   "ms": 264
   },
   {
    "category": "politika",
@@ -170,9 +170,9 @@
    "url": "https://spravy.pravda.sk/rss/xml/",
    "ok": true,
    "items": 20,
-   "fresh": 8,
-   "skipped": 12,
-   "ms": 2
+   "fresh": 7,
+   "skipped": 13,
+   "ms": 3
   },
   {
    "category": "politika",
@@ -182,7 +182,7 @@
    "items": 15,
    "fresh": 15,
    "skipped": 0,
-   "ms": 136
+   "ms": 132
   },
   {
    "category": "politika",
@@ -190,9 +190,9 @@
    "url": "https://dennikn.sk/feed/",
    "ok": true,
    "items": 10,
-   "fresh": 4,
-   "skipped": 5,
-   "ms": 1
+   "fresh": 2,
+   "skipped": 7,
+   "ms": 2
   },
   {
    "category": "politika",
@@ -200,49 +200,49 @@
    "url": "https://domov.sme.sk/rss",
    "ok": true,
    "items": 20,
-   "fresh": 9,
+   "fresh": 11,
    "skipped": 0,
-   "ms": 719
+   "ms": 713
   },
   {
    "category": "politika",
    "feed": "Google News · téma NATION",
    "url": "https://news.google.com/rss/headlines/section/topic/NATION?hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 68,
-   "fresh": 20,
+   "items": 70,
+   "fresh": 34,
    "skipped": 0,
-   "ms": 485
+   "ms": 641
   },
   {
    "category": "politika",
    "feed": "Google News · „politika“",
    "url": "https://news.google.com/rss/search?q=politika%20when%3A2d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 76,
-   "fresh": 20,
+   "items": 71,
+   "fresh": 27,
    "skipped": 0,
-   "ms": 287
+   "ms": 455
   },
   {
    "category": "politika",
    "feed": "Google News · „vláda OR parlament OR koalícia OR opozícia“",
    "url": "https://news.google.com/rss/search?q=vl%C3%A1da%20OR%20parlament%20OR%20koal%C3%ADcia%20OR%20opoz%C3%ADcia%20when%3A2d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 82,
-   "fresh": 8,
+   "items": 66,
+   "fresh": 19,
    "skipped": 0,
-   "ms": 292
+   "ms": 336
   },
   {
    "category": "politika",
    "feed": "Google News · „premiér OR prezident OR minister Slovensko“",
    "url": "https://news.google.com/rss/search?q=premi%C3%A9r%20OR%20prezident%20OR%20minister%20Slovensko%20when%3A2d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 24,
-   "fresh": 4,
+   "items": 26,
+   "fresh": 3,
    "skipped": 0,
-   "ms": 237
+   "ms": 382
   },
   {
    "category": "politika",
@@ -250,17 +250,17 @@
    "url": "https://hnonline.sk/rss",
    "ok": false,
    "error": "HTTP 403",
-   "ms": 6048
+   "ms": 6107
   },
   {
    "category": "ryba",
    "feed": "Google News · „rybári OR rybolov OR rybárstvo“",
    "url": "https://news.google.com/rss/search?q=ryb%C3%A1ri%20OR%20rybolov%20OR%20ryb%C3%A1rstvo%20when%3A14d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 26,
-   "fresh": 0,
+   "items": 27,
+   "fresh": 1,
    "skipped": 0,
-   "ms": 232
+   "ms": 286
   },
   {
    "category": "ryba",
@@ -270,7 +270,7 @@
    "items": 35,
    "fresh": 1,
    "skipped": 24,
-   "ms": 257
+   "ms": 370
   },
   {
    "category": "ryba",
@@ -278,9 +278,9 @@
    "url": "https://news.google.com/rss/search?q=kapor%20OR%20pstruh%20OR%20sumec%20OR%20%C5%A1%C5%A5uka%20OR%20zub%C3%A1%C4%8D%20when%3A14d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
    "items": 10,
-   "fresh": 4,
+   "fresh": 1,
    "skipped": 0,
-   "ms": 209
+   "ms": 272
   },
   {
    "category": "ryba",
@@ -290,17 +290,17 @@
    "items": 1,
    "fresh": 0,
    "skipped": 0,
-   "ms": 212
+   "ms": 247
   },
   {
    "category": "ryba",
    "feed": "Google News · „site:srzrada.sk“",
    "url": "https://news.google.com/rss/search?q=site%3Asrzrada.sk%20when%3A30d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 32,
-   "fresh": 20,
+   "items": 34,
+   "fresh": 22,
    "skipped": 0,
-   "ms": 210
+   "ms": 341
   },
   {
    "category": "sport",
@@ -308,9 +308,9 @@
    "url": "https://www.teraz.sk/rss/sport.rss",
    "ok": true,
    "items": 15,
-   "fresh": 14,
+   "fresh": 15,
    "skipped": 0,
-   "ms": 131
+   "ms": 140
   },
   {
    "category": "sport",
@@ -318,39 +318,39 @@
    "url": "https://sport.sme.sk/rss",
    "ok": true,
    "items": 200,
-   "fresh": 23,
+   "fresh": 26,
    "skipped": 0,
-   "ms": 977
+   "ms": 973
   },
   {
    "category": "sport",
    "feed": "Google News · téma SPORTS",
    "url": "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 68,
-   "fresh": 16,
+   "items": 70,
+   "fresh": 21,
    "skipped": 0,
-   "ms": 545
+   "ms": 151
   },
   {
    "category": "sport",
    "feed": "Google News · „šport Slovensko“",
    "url": "https://news.google.com/rss/search?q=%C5%A1port%20Slovensko%20when%3A2d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 62,
-   "fresh": 16,
+   "items": 61,
+   "fresh": 29,
    "skipped": 0,
-   "ms": 289
+   "ms": 332
   },
   {
    "category": "sport",
    "feed": "Google News · „hokej OR futbal OR tenis Slovensko“",
    "url": "https://news.google.com/rss/search?q=hokej%20OR%20futbal%20OR%20tenis%20Slovensko%20when%3A2d&hl=sk&gl=SK&ceid=SK%3Ask",
    "ok": true,
-   "items": 32,
-   "fresh": 1,
+   "items": 34,
+   "fresh": 3,
    "skipped": 0,
-   "ms": 283
+   "ms": 336
   },
   {
    "category": "sport",
@@ -358,7 +358,7 @@
    "url": "https://hnonline.sk/rss",
    "ok": false,
    "error": "HTTP 403",
-   "ms": 6053
+   "ms": 6071
   }
  ]
 }
