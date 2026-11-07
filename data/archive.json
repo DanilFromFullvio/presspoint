@@ -1,6 +1,1433 @@
 {
- "updatedAt": "2026-11-07T17:25:49.363Z",
+ "updatedAt": "2026-11-07T21:01:23.877Z",
  "items": [
+  {
+   "id": "963a61183b8cdd75",
+   "title": "Izraelský prezident zostavením novej vlády v nedeľu poverí Eizenkota",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSldwSnlYT1RpS3JrcFkwbDNuQVpBNXRDdnQ5RWZETnlMUXdxV3NZUWpxV3JWWUtZREpRQU54ZGxxS3NFakFQOWNIMzM0QkkxVEhyOVJFX2h6NnpmZkNobU5DallQcFF0amRuejlUX3l6MEpKYzBxYmgzVTlPYmw1RDhkcUJJTEwwZnJDNXdCWG5qWEdpVWlaY2ZTLUR5V0E?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "SME.sk",
+    "domain": "sme.sk",
+    "url": "https://www.sme.sk"
+   },
+   "publishedAt": "2026-11-07T20:48:45.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.753Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "ec31518a4b364a3f",
+   "title": "Dážď poriadne zabrzdil kvalifikáciu. Náročné podmienky zvládol najlepšie McLaren",
+   "url": "https://sportnet.sme.sk/spravy/motorizmus-f1-vysledky-kvalifikacia-velka-cena-brazilie-formula-1-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T20:44:49.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/brazil-f1-gp-auto-racing822113.jpg",
+   "summary": "Štartové pole sa bude meniť po niekoľkých trestoch.",
+   "via": "rss"
+  },
+  {
+   "id": "28c6bfbf4d533f3e",
+   "title": "F1: Norris ovládol kvalifikáciu na Veľkú cenu Brazílie pred Mercedesmi",
+   "url": "https://www.teraz.sk/sport/f1-norris-ovladol-kvalifikaciu-na-ve/1005943-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T20:44:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Leclerca čaká pokles o desať miest za výmenu spaľovacieho motora.",
+   "via": "rss"
+  },
+  {
+   "id": "17030d4822d0889c",
+   "title": "Trnavu spasil sviatočný strelec Koštrna, vydýchol si po brvne Ďuriša",
+   "url": "https://www.teraz.sk/sport/trnavu-spasil-sviatocny-strelec-kostr/1005942-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T20:42:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Pod Urpínom viedli po góloch z konca prvého a začiatku druhého polčasu, lenže domáci ukázali, že závery stretnutí majú lepšie.",
+   "via": "rss"
+  },
+  {
+   "id": "535c91da4ce86452",
+   "title": "Prekvapivé odvolanie v Česku. Hapal skončil vo funkcii trénera aj manažéra",
+   "url": "https://sportnet.sme.sk/spravy/futbal-pavel-hapal-bol-odvolany-sigma-olomouc-chance-liga-2026-2027/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T20:29:08.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/836259110-1519238823562777-1813217521833343596-n.jpg",
+   "summary": "Osudnou sa mu stala vysoká prehra 0:5.",
+   "via": "rss"
+  },
+  {
+   "id": "f8705f8493cefc61",
+   "title": "NHL: Washington s Fehérvárym zvíťazil doma nad Floridou",
+   "url": "https://www.teraz.sk/sport/nhl-washington-s-fehervarym-zvitazi/1005940-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T20:26:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Capitals, ktorí predtým prehrali dva zápasy za sebou, sa v tabuľke Východnej konferencie posunuli na 10. miesto, na Floridu držiacu si pozíciu s druhou voľnou kartou strácajú dva body.",
+   "via": "rss"
+  },
+  {
+   "id": "7621fe2d302770e9",
+   "title": "Košice Wolves podľahli MBK Baník Handlová v 8. kole Tipos SBL",
+   "url": "https://www.teraz.sk/sport/kosice-wolves-podlahli-mbk-banik-hand/1005939-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T20:24:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Košice Wolves prehrali s MBK Baník Handlová 65:84, hráči Nitry Blue Wings zdolali Spišských Rytierov tesne 84:83.",
+   "via": "rss"
+  },
+  {
+   "id": "f5fff1a895ff6a95",
+   "title": "Slovenská 17-ka nestačila v Piešťanoch ani na francúzsku 18-ku",
+   "url": "https://www.teraz.sk/sport/slovenska-17-ka-nestacila-v-piestano/1005937-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T20:20:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Informoval o tom portál hockeyslovakia.sk.",
+   "via": "rss"
+  },
+  {
+   "id": "e1db0ac4e394c0af",
+   "title": "Futbalisti Dunajskej Stredy zdolali Košice v 14. kole",
+   "url": "https://www.teraz.sk/sport/futbalisti-dunajskej-stredy-zdolali-kos/1005932-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T20:19:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Košice išli do vedenia už v 7. minúte, Rehuš postupoval dopredu z pravej strany, dobre časovanou loptou našiel Kakaya, ktorý s prispením pravej tyče poslal loptu do siete – 0:1.",
+   "via": "rss"
+  },
+  {
+   "id": "4081f0b21f81b7eb",
+   "title": "Volejbalistky Žiliny zvíťazila nad Sláviou EUBA v 7. kole extraligy",
+   "url": "https://www.teraz.sk/sport/volejbalistky-ziliny-zvitazila-nad-sl/1005936-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T20:18:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "V ďalšom zápase si domáca Trnava poradila s Pezinkom 3:0.",
+   "via": "rss"
+  },
+  {
+   "id": "95501120c68ffc1b",
+   "title": "Mladí Slováci v Piešťanoch neuspeli ani v treťom zápase. Podľahli starším Francúzom",
+   "url": "https://sportnet.sme.sk/spravy/hokej-slovensko-francuzsko-vysledok-turnaj-styroch-krajin-hracov-do-17-rokov-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T20:14:48.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2023/04/slovensko-u17-hokej-szlh.jpg",
+   "summary": "Slovenskí hokejisti do 17 rokov majú na konte tri prehry.",
+   "via": "rss"
+  },
+  {
+   "id": "3fe15fe03ccb144d",
+   "title": "Manchester City prehral na trávniku Nottinghamu",
+   "url": "https://www.teraz.sk/sport/manchester-city-prehral-na-travniku-not/1005934-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T20:11:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Arsenal Londýn vstúpi do novembrového asociačného termínu na čele tabuľky najvyššej anglickej súťaže.",
+   "via": "rss"
+  },
+  {
+   "id": "0c42d1e8cbc28542",
+   "title": "Nemecký pohár: Slováci nemajú prvenstvo vo vlastných rukách. Výsledok ich súperov zamotal situáciu",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVVQdEdiREJJV3RycFR1NHJNQjBkb1RkTGRUMG5yamdfUVlpNEIzOWEtVER3c21uV3BrcDc0S1V0c3lxdVUwSmxjdHFLUnpiYnIycTdZbzVmcm12NGxvVFVxMEZuZWFqblhuSjVFek9hajR4bnNRdXU0dUNQUTFCYUdkc3BnT25CNldMRHRIRFhLWUFtRHJTbWVtZlNzN2x4cy1xTm5zREJfMDlpczhNTEFn?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T20:01:07.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.188Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "c173e68bf70bc1ee",
+   "title": "Česko čaká na prvú výhru pod novým trénerom. Opäť padlo v samostatných nájazdoch",
+   "url": "https://sportnet.sme.sk/spravy/hokej-vysledky-dnes-sobota-7-november-finske-hry-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T20:01:04.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/hwize9yxgaatlar.jpg",
+   "summary": "Víťaza Fínskych hier určí severské derby.",
+   "via": "rss"
+  },
+  {
+   "id": "a7f829b433a33a15",
+   "title": "Arabela odhalila rodinné súkromie: Jana Nagyová vytiahla FOTO so synom!",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0g5dWhpMm9NQ0lRaFduU2dCUFgwZ2xNOEREVy1fRnVBam9jWjJjWHFjc0FtcFdOLXdIZE92cjBuYVYtel80VXRrd0FtSVJaaVBvMWpmN3hLa3pRTjRHaEREMGZEWW8zelVHS2JhZ1FzMWJldXlXVlNaT3ptYVlpRVlkcW9neC0tYkk5NHBhaEVyc2llMjF2YUxpMlE2cFpoUXZQeXkzUTBLR1BsVC1z?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Topky",
+    "domain": "topky.sk",
+    "url": "https://www.topky.sk"
+   },
+   "publishedAt": "2026-11-07T20:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "92fd9f3ada955e53",
+   "title": "Šok pred Turnajom majsteriek. Moje telo nie je pripravené, vraví svetová jednotka",
+   "url": "https://sportnet.sme.sk/spravy/tenis-jelena-rybakinova-odhlasenie-dnes-reakcie-turnaj-majsteriek-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T19:55:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/09/us-open-tennis662292.jpg",
+   "summary": "Jelena Rybakinová predčasne ukončila sezónu.",
+   "via": "rss"
+  },
+  {
+   "id": "0c0279efc4ceda71",
+   "title": "Vládu v Izraeli nebude zostavovať Netanjahu, ale jeho rival",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGZ4a1piSE9Cb2k3eDBoSTYzU21uZzJzQktta2xJS2JwUXBxSEJnXy1qU3hyUkxpcFhoeTRHYkxfMnNKVWlHTmVqTmhyWEI5TVRvaHlwYXpfT0ZYQVRqenJjbjJlampfTlVLWjdENEx6U0xDcVZDZ1VRbEVES3hkVzMyWmlKX3lpdFFlVzdUWQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Štandard",
+    "domain": "standard.sk",
+    "url": "https://standard.sk"
+   },
+   "publishedAt": "2026-11-07T19:52:44.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "bdfe00ff066f5b82",
+   "title": "Žilinčanky už pohárový smútok vytlačili z hlavy. Slávistky zdolali a preskočili ich v tabuľke",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmpfcUh5YWlkQ1lRU2RUWk1BLUtVSnludmlUdHlFLTliaFhWbWZFNnRtU3ZIQlRRbmxDWkN0U0kzblpYOG1SQVlNYXQtS1kyckVlNjhGNlpjbU54cE14aFlOOTh6MUhfdTZBLVkxeTY2RGt6VjJkTk5wa2sxRmZxVXBSdFhkVGtuay1hWXJESlJldFVpZzh5a1NrNUlWV1B6dHNKUA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "DennikSport.sk",
+    "domain": "denniksport.sk",
+    "url": "https://www.denniksport.sk"
+   },
+   "publishedAt": "2026-11-07T19:47:14.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.189Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "367b899f7fc66c93",
+   "title": "VIDEO: Slovenský súboj brankárov vyhral Budinský. Ostrave vychytal ďalší triumf",
+   "url": "https://sportnet.sme.sk/spravy/futbal-cesko-vysledky-dnes-sobota-14-kolo-chance-liga-2026-2027/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T19:42:23.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/10/866619151-2225431438394983-7794819794901379612-n-1.jpg",
+   "summary": "Hradec Králové so Slovákmi zahanbil Olomouc piatimi gólmi.",
+   "via": "rss"
+  },
+  {
+   "id": "84c8d7ddfd81ae38",
+   "title": "Strelca ovplyvnila krajne pravicová ideológia, tvrdí poľský minister vnútra",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUXRHdFhlRm5IZDFra016RDlIRWdzVkdWUlpFRjdHcHZvbmk3XzR1amZDV0hsTk40RV8xTjYtdmR1T25FeFIyRUI1dnJCcmNyNlJGa1pSa2ZJRGd3ZThJQ1RkeDgzVWpfdGZqb2w1bWU0RXlaYkFjTFM0RkFGRGV2MjB4UmNKNnJCWVc2ODNoaVJINGN4TmIteTFZUWJieHk1Tk9NOA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Štandard",
+    "domain": "standard.sk",
+    "url": "https://standard.sk"
+   },
+   "publishedAt": "2026-11-07T19:41:50.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "47dcb2b589d45081",
+   "title": "Bayern zvíťazil v Mainzi a udržal sa na čele, Neuer prekonal rekord",
+   "url": "https://www.teraz.sk/sport/bayern-zvitazil-v-mainzi-a-udrzal-sa/1005911-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T19:29:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Triumf Dortmundu nad Elversbergom zariadil dvoma gólmi v druhom polčase Felix Nmecha.",
+   "via": "rss"
+  },
+  {
+   "id": "588063a5de8466a9",
+   "title": "Netanjahu: Vláda s arabskými stranami by rozložila Izrael zvnútra",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVdiQ01mREk5MDVSSjF5ZWZOZjhmYWVaUWNuU1dGdjQyZUx6Q3c4ZWtUQ2tOMThXenhlWjJfSnpRSXJGV2dTU2FVNWVhOGx3WVRrcWFFNEUwR0t6NVBTRm1MRjJiZWVVY0pEcnBiYktES294OTZmMXUtQmFseTRKbGYxQnRTVDhKNFB5Sg?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://www.teraz.sk"
+   },
+   "publishedAt": "2026-11-07T19:27:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.753Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "dcb9893df556a9fa",
+   "title": "Na proruské zhromaždenie v Košiciach prišli len stovky ľudí. Avizovaného Fica sa nedočkali",
+   "url": "https://dennikn.sk/5677788/na-proruske-zhromazdenie-v-kosiciach-prisli-len-stovky-ludi-avizovaneho-fica-sa-nedockali/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "Denník N",
+    "domain": "dennikn.sk",
+    "url": "https://dennikn.sk"
+   },
+   "publishedAt": "2026-11-07T19:22:49.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.690Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "https://img.dennikn.sk/wp-static/2026/11/Image-from-iOS-1.jpg?w=450&h=300&fit=crop&fm=jpg&q=85&s=b93db198e124fdbb84e56069e49d40c1",
+   "summary": "Na zhromaždení viackrát zaznelo “chceme mier”, ale nikto nehovoril, čo treba urobiť, aby bol pokoj zbraní aj na Ukrajine.",
+   "via": "rss"
+  },
+  {
+   "id": "983e23346446d81e",
+   "title": "Doprastav Liga: Prvý bod po dvoch prehrách. Hádzanárky Stupavy remizovali, Zlín naďalej na dne",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjRVNWFYVGhiaGVFeXNqcDY0MzJFSl9zbUxBUkE3QThsRnloNjB5V2d4aUlJZXVXeXhkd3U4aGpoMnkyV1Bjdjc3QU1BTl8tUm81aTEydnhoU0ROLVc1a1JyNTAxTHloZl9XejZqTUlXRnBJSFRrZ0ZaRlhRZmRZVGt5alBKSFhDaWgxY0l1RmNySjM3Mk1weDZtNURFLUlaMmJBbDYybGg4T0Rpam05SDN5TWM1UQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T19:21:15.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.188Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "816fe4056b5a4188",
+   "title": "Koalícia si schválila všetko, čo chcela, väčšinu tak už ani nepotrebuje. Do volieb očakáva už len minimum schôdzí - ROZHOVOR",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOWZXUXRSUi1IeUVJRHF5ck9XVzlLaEVGSUl1aW9nM1JKWEVmZGk1U1dwUzJhV000ZnhYWVB4MWQ3djlyaUZESFVXS0xGOHFnRkhBcXA5UkZYR0ZyeTdmdDdEeTVkZ1h4WU1HdEdDeVBtQWtYUE5vZms0ekloaF9yMFA1b3Y5ZFNYU2UtaF9yR2hOb0tQYXZBS09YcE5NMUI1NHg3cW4xRTFZTDhfR2ZScksxUVU5QWx4eWFfTTRsYnlVb0ZqXzVPTlRIcjRZMUFtQWc?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "SITA.sk",
+    "domain": "sita.sk",
+    "url": "https://sita.sk"
+   },
+   "publishedAt": "2026-11-07T19:20:44.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "1476a2c919ec51e5",
+   "title": "Slovenská letecká spoločnosť AirExplore plánuje masívne prepúšťanie. O prácu má prísť 109 zamestnancov",
+   "url": "https://www.pravda.sk/spravy/ekonomika/clanok/2074511-slovenska-letecka-spolocnost-airexplore-planuje-masivne-prepustanie-o-pracu-ma-prist-109-zamestnancov",
+   "isGoogleLink": false,
+   "source": {
+    "name": "Pravda",
+    "domain": "pravda.sk",
+    "url": "https://pravda.sk"
+   },
+   "publishedAt": "2026-11-07T19:20:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:02.232Z",
+   "categories": [
+    "ekonomika",
+    "politika"
+   ],
+   "image": "https://prvd.sk/cdn/2025/08/20/4x3-medium/lietadlo-letisko-cestovanie-dovolenka.jpg?v=HyY",
+   "summary": "Slovenská charterová letecká spoločnosť AirExplore ohlásila svojim zamestnancom zámer hromadne prepúšťať. O prácu by malo do konca roka prísť 109 z viac ako 160 pracovníkov. Vyplýva to z oznámenia o hromadnom…",
+   "via": "rss"
+  },
+  {
+   "id": "adf4af61cce92564",
+   "title": "Víťazstvo SR nad Rakúskom je aj pre Váleka, Országh: Držíme mu palce",
+   "url": "https://www.teraz.sk/sport/vitazstvo-sr-nad-rakuskom-je-aj-pre-v/1005931-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T19:16:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Triumf nad Rakúskom vychytal brankár Patrik Jurčák, pre ktorého to bol druhý reprezentačný duel.",
+   "via": "rss"
+  },
+  {
+   "id": "a8c63ba82fbb7549",
+   "title": "Hrôza na ľade pripomenula nočnú moru Richarda Zedníka. Országh: Prosím toho hore, aby to dobre dopadlo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNU9GNVlselR2NnJjTmVVallFM1pmNFlFeWdaZHFVOTl1WGVVZGFySVV3NXRsOUc0NlF1NTFndVhfN1VjVFYzR2dPWEE0NnhfUmFyNGJyYm1ueWxKSDN3dkppNmlRY203ejdPMmRSRUk3a3lhYkdrT0VaNWdienJEZEI4aEJycEN2WloyVTRKdE1wd3BJM29McDgwN1A?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T19:14:17.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.188Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "7e3c746fc55ad40a",
+   "title": "Keď ide o život, hokej ide bokom. Slováci venovali výhru zranenému Válekovi",
+   "url": "https://sportnet.sme.sk/spravy/hokej-valek-zranenie-krku-orszagh-reakcie-slovensko-rakusko-nemecky-pohar-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T19:13:50.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/20261107-hokej-nemecky-pohar-svk-aut-20256330.jpg",
+   "summary": "Dúfame, že všetko dobre dopadne, povedal Országh.",
+   "via": "rss"
+  },
+  {
+   "id": "7b94603e5ef5a4f7",
+   "title": "Na námestí vypukla bitka, lietali aj stoličky. Po výtržnostiach fanúšikov zasahovala polícia",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNm5hckV0RVFzdHdxeENnbHh5MjdvRVpqeG13TDRIQlNMOVBheGVXeUw5anFJSkdYRFlDTHhiRHpCNUY1eGRON3duMFZROHMtR3BxLUZYUU1qWnhlZUZnMU5mRUFYYy11LThXMk8zZGlhbVEzaHhRcnozUG0zNWRoSkVpRjZrakE1eXo5ZU14dWxVT1VBRDFmSC0tSlRFLUFIbE1UTkV6TE12Sm1YSTJ1TEowNXRvWGJoUWFTMjFQcHpGUGtF?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "MY Regióny",
+    "domain": "my.sme.sk",
+    "url": "https://my.sme.sk"
+   },
+   "publishedAt": "2026-11-07T19:11:09.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "61a6f9cf5504e9cf",
+   "title": "Fico: Slovensko stojí pri Poľsku. Ak treba, pomôže",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnFwTWxZbHpESmFlMlZOSmc3WjBJVWZCdGNmQzd2bFNUV2FLRDVnSm16LXhxTGh3YzN1cWpKZ2lReTg3Z1g4ZEdubU8wMS14WEotNTA3UXpjSUlCZ0lTVGtWWkVMVGFIcG5ibHlRTEdUb0cwTmRfdjNFTnQxX1RoR19leE9VTXM?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Štandard",
+    "domain": "standard.sk",
+    "url": "https://standard.sk"
+   },
+   "publishedAt": "2026-11-07T19:07:36.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.914Z",
+   "categories": [
+    "ekonomika",
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "e44084dd0b0317f7",
+   "title": "Streľba v Krakove: Fico ponúkol pomoc, Pellegrini odsúdil násilie. Slovenská polícia prehovorila o hrozbe",
+   "url": "https://www.pravda.sk/spravy/domace/clanok/2074507-pellegrini-fico-krakov-polsko-strelba",
+   "isGoogleLink": false,
+   "source": {
+    "name": "Pravda",
+    "domain": "pravda.sk",
+    "url": "https://pravda.sk"
+   },
+   "publishedAt": "2026-11-07T19:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.733Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "https://prvd.sk/cdn/2026/11/07/2558999/4x3-medium/krakow-krakov-strelba-polsko.jpg?v=T/w",
+   "summary": "Najmenej šesť ľudí zahynulo pri streľbe v centre poľského Krakova. Maskovaný útočník vošiel autom na hlavné námestie a začal strieľať na okoloidúcich. O život prišli štyri ženy a dvaja muži. 15 ľudí vrátane troch…",
+   "via": "rss"
+  },
+  {
+   "id": "dcf0f12f265826c6",
+   "title": "ONLINE: Toronto Maple Leafs - Montreal Canadiens dnes, NHL LIVE (Slafkovský)",
+   "url": "https://sportnet.sme.sk/spravy/hokej-toronto-maple-leafs-montreal-canadiens-juraj-slafkovsky-online-8-november-nhl-2026-2027/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T19:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/copy-of-tipos-extraliga-online-14.png",
+   "summary": "Sledujte spolu s nami ONLINE prenos zo zápasu NHL: Toronto Maple Leafs - Montreal Canadiens.",
+   "via": "rss"
+  },
+  {
+   "id": "fc2e5097476fc094",
+   "title": "V Slovenskom raji otvorili unikátnu novinku: Na tomto mieste môžete nahliadnuť do života našich predkov",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONVRYTllSRGpxTFRVUDFub3V2Q0VCUloxSEU3UHFpOVVQSnpya25PZnZvdkU3OF9nU0QtU1RUMTVjTnZqWC1BYXhhSWNzNDk0Y3ZvVzFMYWYwOXBrazRQY0haYV9idnZkX1NoX1pKaTNvTjg1ZXNxT0VPLUNQUWl2SE42T0RhV0VEbm5PNG9VWmVIV05udnpmUlBDODgxN0xKVlJROW5fR2xUdEpsaW9uRGx4bXZhWC15THpucVBVOE1rMjdhTUpxVkgxaWdjNnhNU3BHOA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Topky",
+    "domain": "topky.sk",
+    "url": "https://www.topky.sk"
+   },
+   "publishedAt": "2026-11-07T19:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "fb5401d83848aa29",
+   "title": "7. 11. 2026 | Počasie | Video",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hVjBta2psbkM2QXBaSVNTMzdpaTV5OXo1d2lNYzRCc1h2VWhHZ0xmcmJwQVNGRnp4QTVsTFp1eXYwcW9kMWNmZmdDcVYyUXNrYkE0VHBxT1lDRzJuZFFwdA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "tnlive.sk",
+    "domain": "tnlive.sk",
+    "url": "https://tnlive.sk"
+   },
+   "publishedAt": "2026-11-07T19:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "eb61c325a1f88396",
+   "title": "Dunajská Streda pôsobí nezastaviteľne. Proti Košiciam predviedla veľký obrat",
+   "url": "https://sportnet.sme.sk/spravy/futbal-dunajska-streda-kosice-vysledok-dnes-14-kolo-nike-liga-2026-2027/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T18:54:44.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/08/2025-09-20t000000z-1623187983-mt1imgosp0001r89di-rtrmadp-3-imago-images-sports.JPG",
+   "summary": "DAC zvíťazil v Niké lige v šiestom zápase v rade.",
+   "via": "rss"
+  },
+  {
+   "id": "1efdeaa79828b504",
+   "title": "Premiér Fico neskrýva šok z útoku u susedov: Slovenská vláda stojí pevne pri Poľsku a je pripravená poskytnúť pomoc",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdTJFcWlDaEE5bTUyTFlhVkVRS3JEbWdiRmVsdWw4RHdTY3FNcDFTSW1BYS1CME5rMTFRaDRmM3hKNldIRVdqS1hEYmxQRE1HY3k0OXlnZVlzdi1WbEs2TnY0VTVBQVNiOFF1aTZnZUgzQTczQ0FsMFB1QjAtbXlDaVdTMFJ3YmRwQWQ2ekdBNUdUXzlYNm5XaDZLMC1xMVZSX1VmNTdXei0tWW1RSFRhdjdPbEo1YW9wbGs0ZHBMT3NDT05JR3Y0eUhkcnpmRWJDUzR5cVltTTNub1hwd0o0?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Koktejl.sk",
+    "domain": "koktejl.azet.sk",
+    "url": "https://koktejl.azet.sk"
+   },
+   "publishedAt": "2026-11-07T18:53:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.753Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "02d520a201763ddb",
+   "title": "Šláger pre FC Nitra rozhodol kanonier",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRNTBydUQ1RHBDRkIxVmdfcmRfQ1VKXzNmWXB6MlBpZFVfakRkVmRHMHF4bVdQTVVRVWZDTERTNTF5YlFwUWk2Y3FZQl9YbVVfb1FaR0J4VGg5UDBpQ0lZdEFZTUVXaGVzSFVfcUhkRkE?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "MY Regióny",
+    "domain": "my.sme.sk",
+    "url": "https://my.sme.sk"
+   },
+   "publishedAt": "2026-11-07T18:48:35.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "ba92054246e8d917",
+   "title": "Hádzanárky HC Tatran Stupava remizovali v 9. kole s Porubou",
+   "url": "https://www.teraz.sk/sport/hadzanarky-hc-tatran-stupava-remizoval/1005929-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T18:48:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "V ďalšom zápase sa z triumfu tešili hráčky Olomouca, ktoré zvíťazili na palubovke Slavie Praha 32:29.",
+   "via": "rss"
+  },
+  {
+   "id": "e4de3b9843ead8f0",
+   "title": "Inter nestačil na Prievidzu, hostia si z Bratislavy odvážajú presvedčivé víťazstvo",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3lKSjhQV180bkJPOThIMy1uYjZibENscUNXTFBEekhTQWMtbVV4MVpNQzY1V2xMNTlrR09xQXEyNlhaRWk3aTdjNW5pX05mX1NwQy0wQlpGaFB4R1dVdndMYy11WUtxdXllTTdnMFBOWDJSYjQyUTJheWRJeXVjQ09oWG5nVlpWTVB6N1RvTU9DSWNYV3I4eXRja2VlZEF6OVZJd3JydVpDcGs1OHVDLXZHM1pJQTlFWEE?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "DennikSport.sk",
+    "domain": "denniksport.sk",
+    "url": "https://www.denniksport.sk"
+   },
+   "publishedAt": "2026-11-07T18:47:38.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.189Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "adc27f9c7708601d",
+   "title": "Futbalisti Banskej Bystrice podľahli Trnave v 14. kole",
+   "url": "https://www.teraz.sk/sport/futbalisti-banskej-bystrice-podlahli-tr/1005910-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T18:41:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.782Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "V závere po strele Wildeboera vykopával loptu z bránkovej čiary Duklista Alabi a na opačnej strane zachránilo Trnavu brvno po strele Ďuriša.",
+   "via": "rss"
+  },
+  {
+   "id": "0f6a63f1425771b2",
+   "title": "VIDEO: Alcaraz má šancu na titul, ktorý ešte nemá. V Paríži je prvýkrát vo finále",
+   "url": "https://sportnet.sme.sk/spravy/tenis-vysledky-dnes-sobota-semifinale-atp-pariz-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T18:36:59.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/france-paris-masters-tennis821667.jpg",
+   "summary": "Španiela vyzve v súboji o prestížny titul Američan Shelton.",
+   "via": "rss"
+  },
+  {
+   "id": "273c97b8d25c4f7f",
+   "title": "Vianočná pošta: Pellegrini prezradil svoje želanie pre Slovensko. Ako poslať list Ježiškovi?",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNZTZteWU4d19iYlJfOUdfSHA5alF1NTBUVzFiS2szYlZKbmN4bWhuQmxhMk5TanZhR2t3QkpYR1hMWV9sRlhKMWFsQ2pxWGhfZkJYVEc2Z1ljTlU1VUJkZnpEUUpmRVUtdjZxbFlZcGxmdlNDdzluamE3Qy1UTHo0Q3NFZm0tSllJZUxyb284RU9CdFZmd05ERERqSUlkMDF0cTFQenZaSjEyMzk3dVFMTjlrU3pzRTNRWDl0U0pndk92SFNuYmIxR2xiYmx0OVVUdVZxVGNwVHBiQ2ltTTB0dTh5SkNYU2J2TmNybGNISmVZN08zWUU5U25CdjJVaWs2eHFNVzBOX2d2WmUyb0VvdVVSMEo2Q21uaUpYajY1aTFEZ21fUTljTTVpZm5fMnFNNDRoOWJYN3MwVFA2LVE?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Plus JEDEN DEŇ",
+    "domain": "www1.pluska.sk",
+    "url": "https://www1.pluska.sk"
+   },
+   "publishedAt": "2026-11-07T18:36:22.000Z",
+   "firstSeenAt": "2026-11-07T21:01:10.236Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "7a778cb931ef816d",
+   "title": "Fico: Slovensko stojí pevne pri Poľsku a je pripravené poskytnúť pomoc",
+   "url": "https://www.teraz.sk/slovensko/fico-slovensko-stoji-pevne-pri-polsku/1005926-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T18:35:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.451Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "Úprimnú sústrasť vyjadrujem poľskému premiérovi Donaldovi Tuskovi a rodinám, ktoré stratili svojich blízkych, uviedol Fico.",
+   "via": "rss"
+  },
+  {
+   "id": "a9c9270ed74e5d2b",
+   "title": "Novou predsedníčkou Živeny je Radka Semancová",
+   "url": "https://www.teraz.sk/slovensko/novou-predsednickou-ziveny-je-radka-s/1005925-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T18:32:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.451Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "Živena, spolok slovenských žien je najstarším celonárodným spolkom slovenských žien.",
+   "via": "rss"
+  },
+  {
+   "id": "69321f9bee279199",
+   "title": "J. Blanár: Situáciu v Krakove ďalej podrobne sledujeme",
+   "url": "https://www.teraz.sk/slovensko/j-blanar-situaciu-v-krakove-dalej-p/1005924-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T18:30:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.451Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "Slovensko ostáva v tejto ťažkej chvíli v solidarite s poľským národom, povedal Blanár.",
+   "via": "rss"
+  },
+  {
+   "id": "9e4608da6171e3c9",
+   "title": "Hlavné správy zo 7. novembra",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTRXQWhIMV9KRlFfQklHcWNoNkxzNEptdVBEQVZrcDNCVzlMWnBUUV9XS1psZkI5UDV3MDEydXNqWnJ1THhYck12MFF5ck1EQUxfOERBUnh3dWd3Y0paeWt4aDBMVnQwS2FQOVE3d1VDdFlwV1VyekVxT3RpS3BVV3BXR28wemRlUEh1ag?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T18:27:37.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "da2981871f39be80",
+   "title": "Platový automat pre učiteľov vyvoláva spory: Zamestnávatelia kritizujú ďalšie zaťaženie rozpočtu",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CQ1JvVVp2TUdYWXBOck8wM2dHNEVsUmpOQ3k3Ui1fY3NJTmRWOHN3dXUtX3ZyY1BzV2x6Yjc4V09QWmplRmc?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "STVR",
+    "domain": "spravy.stvr.sk",
+    "url": "https://spravy.stvr.sk"
+   },
+   "publishedAt": "2026-11-07T18:25:12.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.914Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "52a2fab1cf0918d9",
+   "title": "Slovan zlyhal proti poslednému. Fanúšikovia odišli, kapitán priznal hanbu",
+   "url": "https://sportnet.sme.sk/spravy/futbal-slovan-bratislava-trencin-reakcie-14-kolo-nike-liga-2026-2027/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T18:25:04.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/7november2026-slovan-trencin-19256313.jpg",
+   "summary": "Slovan zlyhal proti najslabšiemu.",
+   "via": "rss"
+  },
+  {
+   "id": "9ac22a7c710c2654",
+   "title": "Zadržiavanie výplat aj vyhrážky: Odborári upozorňujú na porušovanie práv zahraničných pracovníkov",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQek56cG1yUnJRRUhVSEVWRGhZRTlIOWxTQ2ZkcnFkVTF5ZUtLenNEUkRWZWxFVDJBS09kLUxCckhDMmZfcWpLWHQ5YUtNVl9TVnRZTkc4ZHV0aFVwZmxYQXl2aUZlajVQUndTV0doVDhFT3JmVzBfeGpOWGMyVXdCd3R1S25tV0ZIVXdlM1V4OTFjOHJkZkxaT3lETE5jNml0aldyNGJhRUhvdlZXTHRXaU82Rml0OFNzWjA0MWNVandLbGNUeGZV?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "STVR",
+    "domain": "spravy.stvr.sk",
+    "url": "https://spravy.stvr.sk"
+   },
+   "publishedAt": "2026-11-07T18:24:32.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.914Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "45faa20d553b4fba",
+   "title": "Lukošik sa vracia z Karlových Varov do Slovana Bratislava",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWtzYzVuY2F1ZnRBU0ZhaHAxTUZGU0hvVFY2OHR4WjRzOTZoaTU5NERsRGJSWFVMamJZUEZtTU12cDdrVzItNDh3aGNPZXIyZnJxekJSQThERmprZGpXbjFOWF9FNGhNUFprSkFZUlcyRUM0b29Fb28ycU1RdUdka21UOGFpWFVSZVZFZldR?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://www.teraz.sk"
+   },
+   "publishedAt": "2026-11-07T18:24:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.188Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "9bef678319c1552b",
+   "title": "Fico sa ozval po tragédii v Krakove: Poľsku prisľúbil pomoc, slovenská vláda je pripravená zasiahnuť",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLU52ajFSU2xzSGVaYzd6TFh4cWlQTzQ1MXg1ckNxQV93cEpMdFc1enBTV0dZR1NXaG13RnlmSEhPUy1ZNDh6YXJGaUlfRXFwXzBPM1IxTlZLSDNCVkFCSl9mTlY1eU92WmNKUldHVUVJZHBqTkNxWHJmbzBVdW03RFRTbTJMWm80dHhEazItTm1HSkN4SllEUXpxMVY2SzZIS1NMMTlUQnpCdjlTbXRwa0tHTEpqdE9OUEFMRkZZZlZmcFNxcXE2cHBVTFlKTm9h?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Topky",
+    "domain": "topky.sk",
+    "url": "https://www.topky.sk"
+   },
+   "publishedAt": "2026-11-07T18:24:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.753Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "e64e6c6657da2a1b",
+   "title": "Hokejová veľmoc má jasný názor: Ak sa Rusi vrátia, usporiadať majstrovstvá sveta bude nemožné",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0IzWEl2ZWNYaFZ2ZzhNTE9mN2hTVVFIYXhpU1FpYklYR0JsdnRXSEtOb2pGRFpCdDkySVVsQm5MRWd5cktHU0RBOG9xUy1YcE0xbTFQTXp3MDZPSjBmaU5VZTdFcDN1U0tmSFB4NHZqZTMtM1JaM21FS1dIUUlfVlVTTktlWjFuZ3pBbjNxSDlGMnJ4Z1UyYk9HeWZKYzRjSXBCTDZBVjVMVUl5Y09wNUhtR3UtNGFwTjRJNzY3V1hRWUQzTWE3Q2NPQmhSaUtSR1E?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "tnlive.sk",
+    "domain": "tvnoviny.sk",
+    "url": "https://www.tvnoviny.sk"
+   },
+   "publishedAt": "2026-11-07T18:20:50.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.270Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "84b11dca045a36e2",
+   "title": "Každá piata firma na Slovensku je nezdravo zadlžená, najviac ich je v Bratislavskom kraji",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2ZUTVpBY25QWGdxdmxmWDFmcTJuUHRWaHhOOEQtanRmT2Q0cm1STUVsR1hveXlFSGp1N2VaZllNSUJHb3lXYnBDR2Z6STMtRmRnTFpmQ1FZbFNaRXl2WmVzRnljZ2pRUnIxMG1ZTzNHNkNKbHQ2MEFWWmVnXzFxUUhzY09FZXRmZjhlTTdJc1BHNjJOREs5VDJwcnZ2Y1N1THlnRmFQdjd3ZnJGV1hCV2JyWGFIQ0kwZEZzZQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "STVR",
+    "domain": "spravy.stvr.sk",
+    "url": "https://spravy.stvr.sk"
+   },
+   "publishedAt": "2026-11-07T18:19:12.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.913Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "67f960fce1183384",
+   "title": "ONLINE ŠK Slovan Bratislava - AS Trenčín / Niké liga",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcm1lNkdRTFJHaVB4cmFDbjFqRDBZRkg3MWdOUXU2NkdfVmZpNURGaHhwOGVodjBESmRoVG1wY0hkWk9NbDJZdnBiR1RlNUxoWUFfNUF3QUNKVlk1bXE2RmhFSFMxYjNXSFNpcE0zUGk0aGRUQ3gzc3pFZXdRV2gxSFF1MzBHRG9DaWg3cWNmSFMyZ1l1RUxQbEhfUUVNNnd0M0lEWmNLNk10N3di?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T18:18:29.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "04a1104255e28734",
+   "title": "Tomáš Taraba chce, aby vláda dokončila svoje funkčné obdobie.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaE9GRjRZM3Nhb0pvWEVDZWloSTNjRHpiRnN5TjVJQVI1N0dsVFZBeTF5dXJSeGlwbUtlUDkzQUdmdVptOGlvT3h1ZjZIRm8wOHp4TEtEbUszdEtEbS1OQm9JNkdILTdPX1o1TXRRUHZkYkR2UXBGNlQ4LXJEbkIyV2VJU202LTUzMHJtWUZOZk9TaUw4WDdJQzZ0dk1oeXJIdmc?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "STVR",
+    "domain": "spravy.stvr.sk",
+    "url": "https://spravy.stvr.sk"
+   },
+   "publishedAt": "2026-11-07T18:18:16.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.753Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "af5111a34a3fca4f",
+   "title": "Rusi sa vrátia, ale súpera nenájdu. MS v hokeji nebude možné usporiadať, tvrdia Fíni",
+   "url": "https://sportnet.sme.sk/spravy/finsko-navrat-ruska-nie-je-mozny-reakcia-ms-v-hokeji-2027/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T18:16:35.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/finland-russia-hockey807561.jpg",
+   "summary": "Fínsko proti Rusku nenastúpi, pokiaľ vojenský konflikt s Ukrajinou bude pokračovať.",
+   "via": "rss"
+  },
+  {
+   "id": "ccb939b2f9ef8769",
+   "title": "Centrum MZVEZ zatiaľ žiadny občan SR pre útok v Krakove nekontaktoval",
+   "url": "https://www.teraz.sk/slovensko/centrum-mzvez-zatial-ziadny-obcan-sr/1005919-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T18:16:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.451Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "Podľa poľského premiéra Donalda Tuska ide o tragickú udalosť a polícia vyšetruje pozadie a všetky okolnosti útoku.",
+   "via": "rss"
+  },
+  {
+   "id": "ea510011420a5733",
+   "title": "Návrat z českej extraligy. Slovan privítal známu tvár z majstrovskej sezóny",
+   "url": "https://sportnet.sme.sk/spravy/hokej-lukosik-sa-vracia-z-karlovych-varov-do-slovana-bratislava-tipsport-liga-2026-2027/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T18:03:09.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/892988327-2348506515966621-3701752499276859115-n.jpg",
+   "summary": "Za Slovan odohral pred odchodom do Česka vyše 150 zápasov.",
+   "via": "rss"
+  },
+  {
+   "id": "79c71458271f795a",
+   "title": "Dôchodky a inflácia: Lacné potraviny stlačili valorizáciu na 3,4 %. NBS varuje, že ceny opäť udrú na seniorov",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzl1UnlKQ3JuSjcwaGhxX1JjZnZZLU16TTByOVQ4YzdKWDl4UGJFQkFEUlZOVFRYLTJwNDEtQzlFc0xXTjhKWlYtTXhaTEt3d0g2cmZoVHBqRmp2Zk14YzZNeUNlbjZnVzBsRUw4eFJBdWdLN1BERWVwSC1BM3V1R3BhYnVZRTc0Tk51MS1FU05aeHNodFFDbWdwOUNxamg4TUpIdTUtU3EzV2hQaGo3UV91Y1pTOG9QZXFhRFdSbEtnY2tockZEcw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Kryptomagazin",
+    "domain": "kryptomagazin.sk",
+    "url": "https://kryptomagazin.sk"
+   },
+   "publishedAt": "2026-11-07T18:00:42.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.434Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "1b3c4f498eaac244",
+   "title": "Mladý slovenský útočník sa v zápase proti Čechom vážne zranil. Je mimo ohrozenia života",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHUyUEJhMVlNR25HWnBRTENQczdOSTBheWI5cF9DWGx2eGZmRWVwQi1fanN0OG1Rb095Q1AxbkFDd2ZtM0Q1eDRLb3VXSjN0alZUVTM0WDk3YlY3UTQ4R2k2Y0l3aktHNVFQX2NveVdWUk5JNVkxcHZ4VjBzS0tYSXNzZmZGOU5SUkN3QVlRczdJZTNOdXFMWVRIUTA2VGoxQl9WSXRwcWw2X29vbkVGNnVqeFVveUxOTjZfVmZBb1dUM1psX285RTdFX3g?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Parlamentné Listy",
+    "domain": "parlamentnelisty.sk",
+    "url": "https://www.parlamentnelisty.sk"
+   },
+   "publishedAt": "2026-11-07T18:00:06.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.189Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "1edd8bab360788e8",
+   "title": "Budovateľ Robert Fico presadzuje investíciu za stámilióny. Zabudol však na dôležitý detail (názor Michala Saba)",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMldEelQ2b0VZUWpvLWxDdjlWc2FEYlVqS1FNemxOZHE4aWFSbWpPOXNrRHBZRGhHN2pIQWUwM2RDazRGUkh3TWZUWUhoLWxYMGd6ZExGX191WEk3aUxtV2thd21VZDMzVEFVVk56YXF2MFQ1OEJUZ3BHbXpjQzZOV244WWppT211TE9lbzI4VG9PRi13NFB4SUZ5OHFKamJka3VGQW9BdmNmSnRHNXZkMEkxWTN1TDJiMnluRWFuM0FGdGh1aFhJYjFhdkgwS1ZKaHJlSlhwLW12M3UyQnhld3laZw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Aktuality",
+    "domain": "aktuality.sk",
+    "url": "https://www.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T18:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "7b98b911ca39e513",
+   "title": "Space to Space v ÚĽUV-e: dizajn o priestore, spolužití a možných budúcnostiach",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVi0xdzYxQnpoeWl5bnZLSTNIdm9XZk1UbDZMTVkzdlpuMF9nSnhEbGFYYjV2dTZNdVd5S0NuNzBkVm5rM1ZlVE8wR1U3aWE1QVRxU2FqRXpZRVlEbnJmUDJuZ0pYRDFrVmZuSFpSM1ZYOXNLdEo0am9pN2twWmlkZW5tWkp0TEx3TnVTZ1ZXeGZFVFB4N1NnSkVTSmh6U18zeEN5Rk5KdEwyb0l0OUFvY3R5X25Qc3FOR2xpQg?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Moja Kultúra",
+    "domain": "eculturebase.com",
+    "url": "https://eculturebase.com"
+   },
+   "publishedAt": "2026-11-07T17:58:23.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.260Z",
+   "categories": [
+    "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "f6164860aa1b7172",
+   "title": "R. Raši: Násilie voči nevinným ľuďom nemá a nebude mať ospravedlnenie",
+   "url": "https://www.teraz.sk/slovensko/r-rasi-nasilie-voci-nevinnym-lud/1005917-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T17:53:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.451Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "Rodinám obetí vyjadril úprimnú sústrasť. Zraneným praje, aby sa čo najskôr uzdravili.",
+   "via": "rss"
+  },
+  {
+   "id": "f51cbffbd88672b7",
+   "title": "K. Šaško: Ľudský život musí zostať nedotknuteľnou hodnotou",
+   "url": "https://www.teraz.sk/slovensko/k-sasko-ludsky-zivot-musi-zosta/1005916-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T17:49:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.451Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "Po streľbe na hlavnom námestí v Krakove v sobotu zahynulo najmenej šesť ľudí a ďalších 15 sa zranilo.",
+   "via": "rss"
+  },
+  {
+   "id": "2f5aea701fe09506",
+   "title": "P. Pellegrini k slávnostnému otvoreniu Vianočnej pošty",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXVWaW9sQUVfa3h5LXRkeGx3eTMzbVBUa2pzTTE2MFlhV3JsQm5kalBKUWNRZklzQ0RIaFowUjgxQTBwZVFFMXNiQkJBcUI5WTQ4NXUxYTBlUlhSZTdZTlRrT3VzemU1YnVMX04wT2VFTnphVUdJSWdWMVdhZnNvTmxEeFBKUEVNc2dIRjdIT1lmYU0xbjRyaUd5UG9iMkg0MTJTY3hrSkkwYzhuX190c0lR?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T17:48:11.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "b82ee4517ab7dbc2",
+   "title": "Polícia neeviduje v súvislosti so streľbou v Krakove hrozbu v SR",
+   "url": "https://www.teraz.sk/slovensko/policia-neeviduje-v-suvislosti-so-stre/1005915-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T17:48:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.451Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "PZ deklaruje, že počas celého roka monitoruje bezpečnostnú situáciu na území Slovenska, ako aj v zahraničí, s osobitným dôrazom na vývoj v susedných krajinách.",
+   "via": "rss"
+  },
+  {
+   "id": "11c755e3f2de2c03",
+   "title": "Strelil pamätný gól a opäť si oblečie dres Slovana. Klub z Bratislavy ohlásil veľký návrat",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc0VmY3k0Tmk3OUFCWW1pdnF6eGpUMVpLVFE2VktfVmw2Y2dZazJwdmFxOVNMQk1VeUhFZDU3ZGlSVVlyWmZDd3A5NjlGM1JJM1Z2aHZlT0JCd25BTHZIcF8tTE5BY1AtZUJrTW5LLThFc3ZKbUlLajhta09OSDhtaXVOTEVHak9ubFQzZ05RSjFKaUtadGpnellRQkFpUXNtYXlBQ25IMHo5LWh4RzdXS1laT0xWZXVkT252cw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T17:47:32.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "9d3c825df50e4677",
+   "title": "Fico vyhlásením o sfalšovanom referende o EÚ šokoval politickú scénu. Opozícia hovorí o nebezpečnej hre",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM2VTcG9saXNxeTMtSEZaODBhX0tWS0l1bG9hQndGbXFxZ0V1SWFWZjdTN3pUaW4tUkszakpuMG1fb0w0MEl6V25hdm9xOHl4VDJOVTR4M0E0bDd2VzMzcndNb0oxaDhheGlIUDhsWHd1RTI1WWcyZ3c3NWVjQ1hCeEJEOEpzRXNIeDBvTUdFQVFod3dXT24tU05TdjRseDdubjVHZnE4R2NCNFltbWlSR3JmSHFWcDhPMl9hS0FwcXVIbGtLeU5pVDVqdHpOdVpKdTdvR2R6T3YzMEJjUXZUWQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T17:46:49.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "06907c2c7b878da6",
+   "title": "Polícia v súvislosti s Krakovom neeviduje hrozbu pre Slovensko",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWdmYmlnd0I4cXFabjNYbll4WWVSTGtkVFlFMnotS0gycWh6UFZDNVlBUk1HLXdmYjVVbElDLXZWQlB1RFg5M3k4SUNGNVllaURKdmZWeTcxWmk5SDQ0Q0dRMkhOZXZZWDZlMk8tTllVVmpDUU85ampldlg0dGJZcS04TnYtUkJvWXpDdGM3SlFGYnJE?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Štandard",
+    "domain": "standard.sk",
+    "url": "https://standard.sk"
+   },
+   "publishedAt": "2026-11-07T17:42:34.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.914Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "1a53da97a1352ecc",
+   "title": "Slovenky zakončili domáci turnaj prehrou. Napriek prevahe nestačili na Maďarky",
+   "url": "https://sportnet.sme.sk/spravy/hokej-zeny-slovensko-madarsko-vysledok-euro-hockey-tournament-u18-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T17:39:30.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/img-1738.jpg",
+   "summary": "Slovenské hokejistky do 18 rokov obsadili konečné štvrté miesto.",
+   "via": "rss"
+  },
+  {
+   "id": "fd34447a6d85c82c",
+   "title": "Exhibičnú výhru režíroval mladík. Venovali ju talentu, ktorý utrpel hrôzostrašné zranenie",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2xPTnZkeDJUdjZERUttU05qREthUlRxOGxibkVsd01WR1Zoa0tZdUR2eEN4MzNRSDNtbXJCN1BfNDktY1lNMkg5RHFuUFVONGpBd0pnQm92OTZnUGU5ejhlTi13SzFfX1dtaE11REFaTWI0ZGRxdEtNMWh4QVBDTThJT3FMQlo4VFNUV2MyRFcwSGpUV1hv?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "DennikSport.sk",
+    "domain": "denniksport.sk",
+    "url": "https://www.denniksport.sk"
+   },
+   "publishedAt": "2026-11-07T17:32:14.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.188Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "648963830583347b",
+   "title": "Euro Hockey Tournament: Smutný záver turnaja v Bratislave. Mladé Slovenky na Maďarsko nestačili",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2plTzk0TVdidFNBRVlPZWI0dWt5UHE4T3hkbUxTTDE3YzU2Z1NDdGZRZk90WVRMM0dMOTN5U1lfNFZxWGNuRXJiaUVDa1ROdldMczhicHl5c0hydDFweHAtOHMxZUFXWWtweFJVY25weVEtM2drSzBPOGZzcTlndWtDMU56TlYxdlZOb2U4aTdJWWRPanRTQ0pUbUY4ZHdYbDZoamtNVHEyeFdyNDlIaVM2N1NsdllMc1ZEd2RMNA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T17:32:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.188Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "f9c494ee05d6a13b",
+   "title": "Favoriti v Bratislave nenaplnili ambície. O titul zabojujú nenasadení hráči",
+   "url": "https://sportnet.sme.sk/spravy/tenis-vysledky-dnes-semifinale-bratislava-slovak-open-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T17:26:16.000Z",
+   "firstSeenAt": "2026-11-07T21:01:05.545Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/10/switzerland-tennis795689254336.jpg",
+   "summary": "Vo finále nastúpia proti sebe Švajčiar a Rakúšan.",
+   "via": "rss"
+  },
+  {
+   "id": "0d85207853c5a6fd",
+   "title": "Zvolávajú desiatky tisíc elektromobilov: Problémové batérie môžu spôsobiť požiar",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDdfVzJLMUhEeEhnbHFUZFUyVWlSNXB0c1RPVkRxX0NrNS1iZjNWU1NNVU84SEwzYzVRVTFib3p6SFVuTkkzdGZ5SW14Z250QXEzM3dwdHpJRzVWc0JVR0xFalBzb05ULWRGa2dWRk5kZUFEY1dIMzEzQVB6WDNSY2dCcDhrNWlkNHA5c0VaZ1RLMUFRamtJcFJNeUdEVDNKYzJGSndfQ0duQVh1TkpyU200MHpDZUsyOWJSOXhzTXhUX2VrS3BFbzJ3?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Živé.sk",
+    "domain": "zive.aktuality.sk",
+    "url": "https://zive.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T17:25:26.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.405Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
   {
    "id": "373bc1cab84d6b42",
    "title": "Slovan sa na pohár v Estónsku naladil víťazne. Nitra poskočila na tretiu priečku",
@@ -11,27 +1438,8 @@
     "domain": "denniksport.sk",
     "url": "https://www.denniksport.sk"
    },
-   "publishedAt": "2026-11-07T17:22:19.000Z",
+   "publishedAt": "2026-11-07T17:22:14.000Z",
    "firstSeenAt": "2026-11-07T17:25:33.318Z",
-   "categories": [
-    "sport"
-   ],
-   "image": "",
-   "summary": "",
-   "via": "googlenews"
-  },
-  {
-   "id": "6e1accec780cb30b",
-   "title": "Slováci zlomili Rakúšanov za 10 minút druhej tretiny, keď strelili štyri góly",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXVoTDh5UVNpUmNDNHB3WmFaXy1qZDRJSVhUanhoaXBhR2VUTE5pbGdrV1gtSnBUeDAtcmE0TDB6WVNndkZ3eW9ncWQ1enY0djhOX0h3QUhBZDFuWUFtZ1dScVdHUllYVmFhaDN6QUNVREtSYThORDhWMWFNTXR4WWJYVXpZMzBvam1TSllRd0VkV1pxMktvMHltcjdRc05Hdi1xVzgwVm1EMDZEWWJEWA?oc=5",
-   "isGoogleLink": true,
-   "source": {
-    "name": "24hod.sk",
-    "domain": "24hod.sk",
-    "url": "https://www.24hod.sk"
-   },
-   "publishedAt": "2026-11-07T17:22:03.000Z",
-   "firstSeenAt": "2026-11-07T17:25:33.319Z",
    "categories": [
     "sport"
    ],
@@ -154,6 +1562,25 @@
    "via": "rss"
   },
   {
+   "id": "21535da43eaf3fd4",
+   "title": "Fico nieje hlúpi a ani neblúzni. On presne vie čo hovorí a prečo to hovorí.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFRBSnhHcWNDVzFiUDJBbW1wVkdfcDFFbUZiOE5TRmRMQnhFVVBVeGMyNzJtZm5OSlI4dVBhNGRQZmREQWdrZTAxamN5ajR6Q1JxeG5PU1YxUjdPTU9nZ3JlX2QxSGR1eG5GQmg5MC1wSUlLaWRIYXRQQ0c1ckhaRXZQMnVmamE1UGtPei1LTHV4SG9CM0tUTGwxclBLemdVdjhDUzRLczhqTm4xUFJPLQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "blog.sme.sk",
+    "domain": "blog.sme.sk",
+    "url": "https://blog.sme.sk"
+   },
+   "publishedAt": "2026-11-07T17:00:16.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "4da6b3cda5ec681b",
    "title": "SLOVÁK vyčíňal v Rakúsku: Po nehode ušiel, potom prišiel ďalší ŠOK! Zasahovala polícia",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaG54eTFNN29pNS1tSHZ0RndnS0JYTlU3dV93OWhGYkdvb19ScVpfb2YzUUNIeThqYUo4RkJuY0kzc0YzbW9rcS1QRnU5WTFubklNRkxuY0xyMmNfTnR5NzJyUU5LUlZURFFkNHJfUXh0NFJnblJRdDZVZXIxUEZSQ2o2alJWMHRaMDU0WXdVZ1YyZm9lWDgzdThGdDVzbGZZaW5mNnB3U0syNXE5MWxSZXRfek40V3YyTzZzVGV3?oc=5",
@@ -165,6 +1592,25 @@
    },
    "publishedAt": "2026-11-07T17:00:00.000Z",
    "firstSeenAt": "2026-11-07T17:25:35.025Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "3a97aed1bbe61cbf",
+   "title": "Rozparok až po... Hágerová ukázala skryté tetovanie a priznala novú realitu po rozchode s Juraškom!",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnNBdmExYUxUVkktTk9KanZsb0tteGFaUmpPdU0wMVhTajl1NW1nSnAwXzBkWWQ1SHdGWW9ISmZLUFBIUGRLa0ZhelB5d2R1Q25Ld244NkRLQWRQaExzZ2F6eFFYOHFQUFFBT2NubFlRRzhJbHg1SmI3Yno1N2NWakg4eExld2lNeUprUG1mUjVobGkyVGRIeXlMUS03NU1IN2V0X1BNRklLYnhiM0lQX0V0d01hd050VkZwWWpnaUF5RU9QbU5uc3Z4Y2Z5SWRvLVNBYg?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Topky",
+    "domain": "topky.sk",
+    "url": "https://www.topky.sk"
+   },
+   "publishedAt": "2026-11-07T17:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
    "categories": [
     "politika"
    ],
@@ -344,6 +1790,44 @@
    "via": "rss"
   },
   {
+   "id": "ed4af523de40004d",
+   "title": "Rozdielom 82 hlasov porazil zdanlivo neporaziteľného matadora. Ten porážku prijať odmieta",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNDdsTThFVW1zOVFuTHNVNUg4aDQ5UUV0VGRha2N5UThrSDVUWFdwQ01zdm9GQUdpVVY4VTlKbkhETV9kN1BvcG1XTERVUkpvVXYwTU8yMElhR3VGYkx0Zm9Yc3pTZ1dwcnQzNFlxTlZSVnZ6Y2stMG5ORzlLd0RURlU5dnltT1FJMm5xSW1ucDRacGMyby1HWUdhNkk3cWhuQkU3QzI3OTBWQkIzVmhNVnVmUHU3aTlxQ1JB?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Korzár",
+    "domain": "korzar.sme.sk",
+    "url": "https://korzar.sme.sk"
+   },
+   "publishedAt": "2026-11-07T16:34:03.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "258c5a699518d021",
+   "title": "Diskusia: Utrápený Slovan znovu sklamal. Na Tehelnom poli nedokázal zdolať posledný Trenčín",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWGZjQXR2VEw4ajAwTU5LVlpzWVBNUmF5d0JuREgyaWJTWGVQMjl2VXhLZnA4NmFTV2R1a1VCQkxTVGtNLXh1QVhBZmV6S1drV3RoVmIzbllWczA0dFRodS1UR3RWeGVZTmlEa0lSRTNFU1NzOWVpeC1SRUVvZ0NZb2xtcVdCZ2tpcDdSWi1MX0JZRlFhaW1Scmt2UjlrTU9SUmxIZGpFdXBlZGRZ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Sportnet",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-07T16:33:03.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "38ee7bc62b7dadb0",
    "title": "Šichta skončil v kategórii do 23 rokov dvadsiaty, vyhral Sparfel",
    "url": "https://www.teraz.sk/sport/sichta-skoncil-v-kategorii-do-23-roko/1005873-clanok.html",
@@ -380,6 +1864,25 @@
    "image": "",
    "summary": "Ministerstvo vnútra finalizuje čistenie databázy evidencie vozidiel po viac ako 20 rokoch.",
    "via": "rss"
+  },
+  {
+   "id": "bb66c81526eb1647",
+   "title": "Nad Slovenskom sa objavil americký vojenský kolos. Odvezie aj tank",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclRSY212R19UUE9qNlV1Ulh6MkxYN2tyRmo2c0RSLU9wcFFrWGtqZjNRSnNsM0F5YVRFYTQ1NFFxdnJ0TGhrUzJQNnZRMWlxWGpOd3R6clBzY0hIa1FQRjdxVERMVEd6bDZVSzZWeVVfQXJybG5XQjJrQWdNMTdaUVdyX195ekU1cUFpY0N5QmpqWWpEUG1XaURwYnE3MS1Cc2hqY2Rmbw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "MY Regióny",
+    "domain": "my.sme.sk",
+    "url": "https://my.sme.sk"
+   },
+   "publishedAt": "2026-11-07T16:25:27.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "b3294f06dfd64ce4",
@@ -456,6 +1959,25 @@
    "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/7november2026-slovan-trencin-4256247.jpg",
    "summary": "Hosia šokovali Bratislavu gólom v 88. minúte.",
    "via": "rss"
+  },
+  {
+   "id": "6e1accec780cb30b",
+   "title": "Slováci zlomili Rakúšanov za 10 minút druhej tretiny, keď strelili štyri góly",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXVoTDh5UVNpUmNDNHB3WmFaXy1qZDRJSVhUanhoaXBhR2VUTE5pbGdrV1gtSnBUeDAtcmE0TDB6WVNndkZ3eW9ncWQ1enY0djhOX0h3QUhBZDFuWUFtZ1dScVdHUllYVmFhaDN6QUNVREtSYThORDhWMWFNTXR4WWJYVXpZMzBvam1TSllRd0VkV1pxMktvMHltcjdRc05Hdi1xVzgwVm1EMDZEWWJEWA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "24hod.sk",
+    "domain": "24hod.sk",
+    "url": "https://www.24hod.sk"
+   },
+   "publishedAt": "2026-11-07T16:21:15.000Z",
+   "firstSeenAt": "2026-11-07T17:25:33.319Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "aa88919220f05cff",
@@ -667,6 +2189,25 @@
    "via": "rss"
   },
   {
+   "id": "c2ea1752ac7ce2dd",
+   "title": "Francúzsky Paprec preberá kontrolu nad Brantnerom, spracovateľ odpadu pôsobí aj na Slovensku",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSmJQREZfLUxaZE4tZWxxSkphSVFWWGhnVWJmQUFwaFcxZzRib0FMM1pYREN2WkZ6M3ZuczZzS2pQWVpIY184eG1RYV9sMUlOMElTWndDSURvdXBObFdyVGstVjdrVVZRVGRwSjc2UlNZM213WFNBdVZZZ1lmOHlSa2VVd2piT0ZOcEhXQTYzUlU5T1ZaWlVSYjRDQ3R5RUQ1WlhyX0t0dGVnQmdjbEhoZ0dBVGg1RDNMeUtES3VpS2tQa052VVVFOG5vMjA3NGdCT3ZiaHFqUklNTUpQekNjcTBB?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "HNonline",
+    "domain": "hnonline.sk",
+    "url": "https://hnonline.sk"
+   },
+   "publishedAt": "2026-11-07T16:04:02.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.913Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "45953329f050d101",
    "title": "Brazília má pre F1 významnú úlohu. V Sao Paule sa bude jazdiť ďalšie roky",
    "url": "https://sportnet.sme.sk/spravy/motorizmus-f1-predlzenie-zmluvy-sao-paulo-velka-cena-brazilie-formula-1-2026/",
@@ -779,6 +2320,25 @@
    "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/image-2.jpg",
    "summary": "Zápas slovenských hokejistov do 20 rokov bol predčasne ukončený.",
    "via": "rss"
+  },
+  {
+   "id": "1556809fa975ac76",
+   "title": "Slovenská charterová letecká spoločnosť AirExplore plánuje hromadne prepúšťať",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0F6WU9DSnNnUlc2OXBYVmtEdXZEazVWWmJITHdyRF81MlRJYS1KYWg2T1gtTW05TnJhZEc0TFMzTlZUOHZ3QmE5ZURfcG9HOW1LRVNLZDdTbWQwT3pNWkM2X3RNcWVISDVpSWhLQ2gyS3hTRURMUGlZQWVHbUFZSmVrdi0ySTVqUXRqckdCQjRwemNJWmxLR2h5U0hWeUYwNGR5eENJY1lCU0tseHZLTFJyWC1NTzdRVHhPelNZV0k?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "HNonline",
+    "domain": "hnonline.sk",
+    "url": "https://hnonline.sk"
+   },
+   "publishedAt": "2026-11-07T15:47:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.914Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "f661b8d8d2a3ef8d",
@@ -952,6 +2512,25 @@
    "via": "googlenews"
   },
   {
+   "id": "f64bb2d0428f1260",
+   "title": "ONLINE: Streľba v Krakove si vyžiadala šesť obetí. V dome útočníka zasahuje protiteroristická jednotka",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlpxV2JvTWptVmt1czlHb2l1VVQ1blZ5eVJud3BtaFZzMHZzTHFxZ28zWHdaWVRWY0pGV3JfcEU3dEhGckNsR3Q1OFlZM1hTMU56U242U0I2TFIyMkFSOF9MOGFaY2ktcEpxRlFfU1luSzJUY3RvYWlXcGR4Rk1mT1lfamZlN0dtR0Q0ejdON0xENEIyLU9kUlp3azBvZw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Aktuality",
+    "domain": "aktuality.sk",
+    "url": "https://www.aktuality.sk"
+   },
+   "publishedAt": "2026-11-07T15:27:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "d7deb08241b579ec",
    "title": "Dospeli sme do bodu zvratu, ide nám o krk. Zo závlah zostalo torzo, zachráni nás len rozumné hospodárenie s vodou",
    "url": "https://www.pravda.sk/spravy/ekonomika/clanok/2074427-dospeli-sme-do-bodu-zvratu-ide-nam-o-krk-zo-zavlah-zostalo-torzo-zachrani-nas-len-rozumne-hospodarenie-s-vodou",
@@ -964,7 +2543,8 @@
    "publishedAt": "2026-11-07T15:26:17.000Z",
    "firstSeenAt": "2026-11-07T17:25:27.069Z",
    "categories": [
-    "ekonomika"
+    "ekonomika",
+    "politika"
    ],
    "image": "https://prvd.sk/cdn/2026/11/07/2558961/4x3-medium/kamil-boros.jpg?v=36A",
    "summary": "Slovensko v roku 2026 dospelo do bodu zvratu. Celé regióny dostali ledva polovicu z celoročného úhrnu zrážok. Ako ďalej gazdovať a čo pestovať, aby to dávalo ekonomický zmysel? ,,Kľúčové je maximálne efektívne…",
@@ -1028,6 +2608,25 @@
    "via": "rss"
   },
   {
+   "id": "b1c92736643f8b3a",
+   "title": "Dobrá správa pre Slovensko, nepríjemná pre opozíciu. Európska investičná banka je otvorená financovaniu novej jadrovej elektrárne",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONnRsOS1jcUFGMlRzaFlrZko5NGY3OHh2ZlVuQ2o0STBDRjRZc2FrYkNuQXZYdUN5YW1jQ1AweGlMaEJVc3E1XzJMT0o0dGp4bU55SEpBM2M5Q1B6bnYtek1YblUzVWdidWpjV0RZMDlQUHF2S0lMVzN0VnNNMHdGTkQtQm5GRVZSeXZkck1FLXFHbWtFWHZ2M0k1UUNrVVZnN0ZvWmR3VUdmYWEtaElXRmExcnM5eENxRWgzazFoNFpuQ1cyYktvR3QxN2wtTDdCc1JoaWcwZlRseG13Ti1F?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eReport.sk",
+    "domain": "ereport.sk",
+    "url": "https://ereport.sk"
+   },
+   "publishedAt": "2026-11-07T15:16:13.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.754Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "87a95fac9f8301ea",
    "title": "DRAMATICKÉ CHVÍLE NA ĽADE: Válek skončil s korčuľou v krku",
    "url": "https://www.teraz.sk/sport/dramaticke-chvile-na-lade-valek-sko/1005885-clanok.html",
@@ -1060,6 +2659,63 @@
    "firstSeenAt": "2026-11-07T17:25:31.769Z",
    "categories": [
     "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "743dc7e5f357f8d7",
+   "title": "Rám tabule symbolizuje rozpadávajúci sa režim. Ľudia sa stretnú pri dome módy, nie pred Pamätníkom slobody",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjhyc2U3cnJRczc1ZHhYM21ubUFxdWNXckRNZkxsRUkxQmt4MUhRQ1R6NDNYMWQ5UjRLQThLLUY1U1VmRVZ6Y3dGOS1VX3Q1dG5rYlFXOHA0bWdrbWFKTks4ZGpJWlBlckNKN2x0WjFvNW15eEtKdGlWTUxDUnZIaTV1Vmo1MkdVZk5ZOVMzVGZEMFdfRjNkZ1JQYi0xbzFSYTRldGN3M1ZIQTd6cDZsalQ5V3F5SUdmNTRUYk85VWk5OW0xT2d2Y2xR?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "MY Regióny",
+    "domain": "my.sme.sk",
+    "url": "https://my.sme.sk"
+   },
+   "publishedAt": "2026-11-07T15:10:57.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "e22a7d2639e57749",
+   "title": "I. Matovič a T. Taraba k aktuálnej politickej situácii",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3VrTk90cUE3Y3hYbFhKMmdCMXZyOS1WbHNydWlYOWdkWFdSaHlaaXBuM3FWSUFxT1pXdzdXTzJXVkRvZnJIOWZrNWZxbmVkek82YWtZVnNUY1RZLW1ZZm1tZkRjMXVHcFhUNzVJazNkcDZHaFFlNEpxVjduOHpTTk5GZXFydE4yQ1lFRlBOSFZUU0hsWGlUUmxEbjNwYTBSdGZnd2FGSVUwOEUxRE4w?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T15:07:15.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "b52d8c259ab11ba5",
+   "title": "Škola sociálnej demokracie",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcndTVS1rU2k4SGMxWUc0ZW83ZWg0RUZVRTJJR0lEdW9wVWRRYlFxQW5TVTNfVFRObm8yOHpsQk1OVzVsWjlLUm9sUUN6bW1EZFpHa21UWGNmOFBHYnVmWHJkMHlSLWxmMkI0SnRWWG5ZWERPWnlkaEpJMFE2aHFIYXRVUzdrd1pfemhv?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T15:03:24.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -1275,19 +2931,19 @@
    "via": "googlenews"
   },
   {
-   "id": "40f33af9f64e1dab",
-   "title": "Premiér spochybnil referendum o vstupe do EÚ. Gröhling hovorí o blúznení, Jurík o vymývaní mozgov",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXpEOUJkVGY3aURESzVsUXZQeWdvU1hlcjY4RThZYlBqeE1OcGU2NjVwSzg5Vm95Rmppb3I0SGtVMDNHYjN5YlQ3Qkl3dExOT3Zmdjd5RmlNUUdzN1JhdkxMWUIzcmRiU2hhSkFpbkJiNG51QWFNOFZWM25jTmp1MEdrdjUyMmk1NU9vS082M3hoYXJIRWxCcEhRcGIzQ0NVcTJsN2NSbjNHN0p4QmpyZXppZWw2UWxLMGotdQ?oc=5",
+   "id": "3b26bf3618134af6",
+   "title": "Horor v derby s Českom. Mladého Slováka zasiahla korčuľa do krku, zápas ihneď ukončili",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVBJSDVuV04wTy1hdzJhZFhzWWtBVWlXQnh1SDZzWG13WmhlS3FpbkloU0F0MnhXcnU1YTVfa2FCelhRTlZyR2RJdkNxVktRVjNNYTUzc2VnblVjVnJlbEJLTDJ0V3MxQS1lUV9XeWxZMXE4Zk1zZTVJOXBPSHBrbkJQcDFZY1llUWZMTFZaQkUtOTAweDU2OUE3eWhqbzVfX2FsSzEydTZBZkZzdmpBZnQyc0Z4YmZleGlNMkQ0ZS0?oc=5",
    "isGoogleLink": true,
    "source": {
-    "name": "Veci verejné",
-    "domain": "veci-verejne.sk",
-    "url": "https://veci-verejne.sk"
+    "name": "tnlive.sk",
+    "domain": "tnlive.sk",
+    "url": "https://tnlive.sk"
    },
-   "publishedAt": "2026-11-07T14:38:17.000Z",
-   "firstSeenAt": "2026-11-07T17:25:36.648Z",
+   "publishedAt": "2026-11-07T14:38:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.717Z",
    "categories": [
-    "politika"
+    "sport"
    ],
    "image": "",
    "summary": "",
@@ -1330,6 +2986,25 @@
    "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2024/02/409039115-1061313658762799-6207723421975585951-n.jpg",
    "summary": "Skúsený obranca začínal sezónu s funkciou kapitána.",
    "via": "rss"
+  },
+  {
+   "id": "40f33af9f64e1dab",
+   "title": "Premiér spochybnil referendum o vstupe do EÚ. Gröhling hovorí o blúznení, Jurík o vymývaní mozgov",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXpEOUJkVGY3aURESzVsUXZQeWdvU1hlcjY4RThZYlBqeE1OcGU2NjVwSzg5Vm95Rmppb3I0SGtVMDNHYjN5YlQ3Qkl3dExOT3Zmdjd5RmlNUUdzN1JhdkxMWUIzcmRiU2hhSkFpbkJiNG51QWFNOFZWM25jTmp1MEdrdjUyMmk1NU9vS082M3hoYXJIRWxCcEhRcGIzQ0NVcTJsN2NSbjNHN0p4QmpyZXppZWw2UWxLMGotdQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Veci verejné",
+    "domain": "veci-verejne.sk",
+    "url": "https://veci-verejne.sk"
+   },
+   "publishedAt": "2026-11-07T14:37:35.000Z",
+   "firstSeenAt": "2026-11-07T17:25:36.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "2a167db96a035c90",
@@ -1600,6 +3275,25 @@
    "via": "rss"
   },
   {
+   "id": "e2994a25d0def566",
+   "title": "Hokejistu Váleka zasiahla korčuľa do krku. Slovenský reprezentant je po zranení mimo ohrozenia života",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSjlBaVlic2RuNEhmaGZHODNPNVEySlp2X2cxSzFqYUlram5yTWxkX3BtbUdtR2JVeDNQOXZ2dnVNQjRhcmZPOGE0UGNPcTFjdWtXYTB3Qzl2U3JzZHZpZmI1UUJYeTJOcEtKWUtQeUozTW9aWkNpcDVUTm1uMWNQakZiX0lLX1IzdXdyLVFZRWl6eG5jMjVaWkg1MURiNmc3VFJaeW5rRnVNOTk0MURQRGxody1BdmxXbXJFWDlLTjQzT0xuOVg4SXVORXB1MTVCU2gxbnpudw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T14:12:01.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.188Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "f51b7053d50c155f",
    "title": "V Sao Paule sa množia motorové tresty. Po Russellovi čakajú Verstappena a zrejme aj Hamiltona",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmI2X1RPZEVWUzJwOUpKMU9ULU5HMy1IOXRiZzk0bmdRaExNYjNDdGFLRktVOUNFN08zc21iMmRnZjlROUhjTU15b0lkRGtyNmI1ZzhtVmkyLXhKYklQcjFGRWt2LXJMQTFTZy1BZnB4STVteG1VY0JsOG9PMVBFWTRfdTNMdnBVQkVtUGRqRlBhbTNwNEhXOWNNZC1rYXlpY0w5MXFCT2xxeW5iME9jcXV1YWZIVGU3OW9fdjYteGtObXdu?oc=5",
@@ -1613,6 +3307,25 @@
    "firstSeenAt": "2026-11-07T17:25:32.755Z",
    "categories": [
     "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "a923f82818aa1285",
+   "title": "Posledné chvíle v hospici Keby zástancovia eutanázie videli našu starostlivosť, zmenili by názor, hovoria zamestnanci",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON21QZFBmV3hHYUhUeTBoWFFjdTRXYUtZLTRZU1B1THZaUW5pM2hhNlBEZjZzZ201MWdGYloyNGhDeFdhdUw0MXZPX1lYWkNwTkxNSllPb3RicURkRnhsZldaZTRxRjBQZlpKenFLTE4xemY1MV9DcUcwN1ZSUEtCNEZIcTRYdWNqdXkzTThtcmdfZTRrSmlWeXZveTQ4b21FMzd2WHJxVEVMaUl4ODlOci1Jc1REblVwanc?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Postoj",
+    "domain": "postoj.sk",
+    "url": "https://www.postoj.sk"
+   },
+   "publishedAt": "2026-11-07T14:05:53.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -1809,6 +3522,25 @@
    "via": "googlenews"
   },
   {
+   "id": "acff21af392a6e85",
+   "title": "Sýria sa zapája do boja proti húsíom. Do Saudskej Arábie a Jemenu majú zamieriť tisíce vojakov",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc0dMSVJ6U0NUZVFLOWVPSjNkTUNlSmhMcC15VHM2dXFmUWdiUVhHWWdnbW90ZzE5UUwyeUJ0ZzRMeWVid2pRTzM2SEwtR2xuWkwtWEN4SHlKUTY3aFhUQ21iZVdOaTJWUkk0Nm9vT0dEZmdWMk54MEozSTdUR0VXUlRJTTE0bWF6X3lEbXFHZy1Wc3ZCSFpCaWxJQTV1NmJFS2hHUVRsNlFPY21fNzlqMElVN2FIeVRDQldkdS1Pa281UE9ITTZFTzFaR1lXWTcxaDkwNEl4UXR2QWl6bnZJNERjdWNCRWlYYm9tcA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T13:50:33.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "9dc7f2dbd8f814c6",
    "title": "KDH: Fico spochybňovaním referenda poškodzuje Slovensko",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVhKeFZBRTRLQXpCM3JUSTlLUHRyUER4WHhXQTVrVWxjbXdBTEJuV0hsX2tMR3o3dTdJRDFHVUw0REpnSEhGZDNfQzc4Tkc2WFNSSVVZMzUtQnlycTBtUm1FMThCcGcxU2VfWndrSmdORlNUXzBzLWd0bFhZenFUU0xZWlpIQzV1d2c?oc=5",
@@ -1943,25 +3675,6 @@
    "via": "rss"
   },
   {
-   "id": "252d31e12756c16d",
-   "title": "Zdravotná situácia ovplyvnila zostavu. Ako zložil Országh prvú útočnú formáciu proti Rakúsku?",
-   "url": "https://sportnet.sme.sk/spravy/hokej-slovensko-rakusko-zostavy-nemecky-pohar-2026/",
-   "isGoogleLink": false,
-   "source": {
-    "name": "SME Šport",
-    "domain": "sportnet.sme.sk",
-    "url": "https://sportnet.sme.sk"
-   },
-   "publishedAt": "2026-11-07T13:15:22.000Z",
-   "firstSeenAt": "2026-11-07T17:25:30.349Z",
-   "categories": [
-    "sport"
-   ],
-   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/20261106-hokej-nemecky-pohar-trening-3256051.jpg",
-   "summary": "Do hry zasiahne sedem obrancov a trinásť útočníkov.",
-   "via": "rss"
-  },
-  {
    "id": "8ccefa206b9ae902",
    "title": "Prestrelka na ihrisku Malženíc. Nigérijčan strelil hetrik a Šamorín potvrdil prvé miesto",
    "url": "https://sportnet.sme.sk/spravy/futbal-slovensko-vysledky-sobota-dnes-16-kolo-ii-liga-2026-2027/",
@@ -1994,6 +3707,25 @@
    "firstSeenAt": "2026-11-07T17:25:30.094Z",
    "categories": [
     "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "1e0465bd175e1c0c",
+   "title": "Ako ďaleko sme od tvrdenia, že boli sfalšované voľby? Taraba reaguje na Ficove slová o referende",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZmMwSmVSanpzNjMyUndXUFlXSzBNQktKSGZrYlVhTGxucUR1bmhQcUplN3ZVZ3Rnc21ZVWNmSkFTZ0FkSWNCMUhmQm5FWUIybUZhQzAwOUM5c3cwQXg1WHJ0cWk2MGhGYUtQNzFyWFJoYnlhWF9IN0JPXzhJMGlzSzRXbzhZWXhBeDZhakZjcFJ6MTlRUDNsSjdBTGt1cDl6OFhnMk1VRW9JMXhpWDV0THoyVTVXczMtSFBRaVBvNmYwNmdXbGYxQzh6M1hWSlE1Y3dkSA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T13:02:39.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -2760,6 +4492,44 @@
    "via": "rss"
   },
   {
+   "id": "49ff277d7fd1ff7a",
+   "title": "Funguje zákaz mobilov v praxi? Deti si donesú druhý telefón, často v spolupráci s rodičom, tvrdí riaditeľka",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUdGNjNBWFJkc05iMkhwZWZwVW1FdC01XzVaQzV6NGpGWG9rMl94OS1CbGFkck1IQlNiMVMzR1NjR05ReHpzbFZfY1FzOTFRcnpFZHZqNVI5OU53T0N5dDVXRndHRFhhaEFaSEM5ZTNlU1I1UFhZZm9mSF80dXlOa0tjWGlwZEVrdDdOQnRPUGJ1ZWQzQlpySXpRck9pdGFmUzd0UU1mWEMwdzJpNkc2Z0JyTS1MaXBrWGZKWG9Yb0lfODN5ZUJZWVI1OVBMV1RuSW1zVGkxRGR3cWd0NXlWUENYRQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T11:28:43.000Z",
+   "firstSeenAt": "2026-11-07T21:01:03.259Z",
+   "categories": [
+    "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "aa9b8f6a77187f31",
+   "title": "Náhly koniec: Známy moderátor dostal po ôsmich rokoch z televízie zo dňa na deň výpoveď",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDNsZ2ZJQ2xEc3BNY1Y1TF9NSXBrS29iNjRiQjlrdnp5S0NDR3FlekVTTlluVkFEdS1KLWV0TjRicmFxaTFxSk1DUEdNTC1xckZQYmJhTk1oQ3ZWSjRzT2w1QXhwWHZobS15UEc5ZUwzOWd0TE1IUzdBeElremc2YW1CVTJnY05GdkZENWt2djNTR3plaE5HVnNtMVFZMEs3UkRWTkdFMVhjc29NSF9vTVVpSVNUZ01NSWJB?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Plus JEDEN DEŇ",
+    "domain": "www1.pluska.sk",
+    "url": "https://www1.pluska.sk"
+   },
+   "publishedAt": "2026-11-07T11:20:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "bb3db273ce31b7cd",
    "title": "Finálová repríza s dramatickou bodkou. Ružomberok prehral, rozohrávačka spomína detaily",
    "url": "https://sportnet.sme.sk/spravy/basketbal-ruzomberok-piestanske-cajky-reakcie-8-kolo-tipos-extraliga-zeny-2026-2027/",
@@ -2828,6 +4598,44 @@
    },
    "publishedAt": "2026-11-07T11:10:00.000Z",
    "firstSeenAt": "2026-11-07T11:30:23.113Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "e719b66c08b8fcfa",
+   "title": "Niektorí premiéri sa mi vyhrážali znížením eurofondov, tvrdí Fico. Klaus: EÚ nechce mierový plán",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUpPU2xPVnZmZS1wSDkwU2RPbnJSWXdEV243dy1KakxXVC0xSGJnRkhHMlA1WldUOHNWLUFQdjlIWktlemRHSEN6VHRadVQteXEzNmNHb3RiRFAyNzR3dXZ6S0p4NmdpQ01iZlllcnQ4dzlKem5ocDRpZVdnejllOGZMZ2d6d1Zpb2pyNnI3VHJuQW4zMVZQTTdlRzdadFcwQnRkOUhuVnJoSlFDdHg0X0lsV2gwZ0pRcktwLVkzanY0bXBJZDBlUkZ4eTdyUkdaZ2Fz?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T11:06:15.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "5431acc48e85dbdc",
+   "title": "R. Fico a V. Klaus exkluzívne pre ta3",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU0JJSFJudVUwOEhkYzk2NUc1N003NHAtOExMSzhIUFpHVk9lNjdYcm1jS0dBbkpVcnE3ZzFzUWwtOXI1QmdDLV9VRkN6WUdHS2JEUjlGZWhRaVktMFpMakJGZkNvMS1fcF91bXBkQUdBTlFKbkQySWNadHNkeDF2YUotcFdWTGo5dFZCd3hyV25vdw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T11:06:15.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
    "categories": [
     "politika"
    ],
@@ -3064,6 +4872,25 @@
    "via": "rss"
   },
   {
+   "id": "afb91d9947f26d7c",
+   "title": "Lawson má obavy o svoju sedačku: Neviem, čo chcú, aby som ešte spravil",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU21tVFlpU2N1RHBMblNnUlFKOFJ1cTZMbjcxeWEySDFWSTJkVE5rc05lcWhrMWcxb0JZR19uazQxTXdkT0YwS3dVc25welRmX25XYV8teEtISDduZWpNUVplbkpYMFlOZ0ExamF3SUFpNHcxOHNMMzNBTGpvUkZmeUIxYUZYS1Zfb3ltWW1JZ0g2dUhsN3FnQW5Kb2JDQ2FGaHU4?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "F1online",
+    "domain": "f1online.sk",
+    "url": "https://f1online.sk"
+   },
+   "publishedAt": "2026-11-07T10:41:05.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "d7448b98df906e88",
    "title": "Emma Drobná je späť v SuperStar. Po rokoch sa vracia tam, kde sa začal jej veľký hudobný príbeh",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObHhSQUktdEw5TXA1aVFfbld5SWpZNXR6WkEzZkxBWlpBQUpTRDNGOGNldVJnbEs3UGxWd25TYlB4T05TX3A1VWREQXpuWDh1TWg4YjBoS3RjTTNOTzFzYlFfSHNtaTBrcTlQYjZSdV9sUXc2b19saF9Bekx3WjlqRW9WVkpVckVnSTlGUEJIZjhsX0VndmpYMTFNRkxVUGhBcEZnbTl3dGlZT2NDV2lRc3A1YUdPRDgyWU5zQ3RXYmYtcWpnZWFuODJWSXotc0NDR2tJTVROS2VteXc?oc=5",
@@ -3159,6 +4986,25 @@
    "via": "googlenews"
   },
   {
+   "id": "cd12a3c8c0b7c29c",
+   "title": "Hackeri ukradli 5,4 miliardy eur. Vieme,čo sa stane s peniazmi Slovákov, ktorí tam investovali",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORV96WWRtVnpVcFc4VFJMTjNXelNJZjQtdVVHM3dWdWRvZE4yd0hvRmtLaUhLa3kwZzhWZmR1U3c3WGxmc2w0QlBtUDFRa2FiRHB0Wll2cmFncHNvZzZwZ2R5cEJZdllNYlFKMEw0WlFTd1BQa1c4Y21OSWY1TlhMMUFFYVhtZVlhQUZubU90TkpzZ3lJdWU1TmJoVFZyNFNfWEZMYmNldnY3Z2dyWFlQUkhQOVBVYkE?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Startitup.sk",
+    "domain": "startitup.sk",
+    "url": "https://www.startitup.sk"
+   },
+   "publishedAt": "2026-11-07T10:20:17.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.405Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "a6dc5230ff81e989",
    "title": "ANALÝZA TÝŽDŇA: Nové pravidlá úverov zvýšia ochranu spotrebiteľov",
    "url": "https://www.teraz.sk/ekonomika/analyza-tyzdna-nove-pravidla-uve/1005842-clanok.html",
@@ -3176,6 +5022,25 @@
    "image": "",
    "summary": "Mali by priniesť vyššiu ochranu spotrebiteľov, obmedzenie neuváženého zadlžovania aj vyššiu transparentnosť pri reklame a informovaní o pôžičkách.",
    "via": "rss"
+  },
+  {
+   "id": "40e3f946f7c5afe4",
+   "title": "Tragédia v KOŠICIACH: Ohnivé peklo a nález mŕtveho tela, veľa otáznikov a prítomnosť propán-butánovej fľaše!",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVV5SlFLYVY3VEgtUURTVGhDdThuQS1nRVA5UkZ4dV8tX0Q3cXNpM1BxeWxkMDhGV0lwUGhoWF9DQUtUNW1NRDkxUzhnNXFhczQtdjlkTVZlbi04MUxoYnppS0lRVnZRWEhuY2hLR2RvdTd1MFpWQ1hwZ1NTZVZqQzBLVHN3aE40d211UC14alFXM2xXeEpGNWtLa3VuemVSOHNESUJMLVp4T1hYUU9sNGEzY3ozel96RXo1bVlOVXlURHNFRW4zbExZRWI3YjlDS2cxTl9NcnYtNms?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Topky",
+    "domain": "topky.sk",
+    "url": "https://www.topky.sk"
+   },
+   "publishedAt": "2026-11-07T10:20:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "8c75fed15605bf29",
@@ -3349,6 +5214,25 @@
    "via": "googlenews"
   },
   {
+   "id": "48115b9bfe793054",
+   "title": "Takmer milión Slovákov čaká nová povinnosť. Štát mení pravidlá, pokuty môžu dosiahnuť 100-tisíc eur",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWZRWVNjRFJHTjhJQWVsMl9mSUNJbFNtYkFOenp2T1QwcjhnRm56ekF2SkFRc09nTUFnQjNFREVyTkRMenRZSEUweFVpU0l3VUd6QW5GMWNBNUVsOG9XdGc2YUVROTNwRFlqclB1X3o0Unhjb3FhdkM2c2d5eXUtTzhvTmNyc3pzdXhsVGh5dTlXTFYtbVk4N0pWV2sxeHlV?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TECHBYTE.sk",
+    "domain": "techbyte.sk",
+    "url": "https://www.techbyte.sk"
+   },
+   "publishedAt": "2026-11-07T10:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "4130c957573fb02a",
    "title": "Dopravný HOROR na Spiši: Auto VYLETELO z cesty a prevrátilo sa, až ŠTYRIA zranení ľudia",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlRaNXBoRkpXd0ZocmNUaW93ZFZXa1pveUJZSTlkeHM5dERtM3dfU0hfNExEYndHOGpyODZmR2lKVjA4cWp2cnViYnk1ampBMGpiQm02VlZKWS0tRVY0eU5rVVhGbFNVQ2hia1Z3eWFVbGNjLUFrVDlLbmJyVVJvMVJfbXUySm9fb3Y4M0tLZ21DVEE3SV9CVkwyRnAtTFZ0TlRoYkFiYkpVd1VXTTlsNzVWMkY4LVk3Mnl4ZmpJZw?oc=5",
@@ -3455,6 +5339,25 @@
    },
    "publishedAt": "2026-11-07T09:52:00.000Z",
    "firstSeenAt": "2026-11-07T11:30:21.293Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "22fab286aa7a0ed5",
+   "title": "Čo sa deje so Slafkovským? Prečo nevyužíva čo mu Boh nadelil? Jeho súčasná hra ma veľmi znepokojuje, tvrdí uznávaný expert - NHL - Hokej - Športweb",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWNTRkdhNmd2YlZ4dkNiWnFKb3lCZWM2V2VWZ0FROGJ0LVdCQ0N1aGhTQm5idTQ1UUhCS0VlZnF5NTFSRzRsTXcwQzE5djFpZnBDaktKN2tBejZJcUVkV0g3ZXZoZ0ZFNk15am9BYUo1Y3ZfQ3dYSkI3S290QndLQ3Fsek4yR0xKNVJYSmZKUFAtVm01RXgzRFI4T2RXdmJjTXVEOVhaMDVRWEh0Ti1NUHBFdENNSThpcDNYaFFMLXZiZw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Pravda",
+    "domain": "pravda.sk",
+    "url": "https://www.pravda.sk"
+   },
+   "publishedAt": "2026-11-07T09:46:20.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
    "categories": [
     "sport"
    ],
@@ -3843,6 +5746,25 @@
    "via": "rss"
   },
   {
+   "id": "d7eaef27d48301ef",
+   "title": "Volebná dráma na Novom Zélande. Dve hlavné strany delí po sčítaní polovice hlasov veľmi tesný rozdiel",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMXRmSzNnLW5LN3lmdjhXdXVISzI3aXlsREtQMVdLdGt3Z014ZlA0MjN3cWZiTzhmUGRqRUFXNUNTQjBWSjRQZEtmeDh5U056RUUyQ1J4OVFzVWE4R0xoZVdyQ0dNMmZPN2hzc29SaUUxdXBzLXdfeHMwUzZZMmY2U1NyaGctbmc2X1F1czVqeDBPcTBSeTBfdlhfcHBLZXlONnM4LXZienNEYXFONl9HOEdROVdsWENHUmVRanNyS1A4OTZlVGRBMExSZTZadXlxa1pvMW9qWVBrNGttUHc?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T08:59:40.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "58a4ee4459001c9c",
    "title": "Mykluchovi sa vo Fínsku darí: „Dôležité je, že som chytil začiatok“",
    "url": "https://www.teraz.sk/sport/mykluchovi-sa-vo-finsku-dari-dole/1005828-clanok.html",
@@ -4185,6 +6107,25 @@
    "via": "rss"
   },
   {
+   "id": "2e5e2e26b1b64cea",
+   "title": "Po útoku vo Veľkej Lomnici Miestni sú zdesení a boja sa o bezpečnosť. Cítia, že agresivita rastie a štát zlyháva",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2F5cTdqSkl5VWFwR3BDOVRHMWtxVVlkY0lBYWJfUDF2V0ZnWjFNd2FQOVZCazkwdmFyME1fcTdKWkNtUmgxTmk0NjdvdjRzamZoRmh1cHB5ZE53eDNOMC14bEh3WXBDcWJaU2ZtTGtPeUpMaS1MMDV2UUgxRlNKQWZlSmFHVjd5TmZLVTJPSF9rUnRTeVRxMWNuZUtBeWlhQWRyQ3I2bXg2R1A3OUhPbVpR?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Postoj",
+    "domain": "postoj.sk",
+    "url": "https://www.postoj.sk"
+   },
+   "publishedAt": "2026-11-07T08:14:55.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "23c5dbd68e130192",
    "title": "Aj liberálny Washington podporil normálnosť. Voliči odhlasovali zákaz transrodových športovkýň v dievčenských tímoch",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWm9uWmFieUlkcVkzQ2tac3g5MHpmS0JnNGxxaE5aRVRzcGM5UE1LNE9INjZVVVIxdG5Yakt1ZXRkRnBXLUEyLTNJcG8zMTk1WjBEM2VMMnJ5QXdDa2R2MUZkWlRQVjV6YmxzTmdvcFFyOUt5UXo5Zi1TTE40VjVJaVhfZ2I3Si1mT1hKbWNfVmRrUFlrRmpoRVk2dl9xV2w4bDRlVHV1R05GSFZleU9TZjBZU0xwRzhialVZbzZncUFPOEZPSWhRTThKN29jNDQ?oc=5",
@@ -4375,6 +6316,25 @@
    "via": "googlenews"
   },
   {
+   "id": "b3de74d42ccc8589",
+   "title": "Tisíce Slovákov si musia dať pozor na 30-dňovú lehotu. Ak ju nestihnete, pošta vám nevyplatí peniaze",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckE4b2FKdm5tLXhOYjJma3pVdi16OGZ5SmZ2MTdqQVp0em52WHZORFI0WGZ4aWY2X3Y0VUtCNFRIaXhSSGtZN2gxcDFYbEtkT19QNzFDQU1DQUtqM0tYdmNKQjIybEIwWDVOajMwUjMxMFR3Zkc1RGUyQWlCQ2JIZjZMQXFycVZqS2ZOeEJwVzJ3V0ZVZmJJWmZJM2dubENz?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TECHBYTE.sk",
+    "domain": "techbyte.sk",
+    "url": "https://www.techbyte.sk"
+   },
+   "publishedAt": "2026-11-07T08:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.405Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "bfa8f963251d1142",
    "title": "Mrazy už prekonali -10 °C. Dnes v noci príde mráz aj tam, kde doteraz odolávali",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHY0OWNkM3NqZDVVVkF4VGpmUElzd0tmT2Q1WlcyYnltNjN5VWxLb1lkYkl6YTRNeGpDWHdsZS1FbjB4SnF4SVVhcTk5TklPa1BWZFhuX0lpekRQZzRId1prY1gxQkhJV0RrQTM5R2tKd0o4bHlpbjhEdVZtMy1VcUtDNDhBTVdJd1dhNU50WTZSYzdjcXU2RWZDU0FDaWNKYndKQngwOUM?oc=5",
@@ -4464,25 +6424,6 @@
    "firstSeenAt": "2026-11-07T11:30:23.113Z",
    "categories": [
     "politika"
-   ],
-   "image": "",
-   "summary": "",
-   "via": "googlenews"
-  },
-  {
-   "id": "427b06f4d8a17e89",
-   "title": "Digitálna odolnosť už nie je téma pre IT oddelenie. Firmy musia chrániť biznis, dáta aj AI",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRG9JRW9rb1BBekxpU21hYlhMbTQ1Umw4VWw5S2pqWUhhbE4yT0ZtWlRWZlJrSFRZWUxkaHhpb0x2MGtvWkNMTzNGNVJRY25wRUNRUTdvMHZfNVE3MTdkdHF4RlVPSHpQcnhVeFNuMkZHMEJVYjJjd2VtU0xVeWpUWWhUemloSTlWaE1sRkhIbVhINUdqSXdfbzExd1hUbG92OEtRa1k5M1Q3S2hpSm9pX1ZuUE9TbUZ6M1E4dElrVTItbGhS?oc=5",
-   "isGoogleLink": true,
-   "source": {
-    "name": "trend.sk",
-    "domain": "trend.sk",
-    "url": "https://www.trend.sk"
-   },
-   "publishedAt": "2026-11-07T07:39:02.000Z",
-   "firstSeenAt": "2026-11-07T17:25:31.769Z",
-   "categories": [
-    "ekonomika"
    ],
    "image": "",
    "summary": "",
@@ -4658,25 +6599,6 @@
    "image": "",
    "summary": "",
    "via": "googlenews"
-  },
-  {
-   "id": "797658593125acc3",
-   "title": "Nemec bodoval po piatich zápasoch, ale Calgary podľahlo Anaheimu 3:5",
-   "url": "https://www.teraz.sk/sport/nemec-bodoval-po-piatich-zapasoch-ale/1005805-clanok.html",
-   "isGoogleLink": false,
-   "source": {
-    "name": "TERAZ.sk",
-    "domain": "teraz.sk",
-    "url": "https://teraz.sk"
-   },
-   "publishedAt": "2026-11-07T07:05:00.000Z",
-   "firstSeenAt": "2026-11-07T11:30:16.997Z",
-   "categories": [
-    "sport"
-   ],
-   "image": "",
-   "summary": "Nemcov spoluhráč a krajan Martin Pospíšil nebodoval.",
-   "via": "rss"
   },
   {
    "id": "3bc525c6444a4514",
@@ -4868,6 +6790,25 @@
    "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/03/lakers-pacers-basketball211489.jpg",
    "summary": "Doviedol Los Angeles k víťazstvu nad Portlandom, keď mal celkovo na konte až 53 bodov.",
    "via": "rss"
+  },
+  {
+   "id": "360620bcef27d530",
+   "title": "Na tragédiu manžela sa pozerala z tribúny: Čo bude s vdovou po futbalistovi de Miguelovi (†30)?",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTmY3UEtHTjZPMVN3WENkSnVob2ViYzJrbmhVOUVaV1pfQ094enJmdlpzYnFYUG5oSFBhdWZJTjI5Ujc4dWJUZFpIcnUyWENjN2RPcWVTNjZPWDhWZV9xTWVxSU5qNmpJVlV6MjNqeG5ZeC1INTl6X0J4SDRvSC1tRUNCZnplSmV6c2s0clBhdGRMd0ROSUVBTmhpb0g1SXc3RW5IdHl2RmdteXZfTnptOWRXdXpOTEx6MUtocnJ5VlQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport24.sk",
+    "domain": "sport24.pluska.sk",
+    "url": "https://sport24.pluska.sk"
+   },
+   "publishedAt": "2026-11-07T06:40:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "e6d3e3233d761df4",
@@ -5155,6 +7096,25 @@
    "via": "googlenews"
   },
   {
+   "id": "797658593125acc3",
+   "title": "Nemec bodoval po piatich zápasoch, ale Calgary podľahlo Anaheimu 3:5",
+   "url": "https://www.teraz.sk/sport/nemec-bodoval-po-piatich-zapasoch-ale/1005805-clanok.html",
+   "isGoogleLink": false,
+   "source": {
+    "name": "TERAZ.sk",
+    "domain": "teraz.sk",
+    "url": "https://teraz.sk"
+   },
+   "publishedAt": "2026-11-07T05:45:00.000Z",
+   "firstSeenAt": "2026-11-07T11:30:16.997Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "Nemcov spoluhráč a krajan Martin Pospíšil nebodoval.",
+   "via": "rss"
+  },
+  {
    "id": "32a8ded65a05a3e9",
    "title": "Švihák z pobrežia úraduje! Premiérove zahraničné cesty ovládli internet (týždeň slovenskej politiky v meme)",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYjVlcFhtZnNzaE53cGVXSkl2VXNnTTRtUGpGc3JPLXBuRGpYVWxGWDBLalJVaUllaWtxeDZ5TFBMdGxhV2RuU0JTUWV5QkhTbUZVQ0lrWWEtWlhCMW03OGJoZnU5OEhLMHFyVnVxOHJBSUFTRC1fY3BBWUJyRlhseG85cnhReTZsMUU3S0xhUVlhOUM4UGxXX01EQnl1WVRzNl9rbjRaaXJxakluWlItVEZ4LWdGdzNhY09oV3M4ZVR1d3JVb2Zrck4tcjRJVzJRX3E1R0FLdG9XZE1KMlE?oc=5",
@@ -5185,6 +7145,25 @@
    },
    "publishedAt": "2026-11-07T05:31:00.000Z",
    "firstSeenAt": "2026-11-07T11:30:20.737Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "285747463e86be42",
+   "title": "Gretzky žasne nad McDavidom! Hviezda Edmontonu sa približuje k jeho historickému rekordu",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0tNWWtidzVjbXp5c1ZzVGVzbFJMdlNWaFFsTXMxa3QwQWJQQlZya0FmdmdScHJBdUU0Z01keW9WUnJLdHcwVXBuamZVQXhpQ2llQ1BMckM3WE5jbmRHb1ZLNmhVN0RwVnVsX1pDU2VEWVIyZnhpTGowd2FkM2w4SEE3cElxWjRubDBzT2FIWXM1NkpJb3k1dTFJUVBPbUxxeFREM3JQQi14Z2pnQy1wd0U1ZWg3U2JWTXVISXUtMzM?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "SlovakNHL",
+    "domain": "slovaknhl.sk",
+    "url": "https://www.slovaknhl.sk"
+   },
+   "publishedAt": "2026-11-07T05:27:34.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
    "categories": [
     "sport"
    ],
@@ -5345,6 +7324,25 @@
    "via": "googlenews"
   },
   {
+   "id": "fd344d76a2334cd6",
+   "title": "Zelenskyj pozval Fica na Ukrajinu, navrhol dva termíny. Premiér ale dáva prednosť stretnutiu na území EÚ",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbHJUQm5sWE5NX29heU1oTmtlaENtQUpTRUdrNkNOcTc2SnBaYTNIWDJoelNNWTktazZhWkhxMFNVZGltYnN0MXRCUEQtNkp6RHFqMHNIWFF2djkwVmw1RldZcmFIUDJuaHdpTUpYN0IyT294N2VZd3kwbmZ2bkZWOUswT3gxWmNqYjl2anhkMGhoYW1EQXRKVWp1WFpQR1g3YWVMZGItM2dIbkRPZmREeUV3NDMyZ0w1ajdGTGNEWnZtTjZsOHNxREhXc0VVYkhZU2RKa2hpVnZhekxwdy1TU0hB?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-07T03:11:23.000Z",
+   "firstSeenAt": "2026-11-07T21:01:10.236Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "d143f95e472a265d",
    "title": "ECB by do konca roka mala zvýšiť sadzby, potom si dá pauzu",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcjlFVmltNzVWdDVMd0F4VzFTRWg4ZkotV1NHNFJNcFhEV05tRWpDNHVTNEhsU00tbzFqNDlGVWNrLXNPNUFjUkFqWG9WOXNQNVpkdkVSRDNpanhWZFNVNUd0SUlEdU9qWjZDQ05qSlZ0VGtsT2M1RF9sTjgzamlOVkRmc0Z4UGU4aFl3djRmSEI0QXM?oc=5",
@@ -5440,6 +7438,25 @@
    "via": "googlenews"
   },
   {
+   "id": "b34c55fe725bc014",
+   "title": "Wolff skritizoval nespokojných jazdcov MotoGP: Čo oni vedia o geopolitike?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3NTbTZxbW5vcnBnMmt6MUE0dFRHVlIzeU1GdGtHOHNDeVNoelE5Yl80RUExUlBQQlM1TjRvZkN4VGpKV2Zoa3hRcG1pdkxjTTNwMU0ydmtzUTVhazFvdVJieDRwVVVuaWVRRl9RNVBaX3lDbU9SdGJhdHpjLWhNbVAwY082bHRJdTFBTFB2RVVHc2FUY3dEQXMycmhab040Z1lvOW1PYTlyUQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "F1online",
+    "domain": "f1online.sk",
+    "url": "https://f1online.sk"
+   },
+   "publishedAt": "2026-11-07T01:00:45.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "fdc449ba8c1a8c7b",
    "title": "Premiér Fico po rokovaní s Ukrajinou: Doma ostré slová, u susedov štedré sľuby! Na čom sa dohodol?",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlRwQ3hTRjF0VlZWTnBoaS01dlU2WlJXbnBHVTREWnREMEdmcFBhV0tIR180WWR2UC04eml6Q29lWkcyV0FYbW5pX3gzWDZlb0g0a1hoWEExVUpNLU1BRXN5YjZ1NDhsTmNHZmc1c1MwM3VmVEhWSWNOVk94cGFxVVE2ZnRtd2tMdmowM3k4TUhDVVlEd2xPMGdXbGlCbE5UamEtNnJSSHVGbzd6cG1LZnV4WVBBZDlNVmdxXw?oc=5",
@@ -5451,6 +7468,25 @@
    },
    "publishedAt": "2026-11-07T01:00:00.000Z",
    "firstSeenAt": "2026-11-07T11:30:24.141Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "4b7427c9ba13bdc5",
+   "title": "Maďarsko má nového prezidenta. Parlament zvolil niekdajšieho sudcu",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFdHdk1FVjZvU05ZLVpGVXJ1OXhrcWd0eGo4MDRkejcteWxjT3FvUWItbXgyX0w2TlpSSHFJUlFZX2tEcnhxeEN3MXAxVzZadWZ0U3JscWdXTzZsTmhBVTlLYjhCVHdBV051T0d6TU5sZl9tb3RwUGNmWm9wempXZzVIUm5GaTFIcUpPQUd2amxBRlFNOHo3ag?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "eProfit",
+    "domain": "trend.sk",
+    "url": "https://www.trend.sk"
+   },
+   "publishedAt": "2026-11-07T00:53:43.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.754Z",
    "categories": [
     "politika"
    ],
@@ -5510,6 +7546,25 @@
    "firstSeenAt": "2026-11-07T04:39:50.821Z",
    "categories": [
     "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "d0dec58d2be12c7f",
+   "title": "Na rybách - Petrov zdar: 07. 11. 2026",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPcHR4Z2l4OHdJZ2VjbE4zVVBSdmlqNjUwQUk0V0k1TXNOSmZXOWs2elJLMWFMYk9kSFpSek1IanZYM1BKRnZFYTVVZ193ZGRPLWM2YWk4NTN1V0Zod1E?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "STVR",
+    "domain": "stvr.sk",
+    "url": "https://www.stvr.sk"
+   },
+   "publishedAt": "2026-11-07T00:19:53.000Z",
+   "firstSeenAt": "2026-11-07T21:01:10.690Z",
+   "categories": [
+    "ryba"
    ],
    "image": "",
    "summary": "",
@@ -5700,6 +7755,44 @@
    "firstSeenAt": "2026-11-07T11:30:20.738Z",
    "categories": [
     "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "427b06f4d8a17e89",
+   "title": "Digitálna odolnosť už nie je téma pre IT oddelenie. Firmy musia chrániť biznis, dáta aj AI",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRG9JRW9rb1BBekxpU21hYlhMbTQ1Umw4VWw5S2pqWUhhbE4yT0ZtWlRWZlJrSFRZWUxkaHhpb0x2MGtvWkNMTzNGNVJRY25wRUNRUTdvMHZfNVE3MTdkdHF4RlVPSHpQcnhVeFNuMkZHMEJVYjJjd2VtU0xVeWpUWWhUemloSTlWaE1sRkhIbVhINUdqSXdfbzExd1hUbG92OEtRa1k5M1Q3S2hpSm9pX1ZuUE9TbUZ6M1E4dElrVTItbGhS?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "trend.sk",
+    "domain": "trend.sk",
+    "url": "https://www.trend.sk"
+   },
+   "publishedAt": "2026-11-06T22:54:01.000Z",
+   "firstSeenAt": "2026-11-07T17:25:31.769Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "7b9227854e691e2b",
+   "title": "Chce byť „kontinentom umelej inteligencie“. Brusel predstavil nový balík pre väčšiu digitálnu nezávislosť",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPczh5c0I2b1ZOQi04cjlkSE5KeExzRzExQVkxbWkyQkZoWmdqcmZ3dFNuY2NyMEpwRjdOOXVPLWJTdi1CSEhSakhWOUVtWmpxTUNpeWlqR29oS0tjcWw1QVU0bzFsOV96bFNkNGVEa2s2al9JejRsbFFqbUdNTnljUHRFcFE4bnFKLUg5N0tSRTdST3FQWnNnTUJxVmlxbElNZnlYS3NQUkxYd3EzUGVjLU53bVBFa1VtR25KTDZCaEpIbEYzZG9fREp4Z0lPbE1Vd3V0R3QxQkp4NFFIaV9JLU1aZw?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-06T22:40:35.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -6352,6 +8445,25 @@
    "via": "googlenews"
   },
   {
+   "id": "4a0f34d176da1ccd",
+   "title": "Nemecký pohár v hokeji 2026",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QTWlXR0FLeTBiekw2el9FekNXdF9yY3I5QXBhSEx1YkhobzN5ZGlDanVMajNJM0RNdDVrOXV2UHZzT2NUd0cxVFE5SWdLdHk4STVqbjBqTWxKc3pHZ2JPdGViVXhZQ0U1?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Mediálne",
+    "domain": "medialne.trend.sk",
+    "url": "https://medialne.trend.sk"
+   },
+   "publishedAt": "2026-11-06T20:39:23.000Z",
+   "firstSeenAt": "2026-11-07T21:01:01.179Z",
+   "categories": [
+    "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "b7a86db15d1588be",
    "title": "The Coca-Cola Company",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SdGMzT2ZMTFZScHBQSElaX1VWZ0lBVkp6SHpkemFfcG5HS055MVRTcm14Mmtmek5FZDM0bWgzTmNGMUNuNnhWd3hfdzBsTHFpOEJPQldWRVdiV1VVLXRTcg?oc=5",
@@ -6631,6 +8743,25 @@
    "firstSeenAt": "2026-11-07T04:39:44.329Z",
    "categories": [
     "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "2465697a15115379",
+   "title": "Smútočné oznámenie, Radics János (†31)",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iT3JyN3NKNzFheEcwemZHT0R2Q2ZlWUZraXZOU3p3SDBrejZ5TzUxSzBiYnpoelY4VW4tYXVYaHF2d05FWFVWZjdldXdTUC03amdMMGZGQVFfY0V6SWhhbFRsa0F1QV83VDZhNUFxbjB2YnBmRERpM1BmQVg?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Rimava.sk",
+    "domain": "rimava.sk",
+    "url": "https://www.rimava.sk"
+   },
+   "publishedAt": "2026-11-06T20:35:10.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
    ],
    "image": "",
    "summary": "",
@@ -8882,6 +11013,25 @@
    "via": "googlenews"
   },
   {
+   "id": "7a1af524a089ae6b",
+   "title": "KOMENTÁR Pokrytectvo zväzových duší. Kováčikov parný valec prešiel opäť ako nič cez Futbalové fórum",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDRibWw5bXRoMlZ2LThlazluR3ZWMUd5cXZ3eFh1SmZvczZZdV8zMmU5Y1RWajRVSXFnemIyUDQ0cktsSEhRUG9mbnFNUW02TmtVWnpUdE53OThnRS0weGEyYmZFX3pqcmFtbThvVkFvMER5ZndvcDl0bnpUQm9lRHQ2MDVMSW1OdFNPcFk4SEdNWkdBd0NMemhydUlURVFEVWcwQjJTNA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-06T16:45:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.189Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "b35137664761b449",
    "title": "Slovákov čaká súper z iného rangu. Sú najkvalitnejší v Európe, vraví asistent trénera",
    "url": "https://sportnet.sme.sk/spravy/slovensko-ukrajina-preview-kvalifikacia-ms-vo-futsale-2028/",
@@ -9146,6 +11296,25 @@
    "image": "",
    "summary": "Novembrová hodnota indexu spotrebiteľskej nálady výrazne prekonala očakávania analytikov, ktorí odhadovali, že bude stagnovať na októbrovej úrovni.",
    "via": "rss"
+  },
+  {
+   "id": "d7f422773b25d30c",
+   "title": "VIDEO Zväz priznal fatálnu chybu: Hráč Dukly dostal červenú kartu neoprávnene, stopku mu zrušili!",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2FWa0hhc3A5SV9UX1RxemVES0U2Q0pZZ2c5Mk5fSTFncHIxNWFkT2xvQW9kV3U0RGZHczZ2TGlkUERwMTFjYV9ZRzYwTXlISkJqZXZtSGFzQkpyWVFVd25yQ3B5TmgyVHIzbThFNUVLMWltNk5OWXZJUGFjd3I1SE1NNm9rMmJZSDJjeU5PRmxxaTBTWjNPbVZHUFh3bkxUdTg0S2FoUjNFVVVxV1BlSU5hb2k?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-06T16:15:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:07.189Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
   },
   {
    "id": "d34d22df0ed7bd40",
@@ -9701,6 +11870,25 @@
    "via": "googlenews"
   },
   {
+   "id": "b490eb07052cdc55",
+   "title": "ROZHOVOR Konferenciu neopustil a ako jediný vyjadril nesúhlas: Všetci vedia, že SFZ je v klinickej smrti",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzZrTDVfMXIzTDh0TkdKZzAyc05Vd19uUUJFUE4wSG1WTE9FdEZCclI2NHZRNWJ2aVBsYTlWMVpiS3J5OTVUZ25iOFhxVnppNTJiNFczSDhVQWttSkhpSVVvbmhDX0NKQ3FhTXlPUi1KQWZabkJ2VW13STFQd3NOVzNzb3pEc1Y2ZkpDU1o2b1FQdU1qMFZhcFhWTVU4ekhSU2c4RFcyUQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Šport.sk",
+    "domain": "sport.aktuality.sk",
+    "url": "https://sport.aktuality.sk"
+   },
+   "publishedAt": "2026-11-06T15:20:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "dedc7c19fca7e71e",
    "title": "Lekcia, ktorá sa Vingegaardovi vracia: Z Pogačara sa po prehrách stal takmer neporaziteľný súper",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaEZXcnFVX0pxckx1N1ZFTURjbGg2LVphQ2lZTkhQR2pPMHRmZ0FqVlZpaDdVT3FQVVB1OGZDN05MMVd5LVhFR2trbzdrenBGV0lGMDBTc3NPazRnN28yLUV2MzBCcHJwMVhaUG5SYnYtdWVuaGNTaDZqMVlmYktfZUZ6dnlSdjJNM0doWTk0aFV3ekFrRkpsUnp6bUlkclV1UFJEeUxKTm8wdHZnSjBReG9tOFVZWXQwSkhHR2psMXo?oc=5",
@@ -10001,6 +12189,25 @@
    "firstSeenAt": "2026-11-07T04:39:45.369Z",
    "categories": [
     "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "86a61b8f66e99a01",
+   "title": "#Bärbel Basová",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kdUlNLXZUdTRGOTVrdjE5ck1jSGl2blMtM3VzNGNxU0hzXzJxa0xyM3ZjWDl1S0xKYUNTNGtTSXJNam9aVTBHVU9sV182NDdOMF90RU1DUHQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-06T15:00:04.000Z",
+   "firstSeenAt": "2026-11-07T21:01:09.269Z",
+   "categories": [
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -11587,6 +13794,25 @@
    "via": "googlenews"
   },
   {
+   "id": "a75cfb9787ff055b",
+   "title": "Sýkora potešil: Odhalil rozsah zranenia aj možný termín návratu",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0o5QXp3RHRUbC1CaW5XTUxYbi1EVHJPVGpLalNIQ0lyUHJqVHpHNDFFRWliZm4yd2JGNTVhNWJfdG9sVldaVjh6RXR6UWFpQWZsQjlwSTFkOFU0RGpoc0xtdTB3dUstclhuY2ZpSnVWVXphZDNFclQ4LXp5dFlhQUoySXdWZnNUSFQ4a2xhU2VWY1ZfNUZFYmZLN2JhYlU?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "SlovakNHL",
+    "domain": "slovaknhl.sk",
+    "url": "https://www.slovaknhl.sk"
+   },
+   "publishedAt": "2026-11-06T13:33:27.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "16ef0edcf8c2a573",
    "title": "PS chce niektorých úradníkov nahradiť umelou inteligenciou",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1U3dFF5TnJTSl9Nbl91UUZ3cEJiQW93N3NPaTM4eXl3VUs3LXFSXzFwaHlSSk44T3FySkxzai1NaWw4MFJTWndRU1dmdG1teXFKTllHVC1oc1Awa0FLYlRxbjRHX2hJVmtVeXhrNFc2VC1wbWxrck5FNHQ3MDZDUjgwbEhOSkxjRmRmUGdGaEZhcndjekVMZFY2R050TWRFVF9hUEFodlF5dS1RSnVodWRHZHlhSkw5eEY5NWU3Rm1LOG1EZERzOG5URQ?oc=5",
@@ -11866,6 +14092,25 @@
    "firstSeenAt": "2026-11-06T18:53:32.292Z",
    "categories": [
     "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "068451937e1c3baa",
+   "title": "Vieme prví: Vzdá sa Migaľ ministerského kresla? Takto sa rozhodol",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2N5Ymo4NU04OUh6TWgwdUtGRnhGMXdQZ0RXRk5jV2hxekJ1bWthSzZUd2RzZEtFbFY0WE9lMFUyTkdkdHJfOEdDRmJoek9HcnJubGFoREF5UUh5Rzk4MGV2eEdJSG40bm9DanU5dWxwczhKeWx5d1AwenNRdEhCNTl1MlJpNGx1WHo1VnhMTG5BTmM2bHBLVA?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Plus JEDEN DEŇ",
+    "domain": "www1.pluska.sk",
+    "url": "https://www1.pluska.sk"
+   },
+   "publishedAt": "2026-11-06T13:08:48.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.648Z",
+   "categories": [
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -14992,6 +17237,25 @@
    "via": "googlenews"
   },
   {
+   "id": "09c6800d75fa1950",
+   "title": "Príde Martin na bielom koni? Toto je predpoveď sneženia a teplôt + MAPY",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGtjN1c1U0RuSG1Pb05ZMnE0NTlmZXhLV2JFOXhaWjVOOXM0bjA1VVVvMHNTWEJnU2hjXzloaFRNLXpsSEYyWmtpN1J0VldfVTRaV1AxZ2xYRUlUVE8wTUF1VjRLbGRiQVZCT1RDZVRPYldmcnZmcC0xbXN2NDZJa2VIUkdwMlpPdG5MTGRQM2F4eEdhTTM1dzIwNHNLNU0?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "iMeteo.sk",
+    "domain": "imeteo.sk",
+    "url": "https://www.imeteo.sk"
+   },
+   "publishedAt": "2026-11-06T10:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:08.649Z",
+   "categories": [
+    "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
    "id": "768546ff73db2515",
    "title": "Saková v Číne predstavila investičné príležitosti, slovenské firmy hľadali nových partnerov",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWGdUMndFWU9nQVptSGpNWEZnSVN5SUIwZWZvOGNfSktLb0dLWnVkNExlZXRJbGRDc1EtMlhWeDYtZnpVdnowbkR3UTVFYnJUMGd4UEp0cFRtOVdXdGdNR0hlRUROMGVfMkxmRFJudDhIdEFfVWNtV2x0ZTd1aTR1RUlwdkVkTDUzX0pQUzc5VW1RWkFNbXJIdU93X2JyVzdyYXRybXdmYjFlYXFyNWVXWVNBbDhlV2lHMWlVM1dwZWZpTlZDOWM0ekROS05jc0t6Q1E?oc=5",
@@ -16034,7 +18298,8 @@
    "publishedAt": "2026-11-06T09:04:00.000Z",
    "firstSeenAt": "2026-11-06T11:48:37.372Z",
    "categories": [
-    "ekonomika"
+    "ekonomika",
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -17178,6 +19443,44 @@
    ],
    "image": "",
    "summary": "Iniciatívu Žilinka odôvodnil kontextom odborno-politickej diskusie o vhodnom nastavení vekovej hranice trestnej zodpovednosti.",
+   "via": "rss"
+  },
+  {
+   "id": "4cdfb9df1e682772",
+   "title": "VIDEO Dvorský gólom zariadil predĺženie, viacbodový Černák a geniálna asistencia Slafkovského",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS3llVHNOdlNnMmZMRjhPZEhzN0Z2WlZwYkIxYng1MzVVcndQemhDYWQ0elExU1c2VjVuZE9NTVBmWHVabnZGa0NIODlDd0lLVjVueC0wSndpSmdOZFJPOURnd3I3ZERxMFBwcVBSMk5VMUpQd3IwdkJMdzJ0QXhaei1NRU9VeV91clE3dkhibmtETjJPbnF3d1o4czYzc2hHUUNSQ0UwdXN2d2dvNmRSVlhGeFhEYUJwa19pZUxvSnRqVXRrWkE?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Športky.sk",
+    "domain": "sportky.zoznam.sk",
+    "url": "https://sportky.zoznam.sk"
+   },
+   "publishedAt": "2026-11-06T08:00:05.000Z",
+   "firstSeenAt": "2026-11-07T21:01:06.648Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "252d31e12756c16d",
+   "title": "Zdravotná situácia ovplyvnila zostavu. Ako zložil Országh prvú útočnú formáciu proti Rakúsku?",
+   "url": "https://sportnet.sme.sk/spravy/hokej-slovensko-rakusko-zostavy-nemecky-pohar-2026/",
+   "isGoogleLink": false,
+   "source": {
+    "name": "SME Šport",
+    "domain": "sportnet.sme.sk",
+    "url": "https://sportnet.sme.sk"
+   },
+   "publishedAt": "2026-11-06T08:00:00.000Z",
+   "firstSeenAt": "2026-11-07T17:25:30.349Z",
+   "categories": [
+    "sport"
+   ],
+   "image": "https://mediamanager.ws/images/1000x0/pages/s/sportnet.sme.sk/2026/11/20261106-hokej-nemecky-pohar-trening-3256051.jpg",
+   "summary": "Do hry zasiahne sedem obrancov a trinásť útočníkov.",
    "via": "rss"
   },
   {
@@ -19306,6 +21609,25 @@
    "firstSeenAt": "2026-11-06T18:53:33.228Z",
    "categories": [
     "sport"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "4352bfe6374afd50",
+   "title": "Prehľad správ: Premiér Fico prináša na Ukrajinu sľuby",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGM5cXBwMXRMYTlvYmZfZ1pQUmdXM2dzTGZseU5nQ2NCbHV4ZWg1d0NpRGdRdUhkTTJibGV0UDRJa3c3ZVVQSHlveklDR0o1RVBhalk4cWM2UGxuNWpabll4MUFMVTRCaHdSRlEyMEVTck5DcGZqSjRkZnA3aFFkdkpNV2Ytb3llQUZIZjNfcGNVeXdPMWc?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "post.sme.sk",
+    "domain": "post.sme.sk",
+    "url": "https://post.sme.sk"
+   },
+   "publishedAt": "2026-11-05T22:26:55.000Z",
+   "firstSeenAt": "2026-11-07T21:01:10.236Z",
+   "categories": [
+    "politika"
    ],
    "image": "",
    "summary": "",
@@ -28149,6 +30471,25 @@
    "firstSeenAt": "2026-11-05T17:32:04.803Z",
    "categories": [
     "politika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "4d11198c16e2f57c",
+   "title": "Smrtiaci vírus „opúšťa“ výletnú loď. Pred rokom naň zomrela žena známeho herca, manželov našli mŕtvych v ich dome",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOclN4azBlSDhIeTBid1B5NUhJbVI3WUlCa2pVdHM2ZmpmNDNSb1VfbGNYXzZiSHR3cG8zY0I0UmRJX01xMVJoUVN2ZktodTltR3VleGlfOHRSV2xicXdNSVV1UFJLZ21EUl9DenVIMlRDLVI3ZFZhOHFjSW1QVk55ZThFRVZSOWktVWVDTUhELTlMOHotRVp6cDZpUjIteHdZQ2NmZnFzZUgxenNfc21hUU5NZWZLZkhFb0ZsMi0zcWp6azhjQVpnUy1ybVNkU3A2Wm9ROGo3bE9yVF9ReTNRMHZGekRXMl9YRkw0?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "TA3",
+    "domain": "ta3.com",
+    "url": "https://www.ta3.com"
+   },
+   "publishedAt": "2026-11-05T11:17:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:02.302Z",
+   "categories": [
+    "marketing"
    ],
    "image": "",
    "summary": "",
@@ -55163,6 +57504,25 @@
    },
    "publishedAt": "2026-11-03T13:10:00.000Z",
    "firstSeenAt": "2026-11-03T20:24:59.236Z",
+   "categories": [
+    "ekonomika"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "4c82aa230addc95e",
+   "title": "Európske auto roka 2027 má finalistov. Zloženie modelov prepisuje históriu",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVlESThYQ2ZxUzUzdVZ5UWthdll5THQwNE51R25LcS1TcUl3TVJrdllzTENaRjYxM3JSdFU2M0wxaDFweHFxMDhsYTRRMHI5UmU3QUQ3M0hocGJ6dHRNVFgtMDYyUkpyQ0x2TzN2aGFpM18wZzVjV0xuanFFVmhPbFlBY1ZXQ2YyUUc1dHFSVVNhNTBDQjNLV29oTmFmT3FuRllweHJ6SFNtaW94bnUwWGlrUHY?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "HNonline",
+    "domain": "hnonline.sk",
+    "url": "https://hnonline.sk"
+   },
+   "publishedAt": "2026-11-03T13:10:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:04.405Z",
    "categories": [
     "ekonomika"
    ],
@@ -82582,25 +84942,6 @@
    "via": "googlenews"
   },
   {
-   "id": "862cf8cd37a5db95",
-   "title": "Vraždy v dolinách s novým rekordom. Neuveriteľný počet divákov",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2RpS19hU01GU2lGVThsZHpxeEJkc3g5VjN6aWRrQVpTTTZFa3BUM0JaQzNaMmpfMFl3SGdGMjlMNFZ5YUZtTFlnMUprYlg2anY3azVPN051UW5FMUgyN1FGbjlQMU5pcEhUa2g1YzZXdmkyalM4Wmw4YkxGWFdXUms5VVdkbmpPajRVOEhOYksyUmw1Ujd6SHlqRnl4QQ?oc=5",
-   "isGoogleLink": true,
-   "source": {
-    "name": "Mediálne",
-    "domain": "medialne.trend.sk",
-    "url": "https://medialne.trend.sk"
-   },
-   "publishedAt": "2026-10-27T10:43:33.000Z",
-   "firstSeenAt": "2026-11-03T11:15:53.352Z",
-   "categories": [
-    "marketing"
-   ],
-   "image": "",
-   "summary": "",
-   "via": "googlenews"
-  },
-  {
    "id": "7f10dcbbae8f5b1d",
    "title": "EÚ má veľký problém s ochranou morí: Do roku 2030 chce chrániť 30 percent vôd, realita je však úplne inde",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHFuN1VSR2pnd2F3TnNNUTFNY0tpV0hyWTNXMlpYbE0zdEpzR0FFb3FBUWJsSU90aV9CclgxMWtMa0tIb1FSTl91ZTRibkpNcURDYjdXS0tSM2ZGZkFEY0ZkTFRKQk5OaVZnVXZSTUpBNmdPbjZyQ1F0QVZ3UlphQ1JTTlk1bGFIa3VubmlHb3FoUXFfejBFVHVHUk1SbUJ5SUM4THVpQzFndkZsaG5CLTAtaFg2SUc1bTQ4WGlEd3Jobk9HNlk0N2Y3TQ?oc=5",
@@ -82671,6 +85012,25 @@
    "firstSeenAt": "2026-11-03T11:16:05.144Z",
    "categories": [
     "ryba"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "862cf8cd37a5db95",
+   "title": "Vraždy v dolinách s novým rekordom. Neuveriteľný počet divákov",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2RpS19hU01GU2lGVThsZHpxeEJkc3g5VjN6aWRrQVpTTTZFa3BUM0JaQzNaMmpfMFl3SGdGMjlMNFZ5YUZtTFlnMUprYlg2anY3azVPN051UW5FMUgyN1FGbjlQMU5pcEhUa2g1YzZXdmkyalM4Wmw4YkxGWFdXUms5VVdkbmpPajRVOEhOYksyUmw1Ujd6SHlqRnl4QQ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Mediálne",
+    "domain": "medialne.trend.sk",
+    "url": "https://medialne.trend.sk"
+   },
+   "publishedAt": "2026-10-27T07:00:00.000Z",
+   "firstSeenAt": "2026-11-03T11:15:53.352Z",
+   "categories": [
+    "marketing"
    ],
    "image": "",
    "summary": "",
@@ -82764,6 +85124,44 @@
    },
    "publishedAt": "2026-10-27T07:00:00.000Z",
    "firstSeenAt": "2026-11-06T11:48:44.069Z",
+   "categories": [
+    "ryba"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "e06bd4358a5a1b44",
+   "title": "STVR mení štvrtkový program. Vytiahne dve novinky: Večerná šou s politikmi, po nej krimi seriál",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWFjU1JJWjZCU3Y5akl1Y1RLVGo4UExSSFpSbTJGU21HUUM3ZGg0alpTWHNWbEVmdGhTUFdaaE03aG1vRm9XRTUxU2pJRzNXT1ZkU0NlblNtOEZsVmVBcGtwTEhNQnBvM0lNVnN1UnpyWXNBZWF2bVJMNE5KNm5kZG8tQ0UzZzdzdTI1TlFycF83QmgwaXlneGUzLTNLRVJFZFpNRnZTQnNjWmEtc1p0NnBuSkRMQkRiYW1sckNkQlhZVU9UalFZ?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "Mediálne",
+    "domain": "medialne.trend.sk",
+    "url": "https://medialne.trend.sk"
+   },
+   "publishedAt": "2026-10-27T07:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:01.178Z",
+   "categories": [
+    "marketing"
+   ],
+   "image": "",
+   "summary": "",
+   "via": "googlenews"
+  },
+  {
+   "id": "e6c97240edabea48",
+   "title": "Slovensko zatiaľ dosiahlo svoje, o stropovaní agrodotácií rozhodnú lídri EÚ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmV2dVh5RWZSNnllNGJmVjNHYWxrckNwdGUtVFpaYUNvdmZzck03V2ttZ3Z4dGxaX09LM3N4SDUtdkhVWTRINC1LTTQ5MFEyd3pfUDNJanBWLUV4TmRuYVVQaGloNHBCS240d0Y3Q0dBYThfTjRWTnVkNXQ0U2VscjN2TmtGVmt5Q2FkdFZRVWZLbzdfM0Nwam42Yl9MV0ZXU3lkckozcGZwQ1hMNDNWSlRraGZQcmM?oc=5",
+   "isGoogleLink": true,
+   "source": {
+    "name": "euBrief",
+    "domain": "eubrief.sme.sk",
+    "url": "https://eubrief.sme.sk"
+   },
+   "publishedAt": "2026-10-27T07:00:00.000Z",
+   "firstSeenAt": "2026-11-07T21:01:10.690Z",
    "categories": [
     "ryba"
    ],
@@ -83372,25 +85770,6 @@
    },
    "publishedAt": "2026-10-25T07:00:00.000Z",
    "firstSeenAt": "2026-11-05T09:21:10.864Z",
-   "categories": [
-    "ryba"
-   ],
-   "image": "",
-   "summary": "",
-   "via": "googlenews"
-  },
-  {
-   "id": "7ec2bd3ad4b787b1",
-   "title": "Brožová zúrila: To, čo jej urobili rybári, ju poriadne vytočilo! Potom prišlo niečo nečakané FOTO",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa2d1YURRNXdUTzZEN2VjeVhhdzVoMGdVVHl5VVFjTnZIbU9VUll6bXFjelZSMzgtVWxZMFdBaF9uT09jS0Z2WmtpOENGZS1pMjg2c09rdERkSG9xV1dfVFYtbXlEUTlNOXZaQmdGbzF2akdZZWV6ejBfcVhqMjlBV015aFI3UG9lbjBMeFhFR1QzWnpfOVA2cG1GRlpfeFFiZXEwX1o5SWh6OTJDVVVWVTZ2cUlvZ0tKYkVJNFRXXzk5dlNmcXpmQ29ZSQ?oc=5",
-   "isGoogleLink": true,
-   "source": {
-    "name": "Život",
-    "domain": "zivot.pluska.sk",
-    "url": "https://zivot.pluska.sk"
-   },
-   "publishedAt": "2026-10-24T18:34:10.000Z",
-   "firstSeenAt": "2026-11-07T17:25:37.152Z",
    "categories": [
     "ryba"
    ],
